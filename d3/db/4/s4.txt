@@ -1,0 +1,16 @@
+<?php
+$cardnum="S4";
+$name="Galklife Dragon";
+$type="creature";
+$power=6000;
+$civ="Fire";
+$cost=7;
+$race="Armored Dragon";
+$effect=array(
+	"When you put this creature into the battle zone, destroy all light creatures that have power 4000 or less.",
+	"Double breaker <I>(This creature breaks two shields.)</I>"
+);
+$flavtext="\"Let the skies burn.\"";
+$rarity="superrare";
+$rating=8;
+?>

@@ -1,0 +1,28 @@
+<?php
+$name="Arcanine";
+$type="pkmn";
+$hp=100;
+$lv=45;
+$stage=array("num"=>"1","set"=>"1","card"=>"28","name"=>"Growlithe");
+$element="fire";
+$weak="water";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("fire","fire","colorless"),
+		"name"=>"Flamethrower",
+		"damage"=>"50",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy attached to Arcanine in order to use this attack."
+	),
+	array(
+		"cost"=>array("fire","fire","colorless","colorless"),
+		"name"=>"Take Down",
+		"damage"=>"80",
+		"text"=>"Arcanine does 30 damage to itself."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="3.00";
+$rating=8;
+?>

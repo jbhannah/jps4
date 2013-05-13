@@ -1,0 +1,9 @@
+<?php
+$name="Potion";
+$type="trainer";
+$text="Remove up to 2 damage counters from 1 of your Pok&eacute;mon.";
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=7;
+?>

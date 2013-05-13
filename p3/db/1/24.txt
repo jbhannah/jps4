@@ -1,0 +1,27 @@
+<?php
+$name="Charmeleon";
+$type="pkmn";
+$hp=80;
+$lv=32;
+$stage=array("num"=>"1","set"=>"1","card"=>"46","name"=>"Charmander");
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless","colorless"),
+		"name"=>"Slash",
+		"damage"=>"30"
+	),
+	array(
+		"cost"=>array("fire","fire","colorless"),
+		"name"=>"Flamethrower",
+		"damage"=>"50",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy attached to Charmeleon in order to use this attack."
+	)
+);
+$rarity="uncommon";
+$price="2.00";
+$firstedn="4.00";
+$rating=7;
+?>

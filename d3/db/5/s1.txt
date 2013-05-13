@@ -1,0 +1,17 @@
+<?php
+$cardnum="S1";
+$name="Syrius, Firmament Elemental";
+$type="creature";
+$power=12000;
+$civ="Light";
+$cost=11;
+$race="Angel Command";
+$blocker=1;
+$effect=array(
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="\"The Megapocalypse is over. But the damage has just begun.\"";
+$other="Scan from January 2005 D-MAX Survivors of the Megapocalypse poster.";
+$rarity="superrare";
+$rating=10;
+?>

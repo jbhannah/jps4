@@ -1,0 +1,9 @@
+Usually it does not matter in what order you do things after each player's turn, but if things get complicated, follow these steps in order.
+<OL type="a">
+<LI>Place damage counters on any Poisoned Pok&eacute;mon.<P>
+<LI>Flip a coin to see if Pok&eacute;mon with Burn markers get damage counters placed on them.<P>
+<LI>Flip a coin to see if Asleep Pok&eacute;mon recover, and have eligible Paralyzed Pok&eacute;mon recover.
+</OL>
+If a Pok&eacute;mon has a Pok&eacute;mon Tool card attached to it and that card does something between turns, that card can be used at any time between turns that the person who played the Pok&eacute;mon wants.
+<P>
+If your Pok&eacute;mon and your opponent's Pok&eacute;mon are Knocked Out at the same time between turns or during an attack, the player who is about to take a turn replaces his or her Pok&eacute;mon first (and chooses his or her Prize card first as well).

@@ -1,0 +1,12 @@
+<?php
+$name="Skullsweeper Q";
+$type="creature";
+$power=1000;
+$civ="Darkness";
+$cost=4;
+$race="Brain Jacker";
+$survivor="Whenever this creature attacks, your opponent chooses and discards a card from his hand.";
+$flavtext="They don't like it when their victims twitch. They're ticklish.";
+$rarity="rare";
+$rating=8;
+?>

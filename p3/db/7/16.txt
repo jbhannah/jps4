@@ -1,0 +1,26 @@
+<?php
+$name="Sabrina's Alakazam";
+$type="pkmn";
+$hp=80;
+$lv=44;
+$stage=array("num"=>"2","set"=>"7","card"=>"58","name"=>"Sabrina's Kadabra");
+$element="psychic";
+$weak="psychic";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Psylink",
+	"text"=>"Sabrina's Alakazam always has a copy of every attack your <IMG src='p3/db/images/elements/psychic.gif' align=middle> Pok&eacute;mon in play have (including their Energy costs and anything else required in order to use those attacks, such as discarding Energy cards). This power can't be used if Sabrina's Alakazam is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("psychic","colorless","colorless","colorless"),
+		"name"=>"Mega Burn",
+		"damage"=>"60",
+		"text"=>"You can't use this attack during your next turn."
+	)
+);
+$rarity="rareholo";
+$price="4.00";
+$firstedn="13.00";
+$rating=8;
+?>

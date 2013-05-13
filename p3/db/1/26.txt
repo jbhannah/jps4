@@ -1,0 +1,20 @@
+<?php
+$name="Dratini";
+$type="pkmn";
+$hp=40;
+$lv=10;
+$element="colorless";
+$resist="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Pound",
+		"damage"=>"10"
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=3;
+?>

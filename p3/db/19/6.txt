@@ -1,0 +1,28 @@
+<?php
+$name="Team Aqua's Walrein";
+$type="pkmn";
+$hp=120;
+$stage=array("num"=>"2","set"=>"19","card"=>"31","name"=>"Team Aqua's Sealeo");
+$element="water";
+$element2="dark";
+$weak="fighting";
+$weak2="steel";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("water"),
+		"name"=>"Power Blow",
+		"damage"=>"10+",
+		"text"=>"Does 10 damage plus 10 more damage for each Energy attached to Team Aqua's Walrein."
+	),
+	array(
+		"cost"=>array("water","water","colorless","colorless"),
+		"name"=>"Hydro Reverse",
+		"damage" => "50+",
+		"text" => "You may return any number of basic <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy cards attached to all of your Pok&eacute;mon to your hand. If you do, this attack does 50 damage plus 10 more damage for each Energy you returned."
+	)
+);
+$rarity="rareholo";
+$price="10.00";
+$rating=10;
+?>

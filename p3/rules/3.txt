@@ -1,0 +1,16 @@
+You win the game if any one or more of these things occur:
+<UL>
+<LI>You win if you collect all of your Prize cards. When you begin the game, each player sets aside 6 Prize cards. Each time you Knock Out one of your opponent's Pok&eacute;mon, you take one of your own Prizes (not your opponent's!) and put it into your hand. You win when you take your final Prize Card.
+<LI>You win if your opponent's deck is out of cards at the beginning of his or her turn.
+<LI>You win if your opponent has no Pok&eacute;mon on the bench to replace his or her Active Pok&eacute;mon, and his or her Active Pok&eacute;mon gets Knocked Out. That means there is no one for your Pok&eactue;mon to fight against, so you win!
+</UL>
+<CENTER>
+<TABLE width=400 border=1><TR><TD>
+<B>What If I Do not Have a Basic Pok&eacute;mon Card in my Hand?</B><BR>
+Then show your hand to your opponent, shuffle it back into your deck, and draw 7 new cards. Your opponent can then choose to draw an extra card. If you still do not have any Basic Pok&eacute;mon cards in your new hand, you repeat this process, but your opponent can draw an extra card each time!
+</TD></TR></TABLE>
+<P>
+<TABLE width=400 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>During the game, you will be putting more and more cards on the table. All of the cards on the table that are in the Active Pok&eacute;mon area or on the Bench are referred to as being "in play." Your deck, your Prizes, and the cards in your discard pile are not considered "in play."
+</TD></TR></TABLE>
+</CENTER>

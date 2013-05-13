@@ -1,0 +1,22 @@
+<?php
+$name="Pidgey";
+$type="pkmn";
+$hp=40;
+$lv=8;
+$element="colorless";
+$weak="lightning";
+$resist="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Whirlwind",
+		"damage"=>"10",
+		"text"=>"If your opponent has any Benched Pok&eacute;mon, he or she chooses 1 of them and switches it with the Defending Pok&eacute;mon. (Do the damage before switching the Pok&eacute;mon.)"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=2;
+?>

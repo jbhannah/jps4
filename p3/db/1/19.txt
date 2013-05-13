@@ -1,0 +1,28 @@
+<?php
+$name="Dugtrio";
+$type="pkmn";
+$hp=70;
+$lv=36;
+$stage=array("num"=>"1","set"=>"1","card"=>"47","name"=>"Diglett");
+$element="fighting";
+$weak="grass";
+$resist="lightning";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("fighting","fighting","colorless"),
+		"name"=>"Slash",
+		"damage"=>"40"
+	),
+	array(
+		"cost"=>array("fighting","fighting","fighting"),
+		"name"=>"Earthquake",
+		"damage"=>"70",
+		"text"=>"Does 10 damage to each of your own Benched Pok&eacute;mon. <I>(Don't apply Weakness and Resistance for Benched Pok&eacute;mon.)</I>"
+	)
+);
+$rarity="rare";
+$price="2.00";
+$firstedn="6.00";
+$rating=7;
+?>

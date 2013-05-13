@@ -1,0 +1,14 @@
+<?php
+$name="Kolon, the Oracle";
+$type="creature";
+$power=1000;
+$civ="Light";
+$cost=4;
+$race="Light Bringer";
+$trigger=1;
+$effect=array(
+	"When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it."
+);
+$rarity="common";
+$rating=6;
+?>

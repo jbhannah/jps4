@@ -1,0 +1,6 @@
+<?php
+$cotwdate="15 January 2005";
+$set=5;
+$card="s2";
+$review="This is the second-best super rare from Survivors of the Megapocalypse: 12 (ouch!) for 12000, and when it comes into play everything else in the battle zone goes back into their respective owners' hands. On top of that, it's a triple breaker. Play this one turn, then play another heavy card next turn to clear its path. Only downsides are the mana cost, and the fact that you need to make sure you don't have anything on the field that you don't want to have to put back in your hand.";
+?>

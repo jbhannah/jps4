@@ -1,0 +1,28 @@
+<?php
+$name="Beedrill";
+$type="pkmn";
+$hp=80;
+$lv=32;
+$stage=array("num"=>"2","set"=>"1","card"=>"33","name"=>"Kakuna");
+$element="grass";
+$weak="fire";
+$resist="fighting";
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless","colorless"),
+		"name"=>"Twineedle",
+		"damage"=>"30&times;",
+		"text"=>"Flip 2 coins. This attack does 30 damage times the number of heads."
+	),
+	array(
+		"cost"=>array("grass","grass","grass"),
+		"name"=>"Poison Sting",
+		"damage"=>"40",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Poisoned."
+	)
+);
+$rarity="rare";
+$price="2.00";
+$firstedn="6.00";
+$rating=6;
+?>

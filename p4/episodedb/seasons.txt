@@ -1,0 +1,11 @@
+<?php
+$snlist=array(
+	"1"=>array("title"=>"Indigo League","released"=>"1998-1999"),
+	"2"=>array("title"=>"Pok&eacute;mon World","released"=>"1999-2000"),
+	"3"=>array("title"=>"Johto Journeys","released"=>"2000-2001"),
+	"4"=>array("title"=>"Johto League Championships","released"=>"2001-2002"),
+	"5"=>array("title"=>"Master Quest","released"=>"2002-October 2003"),
+	"6"=>array("title"=>"Pok&eacute;mon Advanced","released"=>"October 2003-September 2004"),
+	"7"=>array("title"=>"Pok&eacute;mon Advanced Challenge","released"=>"September 2004/running")
+);
+?>

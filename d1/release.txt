@@ -1,0 +1,11 @@
+<?php
+$release=array(
+	array(
+		"event"=>"Duel Masters: The Good, the Bad, &amp; the Bolshack",
+		"date"=>"25 Jan 2005",
+		"platform"=>"DVD/VHS",
+		"img"=>"20050125_dvd.jpg",
+		"notes"=>"Includes an exclusive TCG card and demo until April 2005."
+	)
+);
+?>

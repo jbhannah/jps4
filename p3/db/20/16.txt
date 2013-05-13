@@ -1,0 +1,30 @@
+<?php
+$name="Bellossom";
+$type="pkmn";
+$hp=100;
+$stage=array("num"=>"2","name"=>"Gloom");
+$element="grass";
+$weak="fire";
+$resist="water";
+$retreat=2;
+$pokepower=array(
+	"name"=>"Heal Dance",
+	"text"=>"Once during your turn <I>(before your attack)</I>, you may remove 2 damage counters from 1 of your Pok&eacute;mon. You can't use more than 1 Heal Dance Pok&eacute;-Power each turn. This power can't be used if Bellossom is affected by a Special Condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("grass"),
+		"name"=>"Miracle Powder",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, choose 1 Special Condition. The Defending Pok&eacute;mon is now affected by that Special Condition."
+	),
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Solarbeam",
+		"damage"=>"50"
+	)
+);
+$rarity="rare";
+$price="2.00";
+$rating=8;
+?>

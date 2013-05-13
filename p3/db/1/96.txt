@@ -1,0 +1,11 @@
+<?php
+$name="Double Colorless Energy";
+$type="energy-other";
+$element="colorless";
+$element2="colorless";
+$text="Provides <IMG src=\"p3/db/images/elements/colorless.gif\" align=middle><IMG src=\"p3/db/images/elements/colorless.gif\" align=middle> energy.<BR>Doesn't count as a basic Energy card.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=8;
+?>

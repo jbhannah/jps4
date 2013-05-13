@@ -1,0 +1,25 @@
+<?php
+$name="Blastoise ex";
+$type="pkmn";
+$hp=150;
+$stage=array("num"=>"2","set"=>"21","card"=>"","name"=>"Wartortle");
+$element="water";
+$weak="lightning";
+$retreat=3;
+$pokepower=array(
+	"name"=>"Energy Rain",
+	"text"=>"As often as you like during your turn <I><I>(before your attack)</I></I>, you may attach a <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy card from your hand to 1 of your Pok&eacute;mon. Put 1 damage counter on that Pok&eacute;mon. This power can't be used if Blastoise ex is affected by a Special Condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("water","water","water","colorless"),
+		"name"=>"Hyper Whirlpool",
+		"damage"=>"80",
+		"text"=>"Flip a coin until you get tails. For each heads, your opponent discards an Energy card attached to the Defending Pok&eacute;mon."
+	)
+);
+$rarity="ex";
+$other="Scan from <A href=\"http://www.beckettanime.com/\" target=_blank>Beckett Pok&eacute;mon Unofficial Collector</A>, October/November 2004.";
+$price="20.00";
+$rating=9;
+?>

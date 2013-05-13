@@ -1,0 +1,14 @@
+<?php
+$name="Kip Chippotto";
+$type="creature";
+$power=1000;
+$civ="Fire";
+$cost="3";
+$race="Fire Bird";
+$effect=array(
+	"When one of your Armored Dragons would be destroyed, you may destroy this creature instead."
+);
+$flavtext="Only the Dragons realize these cure little birds hold the secrets of immortality.";
+$rarity="common";
+$rating=7;
+?>

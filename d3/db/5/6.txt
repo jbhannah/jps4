@@ -1,0 +1,12 @@
+<?php
+$name="Ballus, Dogfight Enforcer Q";
+$type="creature";
+$power=3000;
+$civ="Light";
+$cost=5;
+$race="Beserker";
+$survivor="At the end of each of your turns, untap this creature.";
+$flavtext="To indicate the telepathic link shared by all Survivors, scientists added a code letter to their names.";
+$rarity="uncommon";
+$rating=7;
+?>

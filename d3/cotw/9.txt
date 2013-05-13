@@ -1,0 +1,6 @@
+<?php
+$cotwdate="9 January 2005";
+$set=2;
+$card=24;
+$review="This is a nice little gem from the Evocrushinators set; 5-for-5000 evolution that lets you take out one of your opponent's creatures for free when it enters the battle zone. You can get two of these in the preconstructed Kokujo's Darkness Deck, and they definitely belong in a Darkness-dominated deck environment.";
+?>

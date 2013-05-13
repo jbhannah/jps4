@@ -1,0 +1,12 @@
+<?php
+$name="Gallia Zohl, Iron Guardian Q";
+$type="creature";
+$power=2000;
+$civ="Light";
+$cost=5;
+$race="Guardian";
+$survivor="<IMG src=\"d3/db/images/blocker.gif\" align=middle><B>Blocker</B> <I>(When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</I><BR>";
+$flavtext="\"My true home is not in the Light realm. It is with the Survivors.\"";
+$rarity="common";
+$rating=6;
+?>

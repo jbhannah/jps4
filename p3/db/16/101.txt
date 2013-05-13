@@ -1,0 +1,23 @@
+<?php
+$name="Mewtwo ex";
+$type="pkmn";
+$hp=100;
+$element="psychic";
+$weak="psychic";
+$retreat=3;
+$attack= array (
+	array(
+		"cost"=>array("psychic"),
+		"name"=>"Energy Absorbtion",
+		"text"=>"Attach up to 2 Energy cards from your discard pile to Mewtwo ex."
+	),
+	array(
+		"cost"=>array("psychic","psychic","colorless"),
+		"name"=>"Psyburn",
+		"damage"=>"60"
+	)
+);
+$rarity="ex";
+$price="15.00";
+$rating=10;
+?>

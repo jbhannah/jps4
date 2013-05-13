@@ -1,0 +1,7 @@
+<?php
+$us=array(
+	'date'=>'29 Jan 2005',
+	'num'=>'??',
+	'title'=>'What\'s a mana you?'
+);
+?>

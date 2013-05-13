@@ -1,0 +1,9 @@
+<?php
+$name="Psychic Energy";
+$type="energy-basic";
+$element="psychic";
+$rarity="common";
+$price="0.10";
+$firstedn="0.75";
+$rating=10;
+?>

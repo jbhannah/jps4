@@ -1,0 +1,25 @@
+<?php
+$name="Ponyta";
+$type="pkmn";
+$hp=40;
+$lv=10;
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Smash Kick",
+		"damage"=>"20"
+	),
+	array(
+		"cost"=>array("fire","fire"),
+		"name"=>"Flame Tail",
+		"damage"=>"30"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=5;
+?>

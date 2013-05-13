@@ -1,0 +1,26 @@
+<?php
+$name="Kadabra";
+$type="pkmn";
+$hp=60;
+$lv=38;
+$stage=array("num"=>"1","set"=>"1","card"=>"43","name"=>"Abra");
+$element="psychic";
+$weak="psychic";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("psychic","psychic"),
+		"name"=>"Recover",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/psychic.gif\" align=middle> Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra."
+	),
+	array(
+		"cost"=>array("psychic","psychic","colorless"),
+		"name"=>"Super Psy",
+		"damage"=>"50"
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="3.00";
+$rating=7;
+?>

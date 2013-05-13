@@ -1,0 +1,46 @@
+<?php
+$title="Chris Fulop's WC2004 Blaziken Tech Deck";
+$deckgdate="9 January 2005";
+$listorig=array(
+	"Pok&eacute;mon"=>array(
+		array("set"=>"17","card"=>"60","qty"=>"4"),
+		array("set"=>"20","card"=>"68","qty"=>"1"),
+		array("set"=>"20","card"=>"16","qty"=>"1"),
+		array("set"=>"18","card"=>"97","qty"=>"1"),
+		array("set"=>"16","card"=>"44","qty"=>"2"),
+		array("set"=>"16","card"=>"5","qty"=>"2"),
+		array("set"=>"19","card"=>"53","qty"=>"1"),
+		array("set"=>"19","card"=>"4","qty"=>"1"),
+		array("set"=>"16","card"=>"74","qty"=>"4"),
+		array("set"=>"16","card"=>"28","qty"=>"2"),
+		array("set"=>"16","card"=>"3","qty"=>"3"),
+		array("set"=>"19","card"=>"89","qty"=>"2")
+	),
+	"Trainers"=>array(
+		array("set"=>"13","card"=>"138","qty"=>"4"),
+		array("set"=>"15","card"=>"126","qty"=>"1"),
+		array("set"=>"15","card"=>"138","qty"=>"3"),
+		array("set"=>"13","card"=>"145","qty"=>"1"),
+		array("set"=>"13","card"=>"148","qty"=>"1"),
+		array("set"=>"17","card"=>"88","qty"=>"4"),
+		array("set"=>"20","card"=>"92","qty"=>"4"),
+		array("set"=>"16","card"=>"92","qty"=>"1"),
+		array("set"=>"14","card"=>"136","qty"=>"1")
+	),
+	"Energy"=>array(
+		array("set"=>"16","card"=>"108","qty"=>"10"),
+		array("set"=>"16","card"=>"109","qty"=>"2"),
+		array("set"=>"17","card"=>"93","qty"=>"3"),
+		array("set"=>"14","card"=>"147","qty"=>"1")
+	)
+);
+$review="This deck is designed to get its heavy hitters into play and powered up fast. Five Blaziken (2 ex, 3 EX R/S), 4 Rare Candies, Professor Elm's Training Method and all kinds of card-drawing and -arranging strategies (Oracle, Copycat, Steven's Advice etc.). It's when you get the heavy hitters into play that the real fun begins. Let's start with the Blaziken line: Torchic and Combusken are iffy attack-wise as both require coin flips, but they'll be around a while with 50 and 80 HP, and Combusken's Pok&eacute;-Body clears it of any Special Conditions whenever you put an energy on it.
+<P>
+Then you get to Blaziken, who solves this deck's only real major problem, which is Energy discards, by letting you attach 1 Fire Energy to any of your benched Pok&eacute;mon from your discard pile; really handy if you also have a Blaziken ex in play, who can do 30+20 or 30+burn for 2, and 100 to any of your opponent's Pok&eacute;mon without Weakness or Resistance for 4 with a discard of 2 Fire, which you just get back over the next few turns with Blaziken. The best part is, Blaziken's Pok&eacute;-Power doesn't say anything about not being able to use it on itself, so while it's on your bench you can get it ready to do 50 for 3, with an extra 10 to your opponent's Bench for a discard.
+<P>
+There are also a few other lines that branch off from the main focus of the deck, the Blaziken line. Skitty and Delcatty give you extra card drawing power&mdash;Delcatty's at the cost of an Energy, which you get plus one from Skitty. One Oddish and one Bellossom&mdash;obviously for emergency use with a Rare Candy&mdash;plus a Pok&eacute;mon Nurse are the only healing to be found in this deck, but a lot of the Pok&eacute;mon that are in focus in the deck are high-HP (100+) so that doesn't matter too much; this deck is a quick-strike anyway, designed to take out your opponent before they can hurt you that much. Dunsparce can help out if you're having trouble finding a Torchic to get your Blaziken or Blaziken ex into play. Team Aqua's Electrike and Manectric are only in there to add a bit more logic to having Lightning Energy in the deck (although Electrike can survive as a splash card), besides Rayquaza ex (which you're going to end up using with Fire Energy anyway, since there are more of them), which can reel in discarded Energy late in the game to lay on the damage with Dragon Burst.
+<P>
+The trainers&mdash;with the exception of Pok&eacute;mon Nurse&mdash;are all intended to get you exactly what you need exactly when you need it. Professor Elm's Training Method and Friend Ball help you get the Blaziken out of your deck Town Volunteers helps you get them out of your discard pile, and Rare Candy gets them into play. 3 Oracles get the cards you need to the top of your deck, where Copycat and Steven's Advice help you pull them out. Switch is in there in case you're stuck with a damaged, Energy-lacking Blaziken that needs to get out of the way before it faints (no card in this deck has more than a 2 Retreat Cost, which only 7 cards have). Then the Energy are pretty straightforward: mostly Fire, with some Lightning for Electrike, Manectric, and Rayquaza ex, and some Multi Energy to make up for the otherwise low Energy count (another reason why Blaziken's Pok&eacute;-Power goes excellently well with this deck) and for the Grass and Lightning Pok&eacute;mon. Warp Energy serves the same purpose as Switch: as a last resort to get a heavily-damaged Pok&eacute;mon out of the way, and also to bring in one of your powered up heavy hitters. Like the name suggests, this really is a very technical deck, but it was very deserving of the second-place ranking it got at the World Championships.";
+$designer=array("name"=>"Chris Fulop, 18");
+$reviewer=array("name"=>"JB","email"=>"jb@jps.hostultra.com")
+?>

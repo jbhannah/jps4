@@ -1,0 +1,15 @@
+<?php
+$name="Bolgash Dragon";
+$type="creature";
+$power="4000+";
+$civ="Fire";
+$cost=8;
+$race="Armored Dragon";
+$effect=array(
+	"Power attacker +8000 <I>(While attacking, this creature gets +8000 power.)</I>",
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="Its suit of armor belches out an electric smog cloud that serves as both camoflage and weapon.";
+$rarity="uncommon";
+$rating=9;
+?>

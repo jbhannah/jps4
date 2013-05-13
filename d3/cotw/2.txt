@@ -1,0 +1,6 @@
+<?php
+$cotwdate="19 November 2004";
+$set=4;
+$card="s3";
+$review="Forget what I said last week about this CotW being an unblockable comparable to Hanusa. This new Shadowclash card is just too good to not make it into the first CotW after its release. A 12000-for-8 double-breaker evolution, that nukes all non-Black creatures in play? If I'd programmed the ratings to go higher than 10, this'd get about a 17. (If there is such a thing as a flaw with this card, it's the fact that there are only 2 other Demon Commands in all of Duel Masters, one of which is Very Rare, the other of which is Rare. But that doesn't change the fact that this card r0x0r5.)";
+?>

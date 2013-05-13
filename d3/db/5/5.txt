@@ -1,0 +1,15 @@
+<?php
+$name="Obsidian Scarab";
+$type="creature";
+$power="5000+";
+$civ="Nature";
+$cost=6;
+$race="Giant Insect";
+$effect=array(
+	"Power attacker +3000 <I>(While attacking, this creature gets +3000 power.)</I>",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>",
+	"When this creature is destroyed, you may put an Obsidian Scarab from your mana zone into the battle zone."
+);
+$rarity="veryrare";
+$rating=7;
+?>

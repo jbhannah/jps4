@@ -1,0 +1,21 @@
+<?php
+$name="Voltorb";
+$type="pkmn";
+$hp=40;
+$lv=10;
+$element="lightning";
+$weak="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Tackle",
+		"damage"=>"10"
+	)
+);
+$rarity="common";
+$price="0.50";
+$firstedn="3.00";
+$other="Unlimited edition \"Monster Ball\" error card is worth $2.00. No corrected first edition card exists.";
+$rating=3;
+?>

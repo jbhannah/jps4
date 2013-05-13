@@ -1,0 +1,27 @@
+<?php
+$name="Gardevoir ex";
+$type="pkmn";
+$hp=150;
+$stage=array("num"=>"2","set"=>"17","card"=>"40","name"=>"Kirlia");
+$element="psychic";
+$weak="grass";
+$weak2="psychic";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("psychic","colorless"),
+		"name"=>"Feedback",
+		"text"=>"Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pok&eacute;mon."
+	),
+	array(
+		"cost"=>array("psychic","colorless","colorless","colorless"),
+		"name"=>"Psystorm",
+		"damage"=>"10&times;",
+		"text"=>"Does 10 damage times the total amount of Energy attached to all Pok&eacute;mon in play."
+	)
+);
+$rarity="ex";
+$other="Scan from <A href=\"http://www.beckettanime.com/\" target=_blank>Beckett Pok&eacute;mon Unofficial Collector</A>, October/November 2004.";
+$price="18.00";
+$rating=9;
+?>

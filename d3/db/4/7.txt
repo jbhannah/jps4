@@ -1,0 +1,12 @@
+<?php
+$name="Amber Grass";
+$type="creature";
+$power=3000;
+$civ="Light";
+$cost=4;
+$race="Starlight Tree";
+$trigger=1;
+$flavtext="Each surge of electricity trigggers a growth spurt.";
+$rarity="common";
+$rating=4;
+?>

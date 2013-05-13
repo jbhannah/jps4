@@ -1,0 +1,9 @@
+<?php
+$name="Scoop Up";
+$type="trainer";
+$text="Choose 1 of your own Pok&eacute;mon in play and return its Basic Pok&eacute;mon card to your hand. (Discard all cards attached to that card.)";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating=6;
+?>

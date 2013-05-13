@@ -1,0 +1,6 @@
+<?php
+$cotwdate="26 November 2004";
+$set=1;
+$card=6;
+$review="One of the original Rain Dance favorites, and still one of the most solid cards around. Not much to say for it; the 100 HP, 50-for-3, and 40/paralysis-for-4 speak for themselves. The triple retreat cost and odd weakness (Grass; this actually may help, as most water cards are weak to Lightning and Lightning is the basis of most anti-Water decks) are a bit of a drawback, though, as is the just plain pathetic Basic stage. But in any case, if you're playing any sort of Water-based deck, it's probably a good idea to throw a few of these in.";
+?>

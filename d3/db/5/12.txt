@@ -1,0 +1,14 @@
+<?php
+$name="Le Quist, the Oracle";
+$type="creature";
+$power=1500;
+$civ="Light";
+$cost=2;
+$race="Light Bringer";
+$effect=array(
+	"Whenever this creature attacks, you may choose a darkness or fire creature in the battle zone and tap it. <I>(First choose what this creature is attacking. Then choose a creature to tap."
+);
+$flavtext="\"I have devised a devestating new weapon to combat the forces of chaos. I call it 'nap time.'\"";
+$rarity="common";
+$rating=5;
+?>

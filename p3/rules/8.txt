@@ -1,0 +1,1 @@
+After each player's turn, if either player's Active Pok&eacute;mon is Poisoned, it takes damage; if it's Burned, it might take damage; and if it's Asleep or Paralyzed, it might recover. Then the next player's turn begins.

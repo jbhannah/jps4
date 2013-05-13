@@ -1,0 +1,9 @@
+<?php
+$name="Professor Oak's Research";
+$type="supporter";
+$text="Shuffle your hand into your deck, then draw 5 cards.";
+$rarity="uncommon";
+$other="Scan from <A href=\"http://www.beckettanime.com/\" target=_blank>Beckett Pok&eacute;mon Unofficial Collector</A>, December 2004/January 2005.";
+$price="0.75";
+$rating=9;
+?>

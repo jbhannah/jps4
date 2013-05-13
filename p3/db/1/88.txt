@@ -1,0 +1,9 @@
+<?php
+$name="Professor Oak";
+$type="trainer";
+$text="Discard your hand, then draw 7 cards.";
+$rarity="uncommon";
+$price="1.00";
+$firstedn="2.00";
+$rating=9;
+?>

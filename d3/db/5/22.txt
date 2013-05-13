@@ -1,0 +1,14 @@
+<?php
+$name="Solidskin Fish";
+$type="creature";
+$power=3000;
+$civ="Water";
+$cost=3;
+$race="Fish";
+$effect=array(
+	"When you put this creature into the battle zone, return a card from your mana zone to your hand."
+);
+$flavtext="If you look closely eneough, you'll notice the rock has eyes. And teeth.";
+$rarity="common";
+$rating=6;
+?>

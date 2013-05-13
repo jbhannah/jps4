@@ -1,0 +1,9 @@
+<?php
+$name="Gust of Wind";
+$type="trainer";
+$text="Choose 1 of your opponent's Benched Pok&eacute;mon and switch it with his or her Active Pok&eacute;mon.";
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=8;
+?>

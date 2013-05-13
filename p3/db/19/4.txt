@@ -1,0 +1,26 @@
+<?php
+$name="Team Aqua's Manectric";
+$type="pkmn";
+$hp=70;
+$stage=array("num"=>"1","set"=>"19","card"=>"53","name"=>"Team Aqua's Electrike");
+$element="lightning";
+$element2="dark";
+$weak="fighting";
+$resist="steel";
+$retreat=1;
+$pokepower=array(
+	"name"=>"Power Shift",
+	"text"=>"Once during your turn <I>(before your attack)</I>, you may move any number of basic Energy cards attached to 1 of your Pok&eacute;mon with Team Aqua in its name to another of your Pok&eacute;mon. This power can't be used if Team Aqua's Manectric is affected by a Special Condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("lightning","colorless","colorless"),
+		"name"=>"Thunderspark",
+		"damage"=>"50",
+		"text"=>"Does 10 damage to each Benched Pok&eacute;mon <I>(both yours and your opponent's)</I> that has Energy cards attached to it. <I>(Don't apply Weakness and Resistance for Benched Pok&eacute;mon.)</I>"
+	)
+);
+$rarity="rareholo";
+$price="7.00";
+$rating=7;
+?>

@@ -1,0 +1,14 @@
+<?php
+$name="Mist Rias, Sonic Guardian";
+$type="creature";
+$power=2000;
+$civ="Light";
+$cost=5;
+$race="Guardian";
+$effect=array(
+	"Whenever another creature is put into the battle zone, you may draw a card."
+);
+$flavtext="\"When you shine a light into a dark corner, the shadow instantly vanishes. This should be an easy war.\"";
+$rarity="uncommon";
+$rating=7;
+?>

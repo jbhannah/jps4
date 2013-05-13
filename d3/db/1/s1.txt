@@ -1,0 +1,13 @@
+<?php
+$cardnum="S1";
+$name="Hanusa, Radiance Elemental";
+$type="creature";
+$power=9500;
+$civ="Light";
+$cost=7;
+$race="Angel Command";
+$effect=array("Double Breaker <I>(This creature breaks 2 shields.)</I>");
+$flavtext="The sky was scorched by Dragons' fire, and the earth gouged by elementals' rays. The battle raged for seven nights and seven days.";
+$rarity="superrare";
+$rating=10;
+?>

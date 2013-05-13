@@ -1,0 +1,12 @@
+<?php
+$name="Balloonshroom Q";
+$type="creature";
+$power=2000;
+$civ="Nature";
+$cost=4;
+$race="Balloon Mushroom";
+$survivor="When this creature would be destroyed, put it into your mana zone instead.";
+$flavtext="During the Megapocalypse, the only way to survive was to cooperate...and adapt.";
+$rarity="uncommon";
+$rating=8;
+?>

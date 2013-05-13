@@ -1,0 +1,14 @@
+<?php
+$name="Gigazoul";
+$type="creature";
+$power=3000;
+$civ="Darkness";
+$cost=3;
+$race="Chimera";
+$effect=array(
+	"While your opponent has no shields, this creature can't attack."
+);
+$flavtext="\"Perhaps I went a little too far with the experiment...\" &mdash;Ballom, Master of Death";
+$rarity="common";
+$rating=6;
+?>

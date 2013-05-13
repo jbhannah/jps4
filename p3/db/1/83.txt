@@ -1,0 +1,9 @@
+<?php
+$name="Maintenance";
+$type="trainer";
+$text="Shuffle 2 of the other cards from your hand into your deck in order to draw a card.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

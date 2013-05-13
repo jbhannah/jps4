@@ -1,0 +1,12 @@
+<?php
+$name="Thunder Net";
+$type="spell";
+$civ="Light";
+$cost=2;
+$effect=array(
+	"For each water creature you have in the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it."
+);
+$flavtext="\"When the device is activated, a net of electricity snares our enemies!\" &mdash;Syrius, Firmament Elemental";
+$rarity="uncommon";
+$rating=8;
+?>

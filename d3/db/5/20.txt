@@ -1,0 +1,14 @@
+<?php
+$name="Pokolul";
+$type="creature";
+$power=2000;
+$civ="Water";
+$cost=4;
+$race="Cyber Lord";
+$effect=array(
+	"Whenever your opponent uses the \"shield trigger\" ability of a a shield broken by this creature, you may untap this creature."
+);
+$flavtext="The cosmic offspring of Father Time and a motherboard.";
+$rarity="rare";
+$rating=4;
+?>

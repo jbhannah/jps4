@@ -1,0 +1,14 @@
+<?php
+$name="Lurking Gel";
+$type="creature";
+$power=4000;
+$civ="Water";
+$cost=6;
+$race="Gel Fish";
+$effect=array(
+	"<IMG src=\"d3/db/images/blocker.gif\" align=middle><B>Fire and nature nlocker</B> <I>(Whenever an opponent's fire or nature creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</I><BR>"
+);
+$flavtext="The safest place can conceal the greatest danger.";
+$rarity="common";
+$rating=7;
+?>

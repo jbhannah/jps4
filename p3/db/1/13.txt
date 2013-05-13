@@ -1,0 +1,28 @@
+<?php
+$name="Poliwrath";
+$type="pkmn";
+$hp=90;
+$lv=48;
+$stage=array("num"=>"2","set"=>"1","card"=>"38","name"=>"Poliwrath");
+$element="water";
+$weak="grass";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("water","water","colorless"),
+		"name"=>"Water Gun",
+		"damage"=>"30+",
+		"text"=>"Does 30 damage plus 10 more damage for each <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy after the 2nd doesn't count."
+	),
+	array(
+		"cost"=>array("water","water","colorless","colorless"),
+		"name"=>"Whirlpool",
+		"damage"=>"40",
+		"text"=>"If the Defending Pok&eacute;mon has any Energy cards attached to it, choose 1 of them and discard it."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=7;
+?>

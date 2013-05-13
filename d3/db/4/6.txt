@@ -1,0 +1,15 @@
+<?php
+$name="Aeris, Flight Elemental";
+$type="creature";
+$power=9000;
+$civ="Light";
+$cost=5;
+$race="Angel Command";
+$effect=array(
+	"This creature can't attack players.",
+	"This creature can attack untapped darkness creatures."
+);
+$flavtext="\"All armies, move out! It's time to make Photocide see the light!\"";
+$rarity="rare";
+$rating=8;
+?>

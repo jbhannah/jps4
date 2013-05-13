@@ -1,0 +1,6 @@
+<?php
+$cotwdate="13 December 2004";
+$set=4;
+$card=21;
+$review="It's happened to us all: you play a card as mana, thinking you won't need it later on; then, late in the game, that card ends up being the one card you need to win, but you can't have it because it's in your mana zone. This is a <U>must-have</U> in every deck with any blue in it. Look for it to be played a lot. And note it says \"up to 2,\" so if you have two cards you need back then you can get both, but you don't have to waste mana if you only want one card. Above all, the best part about it is that it's a common card.";
+?>

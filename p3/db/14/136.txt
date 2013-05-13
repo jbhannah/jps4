@@ -1,0 +1,8 @@
+<?php
+$name="Town Volunteers";
+$type="supporter";
+$text="Take 5 Baby Pok&eacute;mon, Basic Pok&eacute;mon, Evolution, and/or basic Energy cards from your discard pile and then show them to your opponent. Shuffle them into your deck.";
+$rarity="uncommon";
+$price="0.75";
+$rating=7;
+?>

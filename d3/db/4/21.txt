@@ -1,0 +1,12 @@
+<?php
+$name="Clone Factory";
+$type="spell";
+$cost=3;
+$civ="Water";
+$effect=array(
+	"Return up to 2 cards from your mana zone to your hand."
+);
+$flavtext="The factory works by day and night, laboring at endeavors best left unknown.";
+$rarity="common";
+$rating=9;
+?>

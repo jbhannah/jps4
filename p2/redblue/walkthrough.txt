@@ -1,0 +1,61 @@
+<SCRIPT language="JavaScript" type="text/JavaScript" src="site/newwindow.js"></SCRIPT>
+<?php
+include("p2/nav.txt");
+echo "<DIV class=subhead>";
+if($section=="" or $section=="index") {echo "Section Index";}
+elseif ($section=="maps") {echo "Walkthrough Maps";}
+else {echo "$section.&nbsp;";
+	if($section=="1") {echo "Opening";}
+	if($section=="2") {echo "Pallet Town - Rival Battle 1";}
+	if($section=="3") {echo "Route 1/Viridian City";}
+	if($section=="4") {echo "Route 1/Pallet Town/Route 1";}
+	if($section=="5") {echo "Viridian City/Route 22 - Rival Battle 2/Viridian City/Route 2";}
+	if($section=="6") {echo "Viridian Forest/Route 2";}
+	if($section=="7") {echo "Pewter City - Gym Battle 1";}
+	if($section=="8") {echo "Route 3";}
+	if($section=="9") {echo "Mt. Moon";}
+	if($section=="10") {echo "Route 4/Cerulean City";}
+	if($section=="11") {echo "Route 24 - Rival Battle 3/Route 25/Sea Cottage/Route 25/Route 24";}
+	if($section=="12") {echo "Cerulean City - Gym Battle 2";}
+	if($section=="13") {echo "Route 5/Underground Tunnel/Route 6";}
+	if($section=="14") {echo "Vermilion City/S. S. Anne - Rival Battle 4";}
+	if($section=="15") {echo "Vermilion City - Gym Battle 3";}
+	if($section=="16") {echo "Diglett's Cave/Route 2/Pewter City/Route 11";}
+	if($section=="17") {echo "Route 6/Underground Tunnel/Route 5/Cerulean City";}
+	if($section=="18") {echo "Route 9/Route 10";}
+	if($section=="19") {echo "Rock Tunnel";}
+	if($section=="20") {echo "Route 10/Lavender Town";}
+	if($section=="21") {echo "Route 8/Underground Tunnel/Route 7";}
+	if($section=="22") {echo "Celadon City - Gym Battle 4";}
+	if($section=="23") {echo "Game Corner Basement";}
+	if($section=="24") {echo "Celadon City/Route 7/Underground Tunnel/Route 8/Lavender Town";}
+	if($section=="25") {echo "Pok&eacute;mon Tower - Rival Battle 5";}
+	if($section=="26") {echo "Lavender Town/Route 12";}
+	if($section=="27") {echo "Route 13/Route 14/Route 15";}
+	if($section=="28") {echo "Fuchsia City - Gym Battle 5";}
+	if($section=="29") {echo "Safari Zone";}
+	if($section=="30") {echo "Route 18/Route 17/Route 16";}
+	if($section=="31") {echo "Celadon City/Route 7/Saffron City";}
+	if($section=="32") {echo "Silph Co. - Rival Battle 6";}
+	if($section=="33") {echo "Saffron City - Gym Battle 6";}
+	if($section=="34") {echo "Cerulean City/Route 9/Route 10/Power Plant";}
+	if($section=="35") {echo "Route 19/Route 20";}
+	if($section=="36") {echo "Seafoam Island";}
+	if($section=="37") {echo "Route 20/Cinnabar Island";}
+	if($section=="38") {echo "Cinnabar Island Mansion";}
+	if($section=="39") {echo "Cinnabar Island - Gym Battle 7";}
+	if($section=="40") {echo "Route 21/Pallet Town/Route 1";}
+	if($section=="41") {echo "Viridian City - Gym Battle 8";}
+	if($section=="42") {echo "Route 22/Pok&eacute;mon League/Route 23";}
+	if($section=="43") {echo "Victory Road/Indigo Plateau";}
+	if($section=="44") {echo "Elite Four - Rival Battle 7";}
+	if($section=="45") {echo "Unknown Dungeon";}
+;}
+echo "</DIV>";
+if(!isset($section)) {
+	$section="index"
+;}
+include("p2/redblue/walkthrough/$section.txt");
+echo "<P>";
+include("p2/nav.txt");
+?>

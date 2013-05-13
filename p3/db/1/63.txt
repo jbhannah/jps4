@@ -1,0 +1,26 @@
+<?php
+$name="Squirtle";
+$type="pkmn";
+$hp=40;
+$lv=8;
+$element="water";
+$weak="lightning";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("water"),
+		"name"=>"Bubble",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	),
+	array(
+		"cost"=>array("water","colorless"),
+		"name"=>"Withdraw",
+		"text"=>"Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

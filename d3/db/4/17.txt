@@ -1,0 +1,12 @@
+<?php
+$name="Screaming Sunburst";
+$type="spell";
+$civ="Light";
+$cost=3;
+$effect=array(
+	"Tap all creatures in the battle zone except light creatures."
+);
+$flavtext="Forty megatons of happiness.";
+$rarity="uncommon";
+$rating=8;
+?>

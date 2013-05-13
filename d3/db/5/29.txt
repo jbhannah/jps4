@@ -1,0 +1,14 @@
+<?php
+$name="Horned Mutant";
+$type="creature";
+$power=3000;
+$civ="Darkness";
+$cost=5;
+$race="Hedrian";
+$effect=array(
+	"Each nature creature costs 3 more to summon, and each nature spell costs 1 more to cast."
+);
+$flavtext="After pulling out its own horns to use as weapons, it can grow a new pair in less than a day.";
+$rarity="uncommon";
+$rating=7;
+?>

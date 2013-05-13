@@ -1,0 +1,25 @@
+<?php
+$name="Venusaur";
+$type="pkmn";
+$hp=100;
+$lv=67;
+$stage=array("num"=>"2","set"=>"1","card"=>"30","name"=>"Ivysaur");
+$element="grass";
+$weak="fire";
+$retreat=2;
+$pkmnpower=array(
+	"name"=>"Energy Trans",
+	"text"=>"As often as you like during your turn <I>(before your attack)</I>, you may take 1 <IMG src=\"p3/db/images/elements/grass.gif\" align=middle> Energy card attached to 1 of your Pok&eacute;mon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("grass","grass","grass","grass"),
+		"name"=>"Solarbeam",
+		"damage"=>"60"
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=7;
+?>

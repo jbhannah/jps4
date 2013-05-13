@@ -1,0 +1,15 @@
+<?php
+$name="Re Bil, Seeker of Archery";
+$type="creature";
+$power=6000;
+$civ="Light";
+$cost=7;
+$race="Mecha Thunder";
+$effect=array(
+	"Each other light creature in the battle zone gets +2000 power.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="Bull's=eye!";
+$rarity="uncommon";
+$rating=8;
+?>

@@ -1,0 +1,8 @@
+<?php
+$name="Rare Candy";
+$type="trainer";
+$text="Choose 1 of your Basic Pok&eacute;mon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pok&eacute;mon in your hand, put that card on the Basic Pok&eacute;mon. (This counts as evolving that Pok&eacute;mon.)";
+$rarity="uncommon";
+$price="1.50";
+$rating=10;
+?>

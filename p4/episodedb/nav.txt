@@ -1,0 +1,81 @@
+<P><TABLE width=100% border=0 cellpadding=0 cellspacing=0><TR><TD width=* align=left><?php
+if($episode>1) {
+	if($season==1) {
+		if($episode=="34b") {
+			$epprevnum=34;
+			$epprevtl=33;
+		;}
+		elseif($episode=="35") {
+			$epprevnum="34b";
+			$epprevtl=34;
+		;}
+		elseif($episode=="36") {
+			$epprevnum=35;
+			$epprevtl=35;
+		;}
+		elseif($episode=="36b") {
+			$epprevnum=36;
+			$epprevtl=36;
+		;}
+		elseif($episode=="37") {
+			$epprevnum="36b";
+			$epprevtl=37;
+		;}
+		elseif($episode>37) {
+			$epprevnum=$episode-1;
+			$epprevtl=$episode;
+		;}
+		elseif($episode<=34) {
+			$epprevnum=$episode-1;
+			$epprevtl=$episode-2;
+		;}
+	;}
+	else {
+		$epprevnum=$episode-1;
+		$epprevtl=$episode-2;
+	;}
+	echo "<A href=\"p4_episodedb.php?season=$season&episode=$epprevnum\">&lt; #$season";
+	if($epprevnum<10) {echo "0";}
+	echo "$epprevnum : $title[$epprevtl]</A>";
+;} ?></TD><TD width=* align=right><?php
+if($episode<count($title)) {
+	if($season==1) {
+		if($episode=="34") {
+			$epnextnum="34b";
+			$epnexttl=34;
+		;}
+		elseif($episode=="34b") {
+			$epnextnum=35;
+			$epnexttl=35;
+		;}
+		elseif($episode=="35") {
+			$epnextnum=36;
+			$epnexttl=36;
+		;}
+		elseif($episode=="36") {
+			$epnextnum="36b";
+			$epnexttl=37;
+		;}
+		elseif($episode=="36b") {
+			$epnextnum=37;
+			$epnexttl=38;
+		;}
+		elseif($episode>=37) {
+			$epnextnum=$episode+1;
+			$epnexttl=$episode+2;
+		;}
+		elseif($episode<34) {
+			$epnextnum=$episode+1;
+			$epnexttl=$episode;
+		;}
+	;}
+	else {
+		$epnextnum=$episode+1;
+		$epnexttl=$episode;
+	;}
+	if($episode<81) {
+		echo "<A href=\"p4_episodedb.php?season=$season&episode=$epnextnum\">#$season";
+		if($epnextnum<10) {echo "0";}
+		echo "$epnextnum : $title[$epnexttl] &gt;</A>";
+	;}
+;} ?></TD></TR></TABLE>

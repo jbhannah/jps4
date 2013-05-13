@@ -1,0 +1,24 @@
+<?php
+$name="Skitty";
+$type="pkmn";
+$hp=40;
+$element="colorless";
+$weak="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Minor Errand-Running",
+		"text"=>"Search your deck for 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+	),
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Lullaby",
+		"damage"=>"10",
+		"text"=>"The Defending Pok&eacute;mon is now Asleep."
+	)
+);
+$rarity="uncommon";
+$price="1.00";
+$rating=5;
+?>

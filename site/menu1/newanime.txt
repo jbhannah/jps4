@@ -1,0 +1,12 @@
+<?php
+$us=array(
+	'date'=>'6 Feb 2005',
+	'num'=>'664',
+	'title'=>'True Blue Swablu'
+);
+$jp=array(
+	'date'=>'17 Feb 2005',
+	'num'=>'392',
+	'title'=>'Confound, conflict, and confusion! Pok&eacute;mon contest kinagi conference! (volume 1)'
+);
+?>

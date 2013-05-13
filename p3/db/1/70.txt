@@ -1,0 +1,9 @@
+<?php
+$name="Clefairy Doll";
+$type="trainer";
+$text="<B>10 HP</B><P>Play Clefairy Doll as if it were a Basic Pok&eacute;mon. While in play, Clefairy Doll counts as a Pok&eacute;mon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pok&eacute;mon. At any time during your turn before your attack, you may discard Clefairy Doll.";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating="5";
+?>

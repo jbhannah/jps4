@@ -1,0 +1,6 @@
+<?php
+$cotwdate="13 December 2004";
+$set=11;
+$card=5;
+$review="The Pok&eacute;mon Power can be useful at times but is otherwise totally worthless. The attack is good, though; a solid 50-for-3, with a 50/50 shot at nuking one of the Defending Pok&eacute;mon's Energy cards. The retreat cost is high, and the HP is relatively low, but otherwise this is a very solid card. Good in water-based beatdown decks.";
+?>

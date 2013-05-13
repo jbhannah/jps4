@@ -1,0 +1,6 @@
+<?php
+$cotwdate="17 December 2004";
+$set=4;
+$card=2;
+$review="You can't have a Card of the Week feature without listing this card somewhere in it. Even six years later, there are still few things that can top the Rain Dance Pok&eacute;mon Power, and Rain Dance decks were once&mdash;and should still be&mdash;among the most played unmodified format decks. The best current unmodified Rain Dance decks should have this, Blastoise ex, and Team Aqua's Walrein; for a modified deck, just use Blastoise ex. Either way, you'll still have one awesome deck.";
+?>

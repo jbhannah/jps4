@@ -1,0 +1,12 @@
+<?php
+$name="Ghastly Drain";
+$type="spell";
+$cost=3;
+$civ="Darkness";
+$effect=array(
+	"Choose any number of your shields and put them into your hand. You can't use the \"shield trigger\" abilities of those shields."
+);
+$flavtext="If you're not getting nightmares, you're not trying hard enough.";
+$rarity="rare";
+$rating=8;
+?>

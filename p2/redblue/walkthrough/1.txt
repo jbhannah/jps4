@@ -1,0 +1,13 @@
+<IMG src="p2/redblue/img/1/1.gif" align=left>
+When you first turn the power on, the copyrights appear first, followed by the GAMEFREAK logo. Then, it cuts to an animation scene of a battle between a Gengar and a Nidorino (in Red) or a Jigglypuff (in Blue). Then the title screen appears; press "A" or "Start" to enter the main menu. If you want, go to "Options" first and tweak settings such as the text speed; press "B" or select "Cancel" to go back to the main menu. If you have a saved game, the option "Continue" will be at the top. Otherwise, select "New Game", and the following dialogue appears, to introduce you to the game:
+<P>
+<IMG src="p2/redblue/img/1/2.gif" align=right>
+Professor Oak: "Hello there! Welcome to the world of POK&eacute;MON! My name is OAK! People call me the POK&eacute;MON PROF! This world is inhabited by creatures called POK&eacute;MON! For some people, POK&eacute;MON are pets. Others use them for fights. Myself...I study POK&eacute;MON as a profession.
+<P>
+<IMG src="p2/redblue/img/1/3.gif" align=left>
+"First, what is your name?" (RED/ASH/JACK in Red; BLUE/GARY/JOHN in Blue) "Right! So your name is BLUE!" (BLUE will be used for your character's name throughout the walkthrough. Replace it with whatever you choose in your game.)
+<P>
+<IMG src="p2/redblue/img/1/4.gif" align=right>
+"This is my grandson. He's been your rival since you were a baby. ...Erm, what is his name again?" (BLUE/GARY/JOHN in Red; RED/ASH/JACK in Blue) "That's right! I remember now! His name is RED!" (RED will be used for your rival's name throughout the walkthrough. Replace it with whatever you choose in your game.)
+<P>
+"BLUE! Your very own POK&eacute;MON legend is about to unfold! A world of dreams and adventures with POK&eacute;MON awaits! Let's go!" Your character then shrinks to sprite size, and the game begins.

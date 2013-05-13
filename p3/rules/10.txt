@@ -1,0 +1,6 @@
+If a Pok&eacute;mon is Asleep, Confused, or Paralyzed, and a new attack is made against it that makes it Asleep, Confused, or Paralyzed, the old condition is erased and only the new one counts. But these three conditions are the only attack effects that can erase each other. So, for example, a Pok&eacute;mon can be Confused and Burned at the same time.
+<P align=center>
+<TABLE width=400 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left><DIV class=subhead>Okay!</DIV>
+You have read the game play rules, so now you know enough to handle almost anything that might come up in a Pok&eacute;mon game. Once you master all of these rules, you can take a look at the <A href="p3_rulebook.php?section=13">Expert Rules</A> to fine-tune your Pok&eacute;mon knowledge.
+</TD></TR></TABLE>

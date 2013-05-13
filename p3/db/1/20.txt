@@ -1,0 +1,27 @@
+<?php
+$name="Electabuzz";
+$type="pkmn";
+$hp=70;
+$lv=35;
+$element="lightning";
+$weak="fighting";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("lightning"),
+		"name"=>"Thundershock",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	),
+	array(
+		"cost"=>array("lightning","colorless"),
+		"name"=>"Thunderpunch",
+		"damage"=>"30+",
+		"text"=>"Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Electabuzz does 10 damage to itself."
+	)
+);
+$rarity="rare";
+$price="2.00";
+$firstedn="6.00";
+$rating=8;
+?>

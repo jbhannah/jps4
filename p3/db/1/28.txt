@@ -1,0 +1,20 @@
+<?php
+$name="Growlithe";
+$type="pkmn";
+$hp=60;
+$lv=18;
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("fire","colorless"),
+		"text"=>"Flare",
+		"damage"=>"20"
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=5;
+?>

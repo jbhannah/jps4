@@ -1,0 +1,12 @@
+<?php
+$name="Scheming Hands";
+$type="spell";
+$civ="Darkness";
+$cost=5;
+$effect=array(
+	"Look at your opponent's hand and choose a card from it. Your opponent discards that card."
+);
+$flavtext="\"Everyone has secrets. Everyone but you.\" &mdash;Trox, General of Destruction";
+$rarity="uncommon";
+$rating=8;
+?>

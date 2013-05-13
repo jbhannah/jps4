@@ -1,0 +1,12 @@
+<?php
+$name="Spikestrike Ichthys Q";
+$type="creature";
+$power=3000;
+$civ="Water";
+$cost=6;
+$race="Fish";
+$survivor="This creature can't be blocked.";
+$flavtext="\"If the Megapocalypse couldn't slay us, what makes you think you can?\"";
+$rarity="common";
+$rating=7;
+?>

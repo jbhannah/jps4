@@ -1,0 +1,13 @@
+<?php
+$name="Glory Snow";
+$type="spell";
+$civ="Light";
+$cost=4;
+$trigger=1;
+$effect=array(
+	"If your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone."
+);
+$other="Scan from <A href=\"http://www.wizards.com/default.asp?x=duelmasters/news/9b&dcmp=EMC-DMAX0009\" target=_blank>Wizards.com</A>.";
+$rarity="rare";
+$rating=7;
+?>

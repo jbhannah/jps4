@@ -1,0 +1,1 @@
+Whenever you evolve a Pok&eacute;mon, the Evolution card has to read it "Evolves from" the name of the Pok&eacute;mon it goes on top of. Certain Pok&eacute;mon (such as Team Aqua's Corphish) or Pok&eacute;mon-ex (like Scyther ex) do not evolve into normal versions. A Pok&eacute;mon card would have to state "Evolves from Team Aqua's Corphish" to allow for that evolution.

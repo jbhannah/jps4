@@ -1,0 +1,21 @@
+<?php
+$name="Nidoran (m)";
+$type="pkmn";
+$hp=40;
+$lv=20;
+$element="grass";
+$weak="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("grass"),
+		"name"=>"Horn Hazard",
+		"damage"=>"30",
+		"text"=>"Flip a coin. If tails, this attack does nothing."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

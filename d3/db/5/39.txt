@@ -1,0 +1,15 @@
+<?php
+$name="Cannoneer Bargon";
+$type="creature";
+$power=4000;
+$civ="Fire";
+$cost=4;
+$race="Armorloid";
+$trigger=1;
+$effect=array(
+	"This creature can't attack players."
+);
+$flavtext="\"Why bother aiming? I just fire in all directions at once.\"";
+$rarity="rare";
+$rating=6;
+?>

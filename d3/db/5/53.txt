@@ -1,0 +1,16 @@
+<?php
+$name="Nocturnal Giant";
+$type="creature";
+$power="7000+";
+$civ="Nature";
+$cost=7;
+$race="Giant";
+$effect=array(
+	"This creature can't attack creatures.",
+	"Power attacker +7000 <I>(While attacking, this creature gets +7000 power.)</I>",
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="Does it harness the power of the stars? Does it prefer the cover of night? Or does it just get sunburned really easily?";
+$rarity="rare";
+$rating=9;
+?>

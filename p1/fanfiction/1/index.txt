@@ -1,0 +1,17 @@
+<?php
+$title="Lost and Found";
+$author=array(
+	"name"=>"JB Hannah",
+	"email"=>"jb@jps.hostultra.com"
+);
+$desc="Ash and May are traveling along Route 120 when May is kidnapped overnight by Team Rocket. Ash must return to Kanto and face Giovanni, leader of Team Rocket; Giovanni's superior; and another whom he may not be willing to fight against.";
+$rating="PG-13";
+$upload="10 October 2004";
+$update="10 October 2004";
+$chaptitle=array( 
+	"Forgotten Memories",
+	"Master and Apprentice",
+	"Search for Nothing",
+	"Pawns"
+);
+?>

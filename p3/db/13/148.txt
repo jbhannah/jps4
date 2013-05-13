@@ -1,0 +1,8 @@
+<?php
+$name="Professor Elm's Training Method";
+$type="supporter";
+$text="Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.";
+$rarity="uncommon";
+$price="0.75";
+$rating=8;
+?>

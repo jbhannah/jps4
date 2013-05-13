@@ -1,0 +1,28 @@
+<?php
+$name="Metapod";
+$type="pkmn";
+$hp=70;
+$lv=21;
+$stage=array("num"=>"1","set"=>"1","card"=>"45","name"=>"Caterpie");
+$element="grass";
+$weak="fire";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Stiffen",
+		"text"=>"Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. (Any other effects of attacks still happen.)"
+	),
+	array(
+		"cost"=>array("grass","grass"),
+		"name"=>"Stun Spore",
+		"damage"=>"20",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	)
+);
+$rarity="common";
+$price="0.50";
+$firstedn="3.00";
+$other="Unlimited edition \"HP 70\" error card is worth $2.00. No corrected first edition card exists.";
+$rating=5;
+?>

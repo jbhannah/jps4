@@ -1,0 +1,26 @@
+<?php
+$name="Rayquaza ex";
+$type="pkmn";
+$hp=100;
+$element="colorless";
+$weak="colorless";
+$resist="water";
+$resist2="fighting";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Spiral Growth",
+		"text"=>"Flip a coin until you get tails. For each heads, search your discard pile for a basic Energy card and attach it to Rayquaza ex."
+	),
+	array(
+		"cost"=>array("fire","lightning"),
+		"name"=>"Dragon Burst",
+		"damage"=>"40&times;",
+		"text"=>"Discard either all <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> or all <IMG src=\"p3/db/images/elements/lightning.gif\" align=middle> Energy attached to Rayquaza ex. This attack does 40 damage times the amount of <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> or <IMG src=\"p3/db/images/elements/lightning.gif\" align=middle> Energy discarded."
+	)
+);
+$rarity="ex";
+$price="35.00";
+$rating=9;
+?>

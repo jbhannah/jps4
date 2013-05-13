@@ -1,0 +1,17 @@
+<A href="p4_episodedb.php">Episode Database</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=1">Indigo League</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=2">Pok&eacute;mon World</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=3">Johto Journeys</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=4">Johto Champ'ships</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=5">Master Quest</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=6">Pok&eacute;mon Advance</A><BR>
+&nbsp;: <A href="p4_episodedb.php?season=7">Advance Challenge</A><BR>
+Movie Database<BR>
+&nbsp;: <A href="p4_moviedb.php?movie=1">The First Movie</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=2">The Movie 2000</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=3">Pkmn 3: The Movie</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=4">Mewtwo Returns</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=5">Pok&eacute;mon 4Ever</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=6">Pok&eacute;mon Heroes</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=7">Jirachi Wish-Maker</A><BR>
+&nbsp;: <A href="p4_moviedb.php?movie=8">Destiny Deoxys</A><BR>

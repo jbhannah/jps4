@@ -1,0 +1,18 @@
+<?php
+$cardnum="S3";
+$name="Ballom, Master of Death";
+$type="creature";
+$power=12000;
+$civ="Darkness";
+$cost=8;
+$race="Demon Command";
+$evolution=1;
+$effect=array("
+	When you put this creature into the battle zone, destroy all creatures except darkness creatures.",
+	"Double Breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="\"You see a world. I see a graveyard-to-be.\"";
+$rarity="superrare";
+$other="Scan from November 2004 D-MAX Shadowclash of Blinding Night poster.";
+$rating=10;
+?>

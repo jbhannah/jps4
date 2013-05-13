@@ -1,0 +1,6 @@
+<?php
+$cotwdate="15 February 2005";
+$set=4;
+$card="s5";
+$review="This is another of the Nature power cards that have started to come into the game of Duel Masters; it also helps the traditional green mana-acceleration cause with its second effect (when you put it in the battle zone, pull a card from your deck and put it in your hand). It's also cheap&mdash;a 6-for-9000 double breaker Evolution&mdash;so you can have this thing out well before midgame if you have some of the early cheap Horned Beasts in your deck.";
+?>

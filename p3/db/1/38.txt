@@ -1,0 +1,27 @@
+<?php
+$name="Poliwhirl";
+$type="pkmn";
+$hp=60;
+$lv=28;
+$stage=array("num"=>"1","set"=>"1","card"=>"59","name"=>"Poliwag");
+$element="water";
+$weak="grass";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("water","water"),
+		"name"=>"Amnesia",
+		"text"=>"Choose 1 of the Defending Pok&eacute;mon's attacks. That Pok&eacute;mon can't use that attack during your opponent's next turn."
+	),
+	array(
+		"cost"=>array("water","water","colorless"),
+		"name"=>"Doubleslap",
+		"damage"=>"30&times;",
+		"text"=>"Flip 2 coins. This attack does 30 damage times the number of heads."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

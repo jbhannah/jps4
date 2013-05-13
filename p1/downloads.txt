@@ -1,0 +1,22 @@
+<?php
+$dls=array(
+	"roms"=>array(
+		array("file"=>"VisualBoyAdvance","ext"=>"7z","desc"=>"VisualBoyAdvance GBA emulator v1.7.2"),
+		array("file"=>"pokemon_blue","ext"=>"7z","desc"=>"Pok&eacute;mon Blue GB ROM"),
+		array("file"=>"pokemon_crystal","ext"=>"7z","desc"=>"Pok&eacute;mon Crystal GBC ROM"),
+		array("file"=>"pokemon_firered","ext"=>"7z","desc"=>"Pok&eacute;mon FireRed GBA ROM"),
+		array("file"=>"pokemon_gold","ext"=>"7z","desc"=>"Pok&eacute;mon Gold GBC ROM"),
+		array("file"=>"pokemon_leafgreen","ext"=>"7z","desc"=>"Pok&eacute;mon LeafGreen GBA ROM"),
+		array("file"=>"pokemon_pinball","ext"=>"7z","desc"=>"Pok&eacute;mon Pinball GBC ROM"),
+		array("file"=>"pokemon_pinball_rs","ext"=>"7z","desc"=>"Pok&eacute;mon Pinball Ruby &amp; Sapphire GBA ROM"),
+		array("file"=>"pokemon_puzzchallenge","ext"=>"7z","desc"=>"Pok&eacute;mon Puzzle Challenge GBC ROM"),
+		array("file"=>"pokemon_red","ext"=>"7z","desc"=>"Pok&eacute;mon Red GB ROM"),
+		array("file"=>"pokemon_ruby","ext"=>"7z","desc"=>"Pok&eacute;mon Ruby GBA ROM"),
+		array("file"=>"pokemon_sapphire","ext"=>"7z","desc"=>"Pok&eacute;mon Sapphire GBA ROM"),
+		array("file"=>"pokemon_silver","ext"=>"7z","desc"=>"Pok&eacute;mon Silver GBC ROM"),
+		array("file"=>"pokemon_tcg","ext"=>"7z","desc"=>"Pok&eacute;mon Trading Card Game GBC ROM"),
+		array("file"=>"pokemon_tcg2","ext"=>"7z","desc"=>"Pok&eacute;mon TCG 2 GBC ROM (Japanese)"),
+		array("file"=>"pokemon_yellow","ext"=>"7z","desc"=>"Pok&eacute;mon Yellow GBC ROM")
+	)
+);
+?>

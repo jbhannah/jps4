@@ -1,0 +1,9 @@
+<?php
+$name="Computer Search";
+$type="trainer";
+$text="Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward.";
+$rarity="rare";
+$price="1.50";
+$firstedn="5.00";
+$rating=8;
+?>

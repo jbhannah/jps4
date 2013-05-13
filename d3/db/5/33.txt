@@ -1,0 +1,12 @@
+<?php
+$name="Slime Veil";
+$type="spell";
+$civ="Darkness";
+$cost=1;
+$effect=array(
+	"During your opponent's next turn, each of his creatures attacks if able."
+);
+$flavtext="\"Hey, you're really getting the hang of that. Now make him do a little dance.\" &mdash;Dark Titan Maginn";
+$rarity="rare";
+$rating=8;
+?>

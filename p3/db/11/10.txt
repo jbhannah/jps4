@@ -1,0 +1,27 @@
+<?php
+$name="Dark Typhlosion";
+$type="pkmn";
+$hp=80;
+$lv=45;
+$stage=array("num"=>"2","set"=>"11","card"=>"39","name"=>"Dark Quilava");
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Claw Swipe",
+		"damage"=>"20"
+	),
+	array(
+		"cost"=>array("fire"),
+		"name"=>"Rushing Flames",
+		"damage"=>"40&times;",
+		"text"=>"You may discard any number of <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy cards attached to your Pok&eacute;mon. Flip a coin for each <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card discarded in this way. This attack does 40 damage times the number of heads."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="12.00";
+$rating=8;
+?>

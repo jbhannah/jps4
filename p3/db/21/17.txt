@@ -1,0 +1,25 @@
+<?php
+$name="Victreebel";
+$type="pkmn";
+$hp=110;
+$stage=array("num"=>"2","set"=>"21","card"=>"51","name"=>"Weepinbell");
+$element="grass";
+$weak="fire";
+$retreat=2;
+$pokebody=array(
+	"name"=>"Acid Sampler",
+	"text"=>"As long as Victreebel is your Active Pok&eacute;mon, put 1 damage counter on each Defending Pok&eacute;mon between turns. Acid Sampler stops working if your other Active Pok&eacute;mon is not a Victreebel."
+);
+$attack=array(
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Acid",
+		"damage"=>"50",
+		"text"=>"The Defending Pok&eacute;mon can't retreat until the end of your opponent's next turn."
+	)
+);
+$rarity="rareholo";
+$other="Scan is of alternate holofoil version.";
+$price="6.00";
+$rating=8;
+?>

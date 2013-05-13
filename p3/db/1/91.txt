@@ -1,0 +1,9 @@
+<?php
+$name="Bill";
+$type="trainer";
+$text="Draw 2 cards.";
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=10;
+?>

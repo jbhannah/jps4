@@ -1,0 +1,28 @@
+There is a new challenge in the <B>Pok&eacute;mon</B> trading card game, it is 2-on-2 Battle! Each player has two Active Pok&eacute;mon on the battlefield at a time, doubling the excitement. The game is played like a regular game of <B>Pok&eacute;mon</B>, except for a couple of rules listed below.
+<P>
+<B>Starting the Game</B><BR>
+You and your opponent will each need your own deck of 60 cards. If you have at least 2 Basic Pok&eacute;mon cards when you draw a starting hand of 7 cards, put 2 Basic Pok&eacute;mon into play as your Active Pok&eacute;mon. You can start the game with only one Basic Pok&eacute;mon in play, and still play 2-on-2 Battle, if that is the only Basic Pok&eacute;mon in your hand. When a player has 2 Active Pok&eacute;mon, he or she may choose up to 4 Basic Pok&eacute;mon cards from his or her hand and put them on the Bench (where the Pok&eacute;mon wait until they become one of the Active Pok&eacute;mon).
+<P>
+<B>Only 1 Active Pok&eacute;mon?</B><BR>
+Even if you only have 1 Active Pok&eacute;mon, you can still continue 2-on-2 Battle. At any point during the game, if you only have  1 Active Pok&eacute;mon, but still have a Pok&eacute;mon on the Bench, choose a Benched Pok&eacute;mon to go into the battlefield.
+<P>
+<B>Attack!</B>
+During 2-on-2 Battle, you choose one of your Active Pok&eacute;mon to attack, and then select the attack you want to use. You choose one of your opponent's Active Pok&eacute;mon to attack, and finish the attack normally. Attacks that refer to "each Defending Pok&eacute;mon" will affect both of the Defending Pok&eacute;mon for that player.
+<P>
+<B>Retreat!</B>
+As in the basic game, you can only retreat once per turn, even if you have two Active Pok&eacute;mon in play. Choose wisely!
+<P>
+<B>Pok&eacute;mon with Special Conditions</B><BR>
+When both of your Pok&eacute;mon are Asleep, Burned, Confused, or Poisoned, you can make an attempt to recover or avoid damage in whatever order you would like. When one ofyour Active Pok&eacute;mon gets Paralyzed it will be out of action on your next turn, and then it will be okay again. You can still attack with your other Pok&eacute;mon.
+<P>
+<B>Trainer Cards</B><BR>
+If the Trainer card has an effect on your Active Pok&eacute;mon, you may choose only one of your Active Pok&eacute;mon for that card's effect (unless the card tells you to apply the effect to two or more of your Pok&eacute;mon). For example, Potion allows you to remove 2 damage counters from 1 of your Pok&eacute;mon, but it would not allow you to remove 1 damage counter from 2 of your Pok&eacute;mon.
+<P>
+<B>Special Energy Cards</B><BR>
+When a Special Energy Card is attached to one of your Active or Benched Pok&eacute;mon, its effect is only applied to that Pok&eacute;mon.
+<P>
+<B>Baby Pok&eacute;mon</B><BR>
+When your Pok&eacute;mon makes an attempt to attack an opponent's Baby Pok&eacute;mon, you flip a coin. The rule for Baby Pok&eacute;mon is applied only when your Pok&eacute;mon tries to attack a Baby Pok&eacute;mon.
+<P>
+<B>Benched Pok&eacute;mon</B><BR>
+You can have up to 4 Pok&eacute;mon on your bench.

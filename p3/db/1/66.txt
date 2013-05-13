@@ -1,0 +1,27 @@
+<?php
+$name="Tangela";
+$type="pkmn";
+$hp=50;
+$lv=8;
+$element="grass";
+$weak="fire";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("grass","colorless"),
+		"name"=>"Bind",
+		"damage"=>"20",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	),
+	array(
+		"cost"=>array("grass","grass","grass"),
+		"name"=>"Poisonpowder",
+		"damage"=>"20",
+		"text"=>"The Defending Pok&eacute;mon is now Poisoned."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=5;
+?>

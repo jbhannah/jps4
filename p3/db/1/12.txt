@@ -1,0 +1,27 @@
+<?php
+$name="Ninetales";
+$type="pkmn";
+$hp=80;
+$lv=32;
+$stage=array("num"=>"1","set"=>"1","card"=>"68","name"=>"Vulpix");
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Lure",
+		"text"=>"If your opponent has any Benched Pok&eacute;mon, choose 1 of them and switch it with his or her Active Pok&eacute;mon."
+	),
+	array(
+		"cost"=>array("fire","fire","fire","fire"),
+		"name"=>"Fire Blast",
+		"damage"=>"80",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card attached to Ninetales in order to use this attack."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="22.00";
+$rating=7;
+?>

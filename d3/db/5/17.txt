@@ -1,0 +1,12 @@
+<?php
+$name="Divine Riptide";
+$type="spell";
+$civ="Water";
+$cost=9;
+$effect=array(
+	"Each player returns all cards from his mana zone to his hand."
+);
+$flavtext="\"The Megapocalypse has arrived. It's a bit early, huh?\" &mdash;Pokolul";
+$rarity="rare";
+$rating=8;
+?>

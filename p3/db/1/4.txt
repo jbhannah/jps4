@@ -1,0 +1,27 @@
+<?php
+$name="Charizard";
+$type="pkmn";
+$hp=120;
+$lv=76;
+$stage=array("num"=>"2","set"=>"1","card"=>"24","name"=>"Charmeleon");
+$element="fire";
+$weak="water";
+$resist="fighting";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Energy Burn",
+	"text"=>"As often as you like during your turn <I>(before your attack)</I>, you may turn all Energy attached to Charizard into <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("fire","fire","fire","fire"),
+		"name"=>"Fire Spin",
+		"damage"=>"100",
+		"text"=>"Discard 2 Energy cards attached to Charizard in order to use this attack."
+	)
+);
+$rarity="rareholo";
+$price="20.00";
+$firstedn="100.00";
+$rating=7;
+?>

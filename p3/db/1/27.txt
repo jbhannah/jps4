@@ -1,0 +1,27 @@
+<?php
+$name="Farfetch'd";
+$type="pkmn";
+$hp=50;
+$lv=20;
+$element="colorless";
+$weak="lightning";
+$resist="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Leek Slap",
+		"damage"=>"30",
+		"text"=>"Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use this attack again)."
+	),
+	array(
+		"cost"=>array("colorless","colorless","colorless"),
+		"name"=>"Pot Smash",
+		"damage"=>"30"
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=7;
+?>

@@ -1,0 +1,9 @@
+<?php
+$name="Item Finder";
+$type="trainer";
+$text="Discard 2 of the other cards in your hand in order to put a Trainer card from your discard pile into your hand.";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating=8;
+?>

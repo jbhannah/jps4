@@ -1,0 +1,6 @@
+<?php
+$cotwdate="10 February 2005";
+$set=5;
+$card=1;
+$review="Another godly-awesome Light blocker from Survivors of the Megapocalypse: 7-for-5K blocker, no restrictions, untap after battle every time it blocks. You can't get much better than that as far as blockers go. Actually, in Megapocalypse, there are 3 Light power-blockers: <A href=\"d3_database.php?set=5&card=s1\">Syrius, Firmament Elemental</A>, La Byle, and <A href=\"d3_database.php?set=5&card=14\">Syforce, Aurora Elemental</A>. I wouldn't be surprised to see more mono-Light start springing up at the JDC and 5 Civ tourneys.";
+?>

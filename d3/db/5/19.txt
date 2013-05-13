@@ -1,0 +1,12 @@
+<?php
+$name="Miracle Quest";
+$type="spell";
+$civ="Water";
+$cost=3;
+$effect=array(
+	"Whenever any of your creatures finishes attacking this turn, you may draw 2 cards for each shield it broke."
+);
+$flavtext="\"Search high and low! We must find the jade idol! And while you're at it, see if you can find my car keys.\" &mdash;Tropico";
+$rarity="uncommon";
+$rating=7;
+?>

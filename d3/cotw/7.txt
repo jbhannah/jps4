@@ -1,0 +1,6 @@
+<?php
+$cotwdate="20 December 2004";
+$set=3;
+$card=32;
+$review="Yet another card&mdash;a common&mdash;that, if used right, can win you the game. This one is best for in the early stages of the midgame phase, if you see that your opponent still has a weak base of creatures and you have more than enough creatures on your side to take them out. Play this, take out anything that might get in your way, and play this. If it doesn't win you the game in one turn, it will make it a lot easier to do so before long. The one thing you have to be careful with is its second effect, which sends one of your shields to the graveyard, so make sure you can handle anything your opponent might still be able to throw at you afterwards first; shields should never be so lightly tossed aside unless you're sure you can survive without one or two.";
+?>

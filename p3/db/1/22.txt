@@ -1,0 +1,28 @@
+<?php
+$name="Pidgeotto";
+$type="pkmn";
+$hp=60;
+$lv=36;
+$stage=array("num"=>"1","set"=>"1","card"=>"57","name"=>"Pidgey");
+$element="colorless";
+$weak="lightning";
+$resist="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Whirlwind",
+		"damage"=>"20",
+		"text"=>"If your opponent has any Benched Pok&eacute;mon, he or she chooses 1 of them and switches it with the Defending Pok&eacute;mon. (Do the damage before switching the Pok&eacute;mon.)"
+	),
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Mirror Move",
+		"text"=>"If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pok&eacute;mon."
+	)
+);
+$rarity="rare";
+$price="2.00";
+$firstedn="5.00";
+$rating=4;
+?>

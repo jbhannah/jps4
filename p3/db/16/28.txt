@@ -1,0 +1,24 @@
+<?php
+$name="Combusken";
+$type="pkmn";
+$hp=80;
+$stage=array("num"=>"1","set"=>"16","card"=>"74","name"=>"Torchic");
+$element="fire";
+$weak="water";
+$retreat=1;
+$pokebody=array(
+	"name"=>"Natural Cure",
+	"text"=>"When you attach a <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card from your hand to Combusken, remove all Special Conditions from Combusken."
+);
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Lunge",
+		"damage"=>"50",
+		"text"=>"Flip a coin. If tails, this attack does nothing."
+	)
+);
+$rarity="uncommon";
+$price="1.50";
+$rating=6;
+?>

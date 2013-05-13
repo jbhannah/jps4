@@ -1,0 +1,18 @@
+<?php
+$name="Torchic";
+$type="pkmn";
+$hp=50;
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Singe",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Burned."
+	)
+);
+$rarity="common";
+$price="0.20";
+$rating=3;
+?>

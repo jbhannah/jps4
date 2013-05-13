@@ -1,0 +1,12 @@
+<?php
+$name="Cyclone Panic";
+$type="spell";
+$civ="Fire";
+$cost=3;
+$trigger=1;
+$effect=array(
+	"Each player counts the cards in his hand, shuffles those cards into his deck, then draws that many cards."
+);
+$rarity="uncommon";
+$rating=8;
+?>

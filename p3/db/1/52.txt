@@ -1,0 +1,20 @@
+<?php
+$name="Machop";
+$type="pkmn";
+$hp=50;
+$lv=20;
+$element="fighting";
+$weak="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("fighting"),
+		"name"=>"Low Kick",
+		"damage"=>"20"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=6;
+?>

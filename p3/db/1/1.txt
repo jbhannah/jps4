@@ -1,0 +1,26 @@
+<?php
+$name="Alakazam";
+$type="pkmn";
+$hp=80;
+$lv=42;
+$stage=array("num"=>"2","set"=>"1","card"=>"32","name"=>"Kadabra");
+$element="psychic";
+$weak="psychic";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Damage Swap",
+	"text"=>"As often as you like during your turn <I>(before your attack)</I>, you may move 1 damage counter from 1 of your Pok&eacute;mon to another as long as you don't Knock Out that Pok&eacute;mon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("psychic","psychic","psychic"),
+		"name"=>"Confuse Ray",
+		"damage"=>"30",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Confused."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=7;
+?>

@@ -1,0 +1,15 @@
+<?php
+$name="Astral Warper";
+$type="creature";
+$power=5000;
+$civ="Water";
+$cost=6;
+$race="Cyber Virus";
+$evolution=1;
+$effect=array(
+	"When you put this creature into the battle zone, draw up to 3 cards."
+);
+$flavtext="\"Can you even comprehend the overwhelming intellectual advantage I have over you?\"";
+$rarity="veryrare";
+$rating=6;
+?>

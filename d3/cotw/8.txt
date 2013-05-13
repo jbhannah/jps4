@@ -1,0 +1,6 @@
+<?php
+$cotwdate="27 December 2004";
+$set=4;
+$card=18;
+$review="I mentioned this card a few weeks ago and decided to bring it back as Card of the Week. There's not much to be said for it, though; plain and simple, it resets your side of the field at the end of your turn at the cost of only 1 mana, making all of your blockers available and preventing your Candy Drops (2-for-1000 unblockable) from being left vulnerable. This card should be played in just about every deck with Light cards in it, and fits very nicely into both control and counter-control decks.";
+?>

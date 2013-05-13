@@ -1,0 +1,26 @@
+<?php
+$name="Dark Feraligatr";
+$type="pkmn";
+$hp=80;
+$lv=44;
+$stage=array("num"=>"2","set"=>"11","card"=>"32","name"=>"Dark Croconaw");
+$element="water";
+$weak="grass";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Scare",
+	"text"=>"As long as Dark Feraligatr is your Active Pok&eacute;mon, all of your opponent's Baby Pok&eacute;mon Powers stop working and your opponent's Baby Pok&eacute;mon can't attack. This power stops working while Dark Feraligatr is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("water","water","water"),
+		"name"=>"Crushing Blow",
+		"damage"=>"50",
+		"text"=>"If the Defending Pok&eacute;mon has any Energy cards attached to it, flip a coin. If heads, choose 1 of those cards and discard it."
+	)
+);
+$rarity="rareholo";
+$price="5.00";
+$firstedn="12.00";
+$rating=7;
+?>

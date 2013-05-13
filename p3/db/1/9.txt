@@ -1,0 +1,28 @@
+<?php
+$name="Magneton";
+$type="pkmn";
+$hp=60;
+$lv=28;
+$stage=array("num"=>"1","set"=>"1","card"=>"53","name"=>"Magnemite");
+$element="lightning";
+$weak="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("lightning","lightning","colorless"),
+		"name"=>"Thunder Wave",
+		"damage"=>"30",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	),
+	array(
+		"cost"=>array("lightning","lightning","colorless","colorless"),
+		"name"=>"Selfdestruct",
+		"damage"=>"80",
+		"text"=>"Does 20 damage to each Pok&eacute;mon on each player's Bench. <I>(Don't apply Weakness and Resistance for Benched Pok&eacute;mon.)</I> Magneton does 80 damage to itself."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="18.00";
+$rating=5;
+?>

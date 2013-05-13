@@ -1,0 +1,16 @@
+<?php
+$cardnum="S2";
+$name="King Aquakamui";
+$type="creature";
+$power=5000;
+$civ="Water";
+$cost=7;
+$race="Leviathan";
+$effect=array(
+	"When you put this creature into the battle zone, you may return all Angel Commands and all Demon Commands from your graveyard to your hand.",
+	"Angel Commands and Demon Commands in the battle zone each get +2000 power."
+);
+$flavtext="He drifts along the currents of war.";
+$rarity="superrare";
+$rating=8;
+?>

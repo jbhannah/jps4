@@ -1,0 +1,13 @@
+<?php
+$cardnum="S4";
+$name="King Depthcon";
+$type="creature";
+$power=6000;
+$civ="Water";
+$cost=7;
+$race="Leviathan";
+$effect=array('Double Breaker <I>(This creature breaks 2 shields.)</I>','This creature can\'t be blocked.');
+$flavtext="Leviathans are just like storms. All you can do is wait until they pass.";
+$rarity="superrare";
+$rating=10;
+?>

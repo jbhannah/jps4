@@ -1,0 +1,14 @@
+<?php
+$name="La Guile, Seeker of Skyfire";
+$type="creature";
+$power=7500;
+$civ="Light";
+$cost=6;
+$race="Mecha Thunder";
+$effect=array(
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="Today's weather report: partly cloudy, with an 80 percent chance of being blasted from space.";
+$rarity="uncommon";
+$rating=7;
+?>

@@ -1,0 +1,14 @@
+<?php
+$name="Milieus, the Daystretcher";
+$type="creature";
+$power=2500;
+$civ="Light";
+$cost=5;
+$race="Beserker";
+$blocker=1;
+$effect=array(
+	"Each darkness creature costs 2 more to summon, and each darkness spell costs 2 more to cast."
+);
+$rarity="uncommon";
+$rating=8;
+?>

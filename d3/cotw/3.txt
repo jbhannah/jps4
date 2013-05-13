@@ -1,0 +1,6 @@
+<?php
+$cotwdate="26 November 2004";
+$set=1;
+$card="s4";
+$review="Another awesome Base Set card. Seven mana for a double-breaking 6 grand unblockable. The deck I play has both this and Hanusa; if I can manage to pull both in a game against you, you really don't have any chance.";
+?>

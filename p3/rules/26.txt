@@ -1,0 +1,78 @@
+<DL>
+<DT>Active Pok&eacute;mon</DT>
+<DD>Your Pok&eacute;mon that is in front of all of your other Pok&eacute;mon. Only the Active Pok&eacute;mon can attack.</DD>
+<DT>attach</DT>
+<DD>When you take a card from your hand and put it on one of your Pok&eacute;mon in play.</DD>
+<DT>attack</DT>
+<DD>1) When your Active Pok&eacute;mon fights your opponent's Pok&eacute;mon. 2) The text written on each Pok&eacute;mon card that shows what it does when it attacks (a Pok&eacute;mon can have several attacks on it).</DD>
+<DT>Attacking Pok&eacute;mon</DT>
+<DD>Your Active Pok&eacute;mon, as it fights your opponent's Pok&eacute;mon.</DD>
+<DT>Baby Pok&eacute;mon</DT>
+<DD>These are a special type of Basic Pok&eacute;mon card. They can evolve into other Basic Pok&eacute;mon. If a Baby Pok&eacute;mon evolves into a Basic Pok&eacute;mon, it is treated as if it were an Evolved Pok&eacute;mon, not a Basic Pok&eacute;mon card. Cards that refer to Basic Pok&eacute;mon refer to Baby Pok&eacute;mon as well.</DD>
+<DT>basic Energy card</DT>
+<DD>A Grass <IMG src="p3/db/images/elements/grass.gif" align=middle>, Fire <IMG src="p3/db/images/elements/fire.gif" align=middle>, Water <IMG src="p3/db/images/elements/water.gif" align=middle>, Lightning <IMG src="p3/db/images/elements/lightning.gif" align=middle>, Psychic <IMG src="p3/db/images/elements/psychic.gif" align=middle>, or Fighting <IMG src="p3/db/images/elements/fighting.gif" align=middle> Energy card.</DD>
+<DT>Basic Pok&eacute;mon card</DT>
+<DD>A card that you can play directly from your hand on your turn to put a Pok&eacute;mon into play. <I>See</I> Evolution card.</DD>
+<DT>Bench</DT>
+<DD>Where your Pok&eacute;mon go that are in play but are not actively fighting. They are ready to come out and fight if the Active Pok&eacute;mon retreats or is Knocked Out. When Benched Pok&eacute;mon recieve damage, do not apply Weakness or Resistance.</DD>
+<DT>Burn marker</DT>
+<DD>What you place on a Pok&eacute;mon to remind you that it is Burned. A marker goes away if the Pok&eacute;mon is Benched or Evolved. <I>See</I> counter, damage counter.</DD>
+<DT>counter</DT>
+<DD>Something that cards tell you to place on a Pok&eacute;mon as a reminder (for example, a Char counter). A counter does not go away when you Bench the Pok&eacute;mon, but it does go away if the Pok&eacute;mon evolves (damage counters are a special exception to this rule). <I>See</I> damage counter, Poison marker.</DD>
+<DT>damage</DT>
+<DD>What usually happens when one Pok&eacute;mon attacks another. If a Pok&eacute;mon has total damage greather than or equal to its Hit Points, it is Knocked Out.</DD>
+<DT>damage counter</DT>
+<DD>A counter placed on your Pok&eacute;mon to show that it has taken damage. It stays on your Pok&eacute;mon even if the Pok&eacute;mon is Benched or Evolved. Each damage counter counts as 10 damage. <I>See</I> counter, Poison marker.</DD>
+<DT>Defending Pok&eacute;mon</DT>
+<DD>Your opponent's Active Pok&eacute;mon during your attack.</DD>
+<DT>discard pile</DT>
+<DD>The pile of cards you have discarded. These cards are always face up. Anyone can look at these cards at any time.</DD>
+<DT>Energy card</DT>
+<DD>The type of card that powers your Pok&eacute;mon and makes them able to attack. <I>See</I> basic Energy card.</DD>
+<DT>Evolution card</DT>
+<DD>A card you can play on top of a Basic Pok&eacute;mon card (or sometimes on top of another Evolution card) to make it stronger.</DD>
+<DT>Fossil Trainer cards</DT>
+<DD>These are a special kind of Trainer card, that act like a Basic Pok&eacute;mon when put into play. When that kind of Trainer card is in your hand, deck, or discard pile, it is not considered a Basic Pok&eacute;mon.</DD>
+<DT>Hit Points (HP)</DT>
+<DD>A number every Pok&eacute;mon has, telling you how much damage it can take before it is Knocked Out.</DD>
+<DT>in play</DT>
+<DD>Your cards are in play when they are on the table. Basic Pok&eacute;mon cards, Evolution cards, and Energy cards cannot be used unless they are in play. (The cards in your deck and discard pile, and your prizes, are not in play, but your Benched Pok&eacute;mon are.)</DD>
+<DT>Knocked Out</DT>
+<DD>A Pok&eacute;mon is Knocked Out if it has damage greater than or equal to its Hit Points. That Pok&eacute;mon goes to the discard pile, along with any cards attached to it. When one of your opponent's Pok&eacute;mon is Knocked Out, you take one of your Prizes.</DD>
+<DT>Poison marker</DT>
+<DD>What you place on a Pok&eacute;mon to remind you that it is Poisoned. A marker goes away if the Pok&eacute;mon is Benched or Evolved. <I>See</I> counter, damage counter.</DD>
+<DT>Pok&eacute;-Body</DT>
+<DD>A Pok&eacute;-Body is an effect on a Pok&eacute;mon that is always active, as soon as that Pok&eacute;mon is in play. The effect of that Pok&eacute;-Body lasts until the Pok&eacute;mon leaves play.</DD>
+<DT>Pok&eacute;-Power</DT>
+<DD>Pok&eacute;-Powers are usually once-per-turn powers on Active and Benched Pok&eacute;mon, that you must choose to use. Most Pok&eacute;-Powers are turned off if the Pok&eacute;mon becomes affected by a Special Condition.</DD>
+<DT>Pok&eacute;mon</DT>
+<DD>The colorful creatures that fight for you in the <B>Pok&eacute;mon</B> Trading Card Game. They are represented in the game by Basic Pok&eacute;mon and Evolution cards.</DD>
+<DT>Pok&eacute;mon-ex</DT>
+<DD>Pok&eacute;mon-ex are a stronger form of Pok&eacute;mon, with a special drawback: when your opponent defeats your Pok&eacute;mon-ex, he or she gets to draw two Prize cards, instead of one.</DD>
+<DT>Pok&eacute;mon Power</DT>
+<DD>A special apility some Pok&eacute;mon have. Pok&eacute;mon Powers are divided into two categories: Pok&eacute;-Power and Pok&eacute;-Body. These are written in the same place attacks are, but they always have the words "Pok&eacute;-Power" or "Pok&eacute;-Body" in front of them so that you can tell they are not attacks.</DD>
+<DT>Pok&eacute;mon Tool</DT>
+<DD>These are a special kind of Trainer card thatyou can attach to your Pok&eacute;mon to help you. Each Pok&eacute;mon can have only 1 Pok&eacute;mon Tool attached to it at any time.</DD>
+<DT>Prize Cards</DT>
+<DD>The 6 cards you put face down at the start of the game. Every time one of your opponent's Pok&eacute;mon is Knocked Out, you take 1 of your Prizes into your hand (or 2 prizes, if it was a Pok&eacute;mon-ex). When you take your last Prize Card, you win!</DD>
+<DT>Resistance</DT>
+<DD>If a Pok&eacute;mon has a Resistance, it takes 30 less damage when attacked by Pok&eacute;mon of a certain type. Resistance is indicated in the lower middle of the card.</DD>
+<DT>retreat</DT>
+<DD>When you take your Active Pok&eacute;mon and switch it with one of your Benched Pok&eacute;mon. To retreat, you must discard Energy from the retreating Pok&eacute;mon equal to the Retreat Cost of the Pok&eacute;mon. This cost aappears in the lower right-hand corner of the card. You can only retreat once per turn.</DD>
+<DT>Special Condition</DT>
+<DD>Asleep, Burned, Confused, Paralyzed, and Poisoned are called Special Conditions.</DD>
+<DT>Stadium card</DT>
+<DD>A kind of Trainer card that stays in play after you play it. It affects the game for as long as it stays in play. Only one Stadium card can be in play at a time, so if there is one on the table already an da new one comes into play, discard the old one. You can only play one Stadium card each turn.</DD>
+<DT>Sudden Death</DT>
+<DD>Sometimes both players win at the same time. In this case, you play a shorter version of the <B>Pok&eacute;mon</B> TCG called "Sudden Death" (using only 1 Prize Card each instead of 6).</DD>
+<DT>Supporter card</DT>
+<DD>These are a special kind of Trainer card that you put next to your Active Pok&eacute;mon to help you. Supporter cards are discarded at the end of a turn. You can play only one Supporter card each turn.</DD>
+<DT>Technical Machine</DT>
+<DD>A kind of Trainer card that you attach to your Pok&eacute;mon. Each Technical Machine card has an attack on them that, when attached to your Pok&eacute;mon, your Pok&eacute;mon can use as if it were its own. Technical Machine cards are discarded at the end of a turn.</DD>
+<DT>Trainer card</DT>
+<DD>A card that you play during your turn by following the instructions on the card and then discarding it.</DD>
+<DT>Trainers' Pok&eacute;mon</DT>
+<DD>Pok&eacute;mon that have trainers' names in their titles, like Brock's Sandshrew. You cannot evolve a regular Sandshrew into a Brock's Sandslash, and you cannot evolve a Brock's Sandshrew into a regular Sandslash. Treat Sandshrew and Brock's Sandshrew like two completely different Pok&eacute;mon.</DD>
+<DT>Weakness</DT>
+<DD>If a Pok&eacute;mon has a Weakness, it takes double damage when attacked by Pok&eacute;mon of a certain type. Weakness is indicated in the lower left-hand corner of the card.</DD>
+</DL>

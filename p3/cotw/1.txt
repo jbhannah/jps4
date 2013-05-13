@@ -1,0 +1,6 @@
+<?php
+$cotwdate="22 October 2004";
+$set=16;
+$card=101;
+$review="Mewtwo ex is&mdash;arguably&mdash;one of the best Pok&eacute;mon cards ever created. It's essentially the big brother to the Pok&eacute;mon: The First Movie promo Mewtwo, which sported 70HP, the same Energy Absorbtion attack, and a Psyburn worth 40 damage per turn for two Psychic and another energy. This card takes it up a notch, with 100HP and a Psyburn that does 60 damage for the same cost as the original, the only drawbacks being the Pok&eacute;mon-ex knockout bonus (two prizes to your opponent for taking it down) and a retreat cost of 3. However, neither is of really that much importance; once this card is in the arena, it's staying in until it goes down, which will take quite some work. Mewtwo ex is best as a early- to mid-game monster, once you've got some Psychic and other energy cards in the discard pile: move it into the arena, drop a Psychic and Energy Absorbtion another Psychic plus one energy from the discard pile, then Psyburn until either Mewtwo ex or your opponent is down. This card was definitely the first of the new \"broken card\" era that began with EX Ruby &amp; Sapphire.";
+?>

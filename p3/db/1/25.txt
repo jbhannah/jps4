@@ -1,0 +1,27 @@
+<?php
+$name="Dewgong";
+$type="pkmn";
+$hp=80;
+$lv=42;
+$stage=array("num"=>"1","set"=>"1","card"=>"41","name"=>"Seel");
+$element="water";
+$weak="lightning";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("water","water","colorless"),
+		"name"=>"Aurora Beam",
+		"damage"=>"50"
+	),
+	array(
+		"cost"=>array("water","water","colorless","colorless"),
+		"name"=>"Ice Beam",
+		"damage"=>"30",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=7;
+?>

@@ -1,0 +1,20 @@
+Some attacks cause the Defending Pok&eacute;mon to be Asleep, Burned, Confused, Paralyzed, or Poisoned. These conditions are called "Special Conditions." They do not happen to a Benched Pok&eacute;mon, only to an active Pok&eacute;mon &ndash; in fact, if a Pok&eacute;mon goes to the Bench, Special Conditions are removed from it. And evolving a Pok&eacute;mon also means it is no longer affected by a Special Condition.
+<P>
+<B><I>Asleep</I></B><BR>
+If a Pok&eacute;mon is Asleep, it cannot attack or retreat. As soon as a Pok&eacute;mon it Asleep, turn it sideways to show that it is Asleep. After each player's turn, flip a coin. On heads, the Pok&eacute;mon wakes up (turn the card back right-side up), but on tails it is still Asleep, and you have to wait until after the next turn to try to wake it up again.
+<P>
+<B><I>Burned</I></B><BR>
+If a Pok&eacute;mon is Burned, place a "Burn marker" on it to show that it is Burned. As long as it's still Burned, flip a coin after each player's turn. If tails, place 2 damage counters on it, ignoring Weakness and Resistance. If an attack would Burn a Pok&eacute;mon that is already burned, it does not get doubly Burned; instead, the new Burn condition replaces the old one. Make sure whatever you use for a Burn marker looks different from a damage counter.
+<P>
+<B><I>Confused</I></B><BR>
+If a Pok&eacute;mon is Confused, you have to flip a coin whenever you try to attack with that Pok&eacute;mon. Turn a Confused Pok&eacute;mon with its head pointed toward you to show that it is Confused.
+<P>
+A Confused Pok&eacute;mon can retreat to the Bench normally, where it loses all Special Conditions.
+<P>
+When you attack with a Confused Pok&eacute;mon, you flip a coin. On heads, the attack works normally, but on tails your Pok&eacute;mon recieves 3 damage counters. (Only apply Weakness and Resistance for actual damage, not damage counters.) The Active Pok&eacute;mon recieves 3 damage counters even if its attack normally does not do damage (like Treecko's Poison Breath attack).
+<P>
+<B><I>Paralyzed</I></B><BR>
+If a Pok&eacute;mon is Paralyzed, it cannot attack or retreat. Turn the Pok&eacute;mon sideways to show that it is Paralyzed. If an Active Pok&eacute;mon is Paralzyed, it recovers after its player's next turn. Turn the card right-side up again. What this means is that if your Pok&eacute;mon gets Paralyzed, it will be out of action on your next turn, and then it will be okay again.
+<P>
+<B><I>Poisoned</I></B><BR>
+If a Pok&eacute;mon is Poisoned, put a "Poison marker" on it to show that it is Poisoned. As long as it is still Poisoned, place a damage counter on it after each player's turn, ignoring Weakness and Resistance. If an attack would Poison a Pok&eacute;mon that is already Poisoned, it does not get doubly poisoned; instead, the new Poison condition replaces the old one. Make sure whatever you use for a Poison marker looks different from a damage counter.

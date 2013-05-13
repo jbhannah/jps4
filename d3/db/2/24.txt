@@ -1,0 +1,14 @@
+<?php
+$name="Chaos Worm";
+$type="creature";
+$power=5000;
+$civ="Darkness";
+$cost=5;
+$race="Parasite Worm";
+$evolution=1;
+$effect=array(
+	"When you put this creature into the battle zone, you may destroy one of your opponent's creatures."
+);
+$rarity="uncommon";
+$rating=7;
+?>

@@ -1,0 +1,28 @@
+<?php
+$name="Kakuna";
+$type="pkmn";
+$hp=80;
+$lv=23;
+$stage=array("num"=>"1","set"=>"1","card"=>"69","name"=>"Weedle");
+$element="grass";
+$weak="fire";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Stiffen",
+		"text"=>"Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)"
+	),
+	array(
+		"cost"=>array("grass","grass"),
+		"name"=>"Poisonpowder",
+		"damage"=>"20",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Poisoned."
+	)
+);
+$rarity="uncommon";
+$price="1.00";
+$firstedn="3.50";
+$other="Unlimited edition \"length-length\" error card is worth $2.00. No corrected first edition card exists.";
+$rating=6;
+?>

@@ -1,0 +1,35 @@
+<CENTER>
+<TABLE width=400 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>Pok&eacute;mon cards, Evolution cards, and Energy cards will be on the table&mdash;"in play"&mdash;after you play them from your hand. You can keep using these cards in play turn after turn. Trainer cards, though, are used once and then put in the discard pile.
+</TD></TR></TABLE>
+<P>
+<DIV class=subhead>Pok&eacute;mon Card</DIV>
+<IMG src="p3/rules/pkmncard.jpg" alt="Pok&eacute;mon Card">
+<P>
+<DIV class=subhead>Energy Card</DIV>
+<IMG src="p3/pics/16/sm/108.jpg" alt="Energy Card"><BR>
+<B><I>Energy cards</I></B> give your Pok&eacute;mon the Energy they need to use their attacks.
+<P>
+<DIV class=subhead>Trainer Card</DIV>
+<IMG src="p3/pics/16/sm/91.jpg" alt="Trainer Card"><BR>
+<B><I>Trainer cards</I></B> are played by doing what they say and then putting them in your discard pile.
+<P>
+<TABLE width=240 border=1>
+<TR><TD align=center colspan=3><DIV class=subhead>Key To Energy Symbols</DIV></TD></TR>
+<TR><TD width=80>
+<IMG src="p3/db/images/elements/grass.gif" align=middle> Grass<BR>
+<IMG src="p3/db/images/elements/fire.gif" align=middle> Fire<BR>
+<IMG src="p3/db/images/elements/water.gif" align=middle> Water
+</TD><TD width=80>
+<IMG src="p3/db/images/elements/lightning.gif" align=middle> Lightning<BR>
+<IMG src="p3/db/images/elements/psychic.gif" align=middle> Psychic<BR>
+<IMG src="p3/db/images/elements/fighting.gif" align=middle> Fighting
+</TD><TD width=80>
+<IMG src="p3/db/images/elements/colorless.gif" align=middle> Colorless<BR>
+<IMG src="p3/db/images/elements/dark.gif" align=middle> Darkness<BR>
+<IMG src="p3/db/images/elements/steel.gif" align=middle> Metal
+</TD></TR></TABLE>
+<P>
+<DIV class=subhead>Gameplay Area Layout</DIV>
+<IMG src="p3/rules/layout.jpg" alt="Gameplay Area Layout">
+</CENTER>

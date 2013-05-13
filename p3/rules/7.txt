@@ -1,0 +1,109 @@
+<CENTER><TABLE width=400 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>You can do lots of things during your turn! You always draw a card first, and you always attack last. Here is everything you can do:
+<OL>
+<LI><B>DRAW a card.</B>
+<LI><B>Now DO ANY of these you want in whatever order you want:</B>
+<UL>
+<LI>PUT Basic Pok&eacute;mon cards on the Bench (as many as you want).
+<LI>EVOLVE Pok&eacute;mon (as many as you want).
+<LI>ATTACK 1 Energy card to 1 of your Pok&eacute;mon (only once per turn).
+<LI>PLAY Trainer cards (as many as you want, but only one Stadium and one Supporter card per turn).
+<LI>RETREAT your Active Pok&eacute;mon (only once per turn).
+<LI>USE Pok&eacute;-Powers (as many as you want).
+</UL>
+<LI><B>ATTACK!</B>
+<UL>
+<LI>CHECK to make sure you have enough Energy attached to your Active Pok&eacute;mon to attack.
+<LI>CHECK Weakness and Resistance of your opponent's Pok&eacute;mon.
+<LI>PLACE damage counters on your opponent's Pok&eacute;mon.
+<LI>CHECK to see if you Knocked Out your opponent's Pok&eacute;mon.
+<LI>TAKE a Prize Card (if you Knocked Out your opponent's Pok&eacute;mon).
+</UL>
+<LI><B>Your turn is OVER now.</B>
+</OL>
+</TD></TR></TABLE></CENTER>
+<P>
+<OL>
+<LI><B>DRAW a card.</B>
+<BR>
+You begin your turn by drawing a card. (If your deck is empty at the beginning of your turn so you can't draw a card, the game is over, and your opponent wins.)
+<P>
+When you start a game, the player who goes first skips drawing his or her first card.
+<P>
+<LI><B>Now DO ANY of these you want in whatever order you want:
+<P><UL>
+<LI><I>PUT Basic Pok&eacute;mon cards on the Bench (as many as you want).</I></B><BR>
+Choose a Basic Pok&eacute;mon card from your hand and put it face up on your Bench. You can have no more than 5 Pok&eacute;mon on your Bench at any time, so you can put a new Basic Pok&eacute;mon card there only if your Bench has 4 or fewer Pok&eacute;mon on it. If your Active Pok&eacute;mon gets Knocked Out (or leaves play for any other reason), you have to replace it with a Pok&eacute;mon from your Bench (or you lose the game).
+<P>
+<LI><B><I>EVOLVE Pok&eacute;mon (as many as you want).</I></B><BR>
+If you have a card from your hand that says "Evolves from so-and-so" and so-and-so is the name of a Pok&eacute;mon you already have in play, you may play that card in your hand on top of Pok&eacute;mon so-and-so. This is called "evolving" a Pok&eacute;mon.
+<BLOCKQUOTE>
+<B>Example:</B> Ella has a card cald Raichu that says "Evolves from Pikachu," and she has a Pikachu in play. She may play the Raichu card on top of the Pikachu card.
+</BLOCKQUOTE>
+You may evolve a Basic Pok&eacute;mon to a Stage 1 Pok&eacute;mo, or a Stage 1 Pok&eacute;mon to a Stage 2 Pok&eacute;mon. When a Pok&eacute;mon evolves, it keeps all cards attached to it (Energy cards, Evolution cards, etc.) and any damage it might already have, but the old attacks and Pok&eacute;-Powers and Pok&eacute;-Bodies of the Pok&eacute;mon it evolved from go away. All other things about the Pok&eacute;mon go away, such as Special Conditions or anything else that might be the result of an attack made earlier.
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>Sorry, you cannot evolve a Pok&eacute;mon that you just played or evolved on that turn. Also, neither player can evolve a Pok&eacute;mon on the first turn. And finally, yes, you can evolve a Pok&eacute;mon on your Bench &ndash; that counts as in play!
+</TD></TR></TABLE>
+<P>
+<LI><B><I>ATTACH 1 Energy card to 1 of your Pok&eacute;mon (only once per turn).</I></B><BR>
+Take an Energy card from your hand and attach it to one of your Pok&eacute;mon in play, either your Active Pok&eacute;mon or one of your Benched ones, but NOT both (put it under the Pok&eacute;mon card).
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>Unlike most of the other things you can do during your turn, you may do this only once during your turn. Also, remember that you can attach an Energy card to a Pok&eacute;mon on the Bench. After all, that is "in play," too!
+</TD></TR></TABLE>
+<P>
+<LI><B><I>PLAY Trainer cards (as many as you want).</I></B><BR>
+When you want to play a Trainer card, do what it says, then put it in the discard pile. You may only play one Supporter card and only one Stadium card per turn.
+<P>
+<LI><B><I>RETREAT your Active Pok&eacute;mon (only once per turn).</I></B><BR>
+If your Active Pok&eacute;mon has lots of damage counters on it, you might want to retreat it and bring in one of the Pok&eacute;mon on your Bench to fight instead. But on most turns, you probably will not retreat.
+<P>
+To retreat your Active Pok&eacute;mon, you must discard one Energy from it for each <IMG src="p3/db/images/elements/colorless.gif" align=middle> listed for its Retreat Cost. If there are not any <IMG src="p3/db/images/elements/colorless.gif" align=middle> for its Retreat Cost, it retreats for free. (You will read more about costs in the "ATTACK!" section.) Then you can switch it with a Pok&eacute;mon from your Bench. Keep damage counters, Evolution cards, and Energy card (other than the ones you had to discard) with the 2 Pok&eacute;mon when they switch.
+<P>
+A Pok&eacute;mon that is Asleep or Paralyzed cannot retreat.
+<P>
+When your Active Pok&eacute;mon goes to your Bench (whether it retreated or got there some other way), some thigns about it do go away &ndash; Special Conditions (Asleep, Burned, Confused, Paralyzed, and Poisoned) and anything else other than damage, that might be the result of an attack some Pok&eacute;mon made earlier.
+<P>
+If you retreat, you can still attack that turn with the new Active Pok&eacute;mon.
+<P>
+<LI><B><I>USE Pok&eacute;-Powers (as many as you want).</I></B><BR>
+Some Pok&eacute;mon have special "Pok&eacute;-Powers" that they can use when they are in play. (Remember, Benched Pok&eacute;mon are "in play," too, so they can use Pok&eacute;-Powers, if they have any.) Many of these Powers can be used before you attack. Each Pok&eacute;-Power is different, though, so you should read carefully to see how each Power works.
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>Pok&eacute;mon Power isn't the same as a Pok&eacute;mon's attack, so if you use a Pok&eacute;-Power or Pok&eacute;-Body, you can still attack!
+</TD></TR></TABLE>
+</UL><P>
+<LI><B>ATTACK!</B><BR>
+When you attack, you place damage counters on your opponent's Active Pok&eacute;mon (also called the "Defending Pok&eacute;mon"). This is the last thing you can do during your turn. You are only allowed to attack once during your turn (if your Pok&eacute;mon has 2 attacks, it can use only 1 of them each turn). Say the name of the attack you are using, and then follow the rest of the steps below.
+<P><UL>
+<LI><B><I>CHECK to make sure you have enough Energy attached to your Active Pok&eacute;mon to attack.</I></B><BR>
+You can use an attack only if you have at least the required amount of Energy attached to your Active Pok&eacute;mon.
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>The required amount is written to the left of the attack name.
+</TD></TR></TABLE><P>
+Any kind of Energy &ndash; <IMG src="p3/db/images/elements/grass.gif" align=middle>, <IMG src="p3/db/images/elements/fire.gif" align=middle>,<IMG src="p3/db/images/elements/water.gif" align=middle>,<IMG src="p3/db/images/elements/lightning.gif" align=middle>,<IMG src="p3/db/images/elements/psychic.gif" align=middle>,<IMG src="p3/db/images/elements/fighting.gif" align=middle>,<IMG src="p3/db/images/elements/colorless.gif" align=middle>,<IMG src="p3/db/images/elements/dark.gif" align=middle>, or <IMG src="p3/db/images/elements/steel.gif" align=middle> &ndash; can count toward Colorless Energy requirements (<IMG src="p3/db/images/elements/colorless.gif" align=middle>). But for the other eight kinds of Energy, only Energy of the appropriate kind counts toward Energy requirements of that kind. For example, you can use an attack with <IMG src="p3/db/images/elements/lightning.gif" align=middle><IMG src="p3/db/images/elements/lightning.gif" align=middle><IMG src="p3/db/images/elements/colorless.gif" align=middle> next to it only if that Pok&eacute;mon has at least 3 Energy attached to it, at least 2 of which are <IMG src="p3/db/images/elements/lightning.gif" align=middle> Energy.
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>You have to have the required amount of Energy attached to a Pok&eacute;mon to use its attack, but you do not have to discard those cards to attack. The cards stay attached to your Pok&eacute;mon unless the attack says otherwise!
+</TD></TR></TABLE><P>
+<LI><B><I>CHECK Weakness and Resistance of your opponent's Pok&eacute;mon.</I></B><BR>
+Some Pok&eacute;mon have Weakness or Resistance to Pok&eacute;mon of certain other types. (For example, Team Aqua's Carvhana has a Weakness to <IMG src="p3/db/images/elements/lightning.gif" align=middle> Pok&eacute;mon.) Look to see if the Defending Pok&eacute;mon has Weakness or Resistance to the Attacking Pok&eacute;mon's type. The Defending Pok&eacute;mon takes double damage from a Pok&eacute;mon that it has Weakness to, and it takes 30 less damage from a Pok&eacute;mon that it has Resistance to. When Benched Pok&eacute;mon recieve damage, do not apply Weakness or Resistance.
+<P>
+<LI><B><I>PLACE damage counters on your opponent's Pok&eacute;mon.</I></B><BR>
+When you attack, place a damage gounter on your opponent's Active Pok&eacute;mon for each 10 damage your Pok&eacute;mon's attack does (written to the right of the attack name). If an attack says to do something else, be sure to do that, too!
+<P align=center>
+<TABLE width=350 border=1><TR><TD>
+<IMG src="p3/rules/birch.gif" alt="Professor Birch says..." align=left>Usually the attack does not depend on the order you do this in, but if it does, then this is how you figure it out! First, pay any costs (discarding Energy cards, for example). Second, apply any effects on the Attacking Pok&eacute;mon. Next, apply Weakness and Resistance for the Defending Pok&eacute;mon. Finally, apply any other effects on the Defending Pok&eacute;mon.
+</TD></TR></TABLE>
+<P>
+<LI><B><I>CHECK to see if your Pok&eacute;mon Knocked Out your opponent's Pok&eacute;mon.</I></B><BR>
+If a Pok&eacute;mon ever has total damage at least equal to its Hit Points (for example, 5 or more damage counters on a Pok&eacute;mon with 50 HP), it is immediately Knocked Out.<P>
+<LI><B><I>TAKE a Prize Card (if you Knocked Out your opponent's Pok&eacute;mon).</I></B><BR>
+Whenever you Knock Out your opponent's Pok&eacute;mon, your opponent puts is Basic Pok&eacute;mon card and all cards attached to it (Evolution cards, Energy cards, and so on) in his or her discard pile. You then choose one of your Prizes (you do this even if your opponent Knocked Out his or her own Pok&eacute;mon, or if it is Knocked Out between turns!) and put it into your hand. After that, your opponent must replace his or her Active Pok&eacute;mon with a Pok&eacute;mon from his or her bench. (If your opponent cannot do this because his or her Bench is empty, you win!) If your Active Pok&eacute;mon and your opponent's Active Pok&eacute;mon are Knocked Our at the same time, the player whose turn it is replaces his or her Pok&eacute;mon last. The players whose turn it is chooses his or her Prize Card last as well.
+</UL>
+<P>
+<LI><B>Your turn is OVER now.</B><P>
+Sometimes there are things to do after your turn is over but before your opponent's turn begins. After you do those thigns, your opponent's turn begins.
+</OL>

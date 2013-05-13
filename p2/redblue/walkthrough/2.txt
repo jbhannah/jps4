@@ -1,0 +1,61 @@
+Maps:<BR>
+<TABLE>
+<TR>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/pallet.html','mapWin','width=340,height=335')"><IMG src="p2/redblue/img/maps/pallet_s.gif" alt="Pallet Town"><BR>
+Pallet Town</A>
+</TD>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/yourhouse.php','mapWin','width=150,height=175')"><IMG src="p2/redblue/img/maps/yourhouse/1_s.gif" alt="Your House"><BR>
+Your House</A>
+</TD>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/oaklab.php?ver=1','mapWin','width=180,height=225')"><IMG src="p2/redblue/img/maps/oaklab/1_s.gif" alt="Professor Oak's Laboratory"><BR>
+Professor Oak's Laboratory</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+<IMG src="p2/redblue/img/2/1.gif" align=left>
+You begin the game in front of the SNES in your bedroom on the second floor of your house. Take a look around; go up to the computer in the upper-left corner and press "A" to turn it on. From this one, you can only access your item storage, but on most you'll also be able to access your Pok&eacute;mon storage boxes, get your Pok&eacute;dex rated, and view your Hall of Fame once you've beaten the Elite Four. For now, select "Withdraw Item", then select the Potion and press "A" twice to withdraw it. (For multiples of one item, use the d-pad to choose the quantity to withdraw. If you have more than one item stored, you can select an item, press "Select", use the d-pad to choose a new location and press "Select" again to move the item.) Press "B" twice, or select "Cancel" and press "A" then "Log Out" and press "A", to turn off the computer. Go to the upper right corner of the room and down the stairs.
+<P>
+<IMG src="p2/redblue/img/2/2.gif" align=right>
+Downstairs, there's not much more to see. Take a look at the bookcases or TV, and talk to your mom if you want to before you leave. When you're ready, go on to the doormat at the bottom of the room and go down to exit your house. Professor Oak's laboratory is the large building in the southeast corner of Pallet Town; however, if you go there, all you'll find is your rival, who tells you that his grandpa isn't there right now. Go between yours and your rival's houses and north to the grass at the edge of the city. When take a step into the grass, Professor Oak calls out to you. He tells you that it's dangerous to go out into the grass without a Pok&eacute;mon to protect you. Then, he tells you to follow him and leads you to his laboratory.
+<P>
+<IMG src="p2/redblue/img/2/3.gif" align=left>
+Your rival is waiting impatiently at the laboratory for Oak (his grandfather), who after a minute remembers why he asked you two to come to his lab. He indicates three Pok&eacure; Balls sitting on a table to your right, and tells about how he had many Pok&eacute;mon in his younger days but now only has three left; he you to choose one to take with you.
+<P>
+<script language="JavaScript">
+<!-- hide
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	 d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+// stop hiding -->
+</script>
+<img name="n4" src="p2/redblue/img/2/4.gif" align=right usemap="#m_4"><!-- fwtable fwsrc="4.png" fwbase="4.gif" fwstyle="Generic" fwdocid = "742308039" fwnested="0" -->
+<map name="m_4">
+<area shape="rect" coords="82,46,94,58" title="" alt="" onMouseOut="MM_swapImage('n4','','p2/redblue/img/2/4.gif',1);"  onMouseOver="MM_swapImage('n4','','p2/redblue/img/2/4_f4.gif',1);"  >
+<area shape="rect" coords="66,46,78,58" title="" alt="" onMouseOut="MM_swapImage('n4','','p2/redblue/img/2/4.gif',1);"  onMouseOver="MM_swapImage('n4','','p2/redblue/img/2/4_f3.gif',1);"  >
+<area shape="rect" coords="50,46,62,58" title="" alt="" onMouseOut="MM_swapImage('n4','','p2/redblue/img/2/4.gif',1);"  onMouseOver="MM_swapImage('n4','','p2/redblue/img/2/4_f2.gif',1);"  >
+</map>
+You now regain control. Go over to the table and in front of each Pok&eacute; Ball, and press "A" to view each Pok&eacute;mon. You can choose any of the three, from right to left: Bulbasaur, a grass type; Squirtle, a water type; or Charmander, a fire type. Bulbasaur is good early in the game, Squirtle is solid all-around throughout the game, and Charmander is harder to train but more versatile late in the game. The Pok&eacute;mon you choose also determines the one your rival chooses: if you choose Bulbasaur, he chooses Charmander; if you choose Squirtle, he chooses Bulbasaur; and if you choose Charmander, he chooses Squirtle. Each of those puts you at a type disadvantage, but this usually isn't much to worry about, because the right team and training tactics late in the game will make up for that. However, if you want to make it a little easier on yourself, choose Squirtle, becaues it'll be able to make up for its disadvantage than the others; you'll see why later. (With the image to the right, hover over the Pok&eacute; Balls to see which Pok&eacute;mon is inside them.)
+<P>
+<IMG src="p2/redblue/img/2/5.gif" align=left>
+After you view the Pok&eacute;dex entry for each Pok&eacute;mon, it asks you if that's the one you want. Select either "Yes" or "No"; you can't leave until you've chosen a Pok&eacute;mon. Once you do, it asks you if you want to give it a nickname, which you can if you want. A Pok&eacute;mon's nickname stays with it even if it evolves; if you want to change it there's a place in Lavender Town where you can do so. After you've chosen a Pok&eacute;mon, your rival chooses the one that has a type advantage over it. You then regain control and can start to leave, but before you can your rival calls you back and asks you to battle (you don't really have much choice).
+<P>
+<IMG src="p2/redblue/img/2/6.gif" align=right>
+Your rival walks up to you, and the screen blacks out to begin the battle. In the battle screen, your Pok&eacute;mon is the one closer to you in the lower-left corner of the screen, and your opponent's is the one in the top-right corner. On each Pok&eacute;mon's half of the screen is its name, level, and hit points (HP) counter. The goal is to get the opposing Pok&eacute;mon's HP counter down to zero (all the way empty to the left) so that it faints, before your Pok&eacute;mon faints. For this battle, both Pok&eacute;mon are at level 5 and have about 20 hit points. Depending on who you chose, your Pok&eacute;mon knows two attacks:Tackle or Scratch, and Growl or Tail Whip. Tackle and Scratch are physical (damaging) attacks, while Growl and Tail Whip are special attacks (that affect the opposing Pok&eacute;mon's statistics, affecting how much the opposing Pok&eacute;mon does&mdash;Growl decreases that (by decreasing their "Attack" statistic)&mdash;or takes&mdash;Tail Whip increases that (by decreasing their "Defense" statistic). After a lot of these attacks, the statistics they affect decrease to the point where the attack has no more effect on them).
+<P>
+<IMG src="p2/redblue/img/2/7.gif" align=left>
+Some later battles require a certain level of strategical use of special attacks, but for this battle you can stick with your Pok&eacute;mon's physical attack. To attack, select "Fight" from the battle menu. If your Pok&eacute;mon's HP drops down to 5 or less, select "Item", then the Potion you withdrew earlier, and then select Squirtle to use it on. Don't worry about "PKMN" or "Run" for now. After a while, you should be able to knock out your rival's Pok&eacute;mon, giving your Pok&eacute;mon about 67 EXP. (experience) points and bringing it up to level 6. When your Pok&eacute;mon earns a certain amount of experience points, it grows one level, increasing its statistics, which are displayed in a pop-up box on the side of the screen. Sometimes, a Pok&eacute;mon will learn a new attack or even evolve to a higher form when it gains a level. You also get &yen;175 for winning.
+<P>
+<IMG src="p2/redblue/img/2/8.gif" align=right>
+Your rival isn't in that great a mood after you beat him, and storms out of the laboratory. Take a look around if you want, then follow him out of the laboratory. Your Pok&eacute;mon was automatically healed after the battle, but if you're ever in Pallet Town again and need to heal your Pok&eacute;mon, just go back to your house and talk to your mom. Now that you have a Pok&eacute;mon, you can safely go up the grassy route to the north of Pallet Town, but first, press "Start". This brings up the menu screen, from which you can view and sort your Pok&eacute;mon and items (the items are moved around in the same manner as on the PC), view your current game status (name, time played, number of Pok&eacute;mon and badges), edit various game options (same menu as the one from the menu you got when you first turned on the power), or save the game. For now, go to "Save" and press "A", then select "Yes" to save the game. After a few seconds, a chime sounds and the menu disappears, indicating that the save was successful. Go now up to the grass at the top of the screen and continue north to Route 1.

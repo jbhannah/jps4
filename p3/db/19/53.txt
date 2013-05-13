@@ -1,0 +1,24 @@
+<?php
+$name="Team Aqua's Electrike";
+$type="pkmn";
+$hp=50;
+$element="lightning";
+$weak="fighting";
+$resist="steel";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Self Charge",
+		"text"=>"Attach an Energy card from your hand to Team Aqua's Electrike"
+	),
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Tackle",
+		"damage"=>"20"
+	)
+);
+$rarity="common";
+$price="0.20";
+$rating=4;
+?>

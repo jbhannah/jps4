@@ -1,0 +1,20 @@
+<?php
+$name="Staryu";
+$type="pkmn";
+$hp=40;
+$lv=15;
+$element="water";
+$weak="lightning";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("water"),
+		"name"=>"Slap",
+		"damage"=>"20"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=6;
+?>

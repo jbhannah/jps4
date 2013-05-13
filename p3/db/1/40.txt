@@ -1,0 +1,28 @@
+<?php
+$name="Raticate";
+$type="pkmn";
+$hp=60;
+$lv=41;
+$stage=array("num"=>"1","set"=>"1","card"=>"61","name"=>"Rattata");
+$element="colorless";
+$weak="fighting";
+$resist="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Bite",
+		"damage"=>"20"
+	),
+	array(
+		"cost"=>array("colorless","colorless","colorless"),
+		"name"=>"Super Fang",
+		"damage"=>"?",
+		"text"=>"Does damage to the Defending Pok&eacute;mon equal to half the Defending Pok&eacute;mon's remaining HP (rounded up to the nearest 10)."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

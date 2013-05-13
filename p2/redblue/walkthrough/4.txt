@@ -1,0 +1,26 @@
+Maps:<BR>
+<TABLE>
+<TR>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/route1.html','mapWin','width=275,height=640')"><IMG src="p2/redblue/img/maps/route1_s.gif" alt="Route 1"><BR>
+Rotue 1</A>
+</TD>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/pallet.html','mapWin','width=340,height=335')"><IMG src="p2/redblue/img/maps/pallet_s.gif" alt="Pallet Town"><BR>
+Pallet Town</A>
+</TD>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/oaklab.php?ver=2','mapWin','width=180,height=225')"><IMG src="p2/redblue/img/maps/oaklab/2_s.gif" alt="Professor Oak's Laboratory"><BR>
+Professor Oak's Laboratory</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+<IMG src="p2/redblue/img/4/1.gif" align=left>
+Go back south down Route 1 towards Pallet Town. If you want to save time and/or avoid conflicts with wild Pok&eacute;mon, you can jump over the ledges you passed on your way up (you'd know this if you'd went ahead and talked to the second person you met on your way up to Viridian City). Just walk up to one and press down on the d-pad (or sometimes left or right later on) to jump over them. Once you're back in Pallet Town, go to your house and talk to your mom to get your Pok&eacute;mon healed, then go to Professor Oak's laboratory and talk to the Professor. (There'll be one Pok&eacute; Ball left on the table, but you can't do anything with it.) Oak mentions that his Pok&eacute;mon seems to like you, and that "You must be talented as a POK&eacute;MON trainer!" (very high praise coming from Professor Oak). He then notices that you have his parcel, and takes it from you, telling you that it was the custom Pok&eacute; Ball he had ordered and thanking you for retrieving it for him.
+<P>
+<IMG src="p2/redblue/img/4/2.gif" align=right>
+Just then, your rival shows up to ruin your good mood and asks Oak what he had called him to the lab for. Oak indicates two encyclopedia-looking things on a table next to his computer and explains their function: they automatically record information (height, weight, picture, cry, and description) on any Pok&eacute;mon you see or capture. He gives you and your rival each a Pok&eacute;dex and gives you the mission of capturing all 150 Pok&eacute;mon since he is no longer able to travel, let alone complete the Pok&eacute;dex himself. Your rival goes back to his usual arrogant self and says that it won't be any problem, and he won't even need your help. He then says he'll go ask his sister for a map and tell her not to give you one before he walks out. This isn't true, though. (We'll discuss using the Pok&eacute;dex in the next section.)
+<P>
+<IMG src="p2/redblue/img/4/3.gif" align=left>
+Leave Oak's lab, go to the house immediately north (your rival's house), and talk to the girl inside, who's your rival's sister. She'll give you a Town Map for your pack, which shows all of the cities and routes in the world. This can come in useful sometimes, if you lose track of where you are. To access it, go into the menu, select "Item" and choose "Town Map". Use left and right on the d-pad to move through the different places on the map: cities, towns, routes, and landmarks; use "A" or "B" to exit the map. Where you are is indicated by a sprite of you on the area of the map that you are currently at. In some houses, there'll also be a town map on the back wall, which works the same way as the one in your pack. You're done in Pallet Town now for the rest of the game, essentially, so now make your way back up north to Viridian City via Route 1, the same way you took to get there the first time.

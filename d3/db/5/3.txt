@@ -1,0 +1,14 @@
+<?php
+$name="Sinister General Damudo";
+$type="creature";
+$power=5000;
+$civ="Darkness";
+$cost=6;
+$race="Dark Lord";
+$effect=array(
+	"When this creature is destroyed, destroy all creatures that have power 3000 or less."
+);
+$flavtext="\"The Fiona Woods will sustain us only for so long. We must push deeper into the Nature realm.\"";
+$rarity="veryrare";
+$rating=8;
+?>

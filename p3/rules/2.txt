@@ -1,0 +1,9 @@
+You and your opponent take turns, wher Pok&eacute;mon battle against the opposing Pok&eacute;mon. Some Pok&eacute;mon can evolve into stronger forms with better attcks, and increased Hit Points &ndash; these stronger forms are called Evolution cards. These cards look exactly like regular "Basic" Pok&eacute;mon, except they are labeled "Stage 1" and "Stage 2" Pok&eacute;mon.
+<P>
+You can only have one "Active" Pok&eacute;mon at a time &ndash; this is your Pok&eacute;mon that you can battle with, and is generally going to be the one attacked by your opponent's "Active" Pok&eacute;mon. The rest of your Pok&eacute;mon that you put into play stay on the "Bench," where they wait to jump in as your next Active Pok&eacute;mon.
+<P>
+Each turn, the player chooses which attack on his or her Active Pok&eacute;mon he or she wants to use. There are Energy symbols found next to the attack's name &ndash; you have to have the right kind and amount of Energy attached to the Pok&eacute;mon in order to use that attack.
+<P>
+Energy cards give your Pok&eacute;mon the strength to fight. Some attacks require specific kinds of Energy to use, while attacks with the cost of <IMG src="p3/db/images/elements/colorless.gif" align=middle> can use any kind of Energy. Your Pok&eacute;mon do not discard their Energy cards as part of the attack, unless the Pok&eacute;mon specifically tells you to. Energy cards are really important to put in your deck &ndash; a Pok&eacute;mon without any Energy cannot fight very well!
+<P>
+Pok&eacute;mon and Energy cards are most of your 60-card deck. There are also Trainer cards &ndash; you play them on their turn and then discard them. These cards represent different skills you have developed as a Pok&eacute;mon trainer and can really help you win the game when played at the right time. 

@@ -1,0 +1,8 @@
+<?php
+$name="Copycat";
+$type="supporter";
+$text="Shuffle your hand into your deck. Then count the number of cards in your opponent's hand and draw that many cards.";
+$rarity="uncommon";
+$price="0.75";
+$rating=7;
+?>

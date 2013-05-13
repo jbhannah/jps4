@@ -1,0 +1,15 @@
+<?php
+$name="Sea Slug";
+$type="creature";
+$power=6000;
+$civ="Water";
+$cost=8;
+$race="Gel Fish";
+$blocker=1;
+$effect=array(
+	"This creature can't be blocked."
+);
+$flavtext="The Cyber Lords have high standards of beauty for their creatures. They have even higher standards of ugliness.";
+$rarity="rare";
+$rating=8;
+?>

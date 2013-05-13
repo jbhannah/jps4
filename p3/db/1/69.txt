@@ -1,0 +1,21 @@
+<?php
+$name="Weedle";
+$type="pkmn";
+$hp=40;
+$lv=12;
+$element="grass";
+$weak="fire";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("grass"),
+		"name"=>"Poison Sting",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Poisoned."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

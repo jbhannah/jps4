@@ -1,0 +1,6 @@
+<?php
+$cotwdate="24 January 2005";
+$set=19;
+$card=89;
+$review="I'll start with Volcanic Ash: few things can beat taking out (or putting a good heap of damage counters on) any Pok&eacute;mon on your opponent's side of the field. Sure, it's at the cost of two <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy, but Weakness and Resistance don't apply&mdash;making it more efficient than Base Set Charizard's Fire Spin, for example&mdash;and its other attack, Blaze Kick, can hold its own while it recharges. 30 damage and either another 20 or a Burn marker on the Defending Pok&eacute;mon for 2 is also excellent. Of course, it has a double weakness (Energy Rain decks render it useless), but besides those the 150HP and relatively low retreat cost make this card very appealing indeed. In a technical deck (such as Chris Fulop's Blaziken Tech deck) with good damage protection and Energy recovery capabilities, this card rocks.";
+?>

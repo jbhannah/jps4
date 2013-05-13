@@ -1,0 +1,25 @@
+<?php
+$name="Electrode";
+$type="pkmn";
+$hp=80;
+$lv=40;
+$element="lightning";
+$weak="fighting";
+$retreat=1;
+$pkmnpower=array(
+	"name"=>"Buzzap",
+	"text"=>"At any time during your turn <I>(before your attack)</I>, you may Knock Out Electrode and attach it to one of your other Pok&eacute;mon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pok&eacute;mon) that provides 2 energy of that type. You can't use this power if Electrode is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("lightning","lightning","lightning"),
+		"name"=>"Electric Shock",
+		"damage"=>"50",
+		"text"=>"Flip a coin. If tails, Electrode does 10 damage to itself."
+	)
+);
+$rarity="rare";
+$price="2.00";
+$firstedn="6.00";
+$rating=7;
+?>

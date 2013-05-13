@@ -1,0 +1,8 @@
+<?php
+$name="Oracle";
+$type="supporter";
+$text="Choose 2 cards from your deck and shuffle the rest of your deck. Put the chosen cards on top of your deck in any order.";
+$rarity="uncommon";
+$price="0.75";
+$rating=7;
+?>

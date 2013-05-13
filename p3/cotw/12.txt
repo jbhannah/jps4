@@ -1,0 +1,6 @@
+<?php
+$cotwdate="9 January 2005";
+$set=21;
+$card=1;
+$review="This is a very solid card all-around in any Grass deck, but it's best with its own kind. Twenty and sure Poison for one, and fifty for three; if you have more Beedrill in play, they add another 30 apiece. 90 HP and zero retreat cost are nice too. Its previous stages are decent too, with 50 and 70 HP and easy Poison, but Kakuna's 2 retreat cost hurts. That's about it, though.";
+?>

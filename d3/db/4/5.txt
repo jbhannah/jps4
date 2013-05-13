@@ -1,0 +1,14 @@
+<?php
+$name="Supporting Tulip";
+$type="creature";
+$power=4000;
+$civ="Nature";
+$cost=5;
+$race="Tree Folk";
+$effect=array(
+	"Each Angel Command in the battle zone has \"power attacker +4000.\" <I>(While attacking, a creature that has \"power attacker +4000\" gets +4000 power.)</I>"
+);
+$flavtext="They only bloom in outer space.";
+$rarity="veryrare";
+$rating=7;
+?>

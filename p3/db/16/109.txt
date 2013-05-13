@@ -1,0 +1,8 @@
+<?php
+$name="Lightning Energy";
+$type="energy-basic";
+$element="lightning";
+$rarity="common";
+$price="0.20";
+$rating=10;
+?>

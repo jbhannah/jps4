@@ -1,0 +1,12 @@
+<?php
+$name="Bladerush Skyterror Q";
+$type="creature";
+$power=5000;
+$civ="Fire";
+$cost=7;
+$race="Armored Wyvern";
+$survivor="Double breaker <I>(This creature breaks 2 shields.)</I>";
+$flavtext="Its war cry chreds the clouds. Its blades shred everything else.";
+$rarity="veryrare";
+$rating=7;
+?>

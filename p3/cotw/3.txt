@@ -1,0 +1,6 @@
+<?php
+$cotwdate="8 November 2004";
+$set=4;
+$card=25;
+$review="Going old-school this week with a classic from the original Base Set and Base Set 2: Electrode. This card can go into almost any deck, and almost any deck can take this card. In an electric deck, its main use is as a heavy hitter, with its one attack doing 50 for 3 Lightning Energy and a 50/50 chance of a 10 damage recoil. In any other deck (and in electric decks, for that matter) its main use is as extra energy, by using its Pok&eacute;mon Power to knock it out and turn it into two of any Energy. This power is so versatile that it can fit into any deck that needs lots of energy, fast; but, presumably, it can only turn into Basic Energy, leaving you short for Dark and Steel Pok&eacute;mon. Also, since Electrode counts as \"Knocked Out\" when you use its Power your opponent gets to draw a card. Overall, though, this is a pretty good card: a solid attack, splashability with its Pok&eacute;mon Power (and a preevolution that can use any Energy type), and a decent 80 HP and single-card retreat cost.";
+?>

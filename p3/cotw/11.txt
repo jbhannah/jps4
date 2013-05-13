@@ -1,0 +1,6 @@
+<?php
+$cotwdate="27 December 2004";
+$set=21;
+$card=31;
+$review="This is this site's first non-rare CotW, but it's just as good as most rares; proof that your deck doesn't have to be built around rares to be powerful. Charmeleon can deal out 90 damage in the space of two turns within its coming into play, making it one of the fastest cards in the game. The weakness to water is always a drawback, but the 70 HP and retreat cost of 1 are solid, and EX FireRed/LeafGreen's Charmander can hold its own while you're waiting for this card, with 50 HP and fast 10-for-1 and 20-for-2 colorless attacks. The ideal scenario with these two cards is, play Charmander with an energy, make it active and deal out 10. Next turn, add another energy and pile 20 on top of that. Third turn, play Charmeleon and another energy and deal 60, and if the Defending Pok&eacute;mon is still hanging on, go in for the kill on turn 4. That's how fast just this common/uncommon basic/stage 1 combo is. All that's missing is the splashability of the original Charmander line from Base 1; Charmander and Charizard from this set can both use any energy type, but Charmeleon needs Fire energy specifically. Still, this evolution line is, as always, one to watch out for.";
+?>

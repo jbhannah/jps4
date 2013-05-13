@@ -1,0 +1,28 @@
+<?php
+$name="Gyarados";
+$type="pkmn";
+$hp=100;
+$lv=41;
+$stage=array("num"=>"1","set"=>"1","card"=>"35","name"=>"Magikarp");
+$element="water";
+$weak="grass";
+$resist="fighting";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("water","water","water"),
+		"name"=>"Dragon Rage",
+		"damage"=>"50"
+	),
+	array(
+		"cost"=>array("water","water","water","water"),
+		"name"=>"Bubblebeam",
+		"damage"=>"40",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=8;
+?>

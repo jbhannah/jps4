@@ -1,0 +1,24 @@
+<?php
+$name="Blaziken";
+$type="pkmn";
+$hp=100;
+$stage=array("num"=>"2","set"=>"16","card"=>"28","name"=>"Combusken");
+$element="fire";
+$weak="water";
+$retreat=2;
+$pokepower=array(
+	"name"=>"Firestarter",
+	"text"=>"Once during your turn <I>(before your attack)</I>, you may attach a <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card from your discard pile to 1 of your Benched Pok&eacute;mon. This power can't be used if Blaziken is affected by a Special Condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("fire","colorless","colorless"),
+		"name"=>"Fire Stream",
+		"damage"=>"50",
+		"text"=>"Discard a <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card attached to Blaziken. If you do this attack does 10 damage to each of your opponent's Benched Pok&eacute;mon. <I>(Don't apply Weakness and Resistance for Benched Pok&eacute;mon.)</I>"
+	)
+);
+$rarity="rareholo";
+$price="20.00";
+$rating=8;
+?>

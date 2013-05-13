@@ -1,0 +1,14 @@
+<?php
+$name="Calgo, Vizier of Rainclouds";
+$type="creature";
+$power=2000;
+$civ="Light";
+$cost=3;
+$race="Initiate";
+$effect=array(
+	"This creature can't be blocked by creatures that have power 4000 or more."
+);
+$flavtext="\"Arise, Vizier of Rainclouds. Your lash is the blade of justice.\" &mdash;Hanusa, Radience Elemental";
+$rarity="common";
+$rating=7;
+?>

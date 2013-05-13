@@ -1,0 +1,31 @@
+<?php
+$name="Venusaur ex";
+$type="pkmn";
+$hp=150;
+$stage=array("num"=>"2","set"=>"21","card"=>"","name"=>"Ivysaur");
+$element="grass";
+$weak="fire";
+$weak2="psychic";
+$retreat=3;
+$pokepower=array(
+	"name"=>"Energy Trans",
+	"text"=>"As often as you like during your turn <I><I>(before your attack)</I></I>, move a <IMG src=\"p3/db/images/elements/grass.gif\" align=middle> Energy card attached to 1 of your Pok&eacute;mon to another of your Pok&eacute;mon. This power can't be used if Venusaur ex is affected by a special condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Pollen Hazard",
+		"damage"=>"20",
+		"text"=>"The Defending Pok&eacute;mon is now Poisoned, Burned, and Confused."
+	),
+	array(
+		"cost"=>array("grass","grass","grass","colorless","colorless"),
+		"name"=>"Solarbeam",
+		"damage"=>"90"
+	)
+);
+$rarity="ex";
+$other="Scan from <A href=\"http://www.beckettanime.com/\" target=_blank>Beckett Pok&eacute;mon Unofficial Collector</A>, December 2004/January 2005.";
+$price="15.00";
+$rating=9;
+?>

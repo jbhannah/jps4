@@ -1,0 +1,22 @@
+<?php
+$name="Sandshrew";
+$type="pkmn";
+$hp=40;
+$lv=12;
+$element="fighting";
+$weak="grass";
+$resist="lightning";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("fighting"),
+		"name"=>"Sand Attack",
+		"damage"=>"10",
+		"text"=>"If the Defending Pok&eacute;mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, this attack does nothing."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

@@ -1,0 +1,24 @@
+<?php
+$name="Dunsparce";
+$type="pkmn";
+$hp=50;
+$element="colorless";
+$weak="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Strike and Run",
+		"text"=>"Search your deck for up to 3 Basic Pok&eacute;mon and put them onto your Bench. Shuffle your deck afterward. You may switch Dunsparce with 1 of your Benched Pok&eactue;mon."
+	),
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Sudden Flash",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, each Defending Pok&eacute;mon is now Paralyzed."
+	)
+);
+$rarity="common";
+$price="0.20";
+$rating=4;
+?>

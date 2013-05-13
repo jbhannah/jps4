@@ -1,0 +1,21 @@
+<?php
+$name="Doduo";
+$type="pkmn";
+$hp=50;
+$lv=10;
+$element="colorless";
+$weak="lightning";
+$resist="fighting";
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Fury Attack",
+		"damage"=>"10&times;",
+		"text"=>"Flip 2 coins. This attack does 10 damage times the number of heads."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=5;
+?>

@@ -1,0 +1,9 @@
+<?php
+$name="Pok&eacute;mon Breeder";
+$type="trainer";
+$text="Put a Stage 2 Evolution card from your hand on the matching Basic Pok&eacute;mon. You can only play this card when you would be allowed to evolve that Pok&eacute;mon anyway.";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating=8;
+?>

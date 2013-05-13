@@ -1,0 +1,21 @@
+Rules &amp; Strategy<BR>
+&nbsp;: <A href="d3_cardoftheweek.php?week=
+<?php
+$i=1;
+while(file_exists("d3/cotw/$i.txt")) {
+	$i++;
+	if(!file_exists("d3/cotw/$i.txt")) {echo $i-1;}
+;}
+?>
+">Card of the Week</A><BR>
+&nbsp;: <A href="d3_cardoftheweek.php">CotW Archives</A><BR>
+&nbsp;: <A href="d3_deckgarage.php">Deck Garage</A><BR>
+&nbsp;: <A href="d3_rulebook.php">Official Rulebook</A><BR>
+<A href="d3_database.php">Card Database</A><BR>
+<?php
+include("d3/db/index.txt");
+foreach($setlist as $y=>$x) { ?>
+&nbsp;: <A href="d3_database.php?set=<?= $y; ?>"><?php
+if(isset($x['shortname'])) {echo $x['shortname'];}
+else {echo $x['name'];} ?></A><BR>
+<?php ;} ?>

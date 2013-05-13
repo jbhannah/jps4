@@ -1,0 +1,14 @@
+<?php
+$name="Gigakail";
+$type="creature";
+$power=4000;
+$civ="Darkness";
+$cost=5;
+$race="Chimera";
+$effect=array(
+	"Nature and light slayer <I>(Whenever this creature battles a nature or light creature, destroy the nature or light creature after the battle."
+);
+$flavtext="What it was built out of isn't nearly as disturbing as what was done with the leftovers.";
+$rarity="uncommon";
+$rating=8;
+?>

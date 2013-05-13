@@ -1,0 +1,16 @@
+<?php
+$name="La Byle, Seeker of the Winds";
+$type="creature";
+$power=5000;
+$civ="Light";
+$cost=7;
+$race="Mecha Thunder";
+$blocker=1;
+$effect=array(
+	"When this creature blocks, untap it after it battles."
+);
+$flavtext="\"Breeze? Nah. Gust? Nah. Tornado? Aw, yeah.\"";
+$other="Scan from January 2005 D-MAX Survivors of the Megapocalypse poster.";
+$rarity="veryrare";
+$rating=8;
+?>

@@ -1,0 +1,10 @@
+The exact steps to go through when attacking are listed here. For most attacks, it will not matter what order you do things in, but if you have to work your way through a really complicated attack, follow these steps in order and you should be fine.
+<OL type="a">
+<LI>If the Defending Pok&eacute;mon is a Baby Pok&eacute;mon, flip a coin to see if your turn ends without an attack. (If your turn ends without an attack, do not do any of the other steps. You are done now.)<P>
+<LI>Announce which attack your Active Pok&eacute;mon is using. Make sure your Pok&eacute;mon has enough Energy attached to it to use this attack.<P>
+<LI>If necessary, make any choices the attack requires you to make. (For example, Team Magma's Aron's Dig Under attack reads, "Choose 1 of your opponent's Pok&eacute;mon." So you choose now.)<P>
+<LI>If necessary, do anything the attack requires you to do in order to use it. (For example, #26 Team Aqua's Corphish "Dark Poison" reads "Discard a basic Energy card attached to Team Aqua's Corphish or this attack does nothing.")<P>
+<LI>If necessary, apply any effects that might alter or cancel the attack. (For example, if your Pok&eacute;mon was hit last turn by Horsea's Smokescreen attack, Smokescreen reads that if you tried to attack with that Pok&eacute;mon durin your next turn, you should flip a coin. If tails, your Pok&eacute;mon's attack does nothing.)<P>
+<LI>If your active Pok&eacute;mon is Confused, check now to see if the attack fails.<P>
+<LI>Do whatever the attack says. Do any damage first, then do any other effects, and finally, Knock Out any Pok&eacute;mon that have damage greater than or equal to their Hit Points.
+</OL>

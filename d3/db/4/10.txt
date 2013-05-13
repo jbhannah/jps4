@@ -1,0 +1,15 @@
+<?php
+$name="Gulan Rias, Speed Guardian";
+$type="creature";
+$power=2000;
+$civ="Light";
+$cost=3;
+$race="Guardian";
+$effect=array(
+	"This creature can't be attacked by darkness creatures.",
+	"This creature can't be blocked by darkness creatures."
+);
+$flavtext="It outraces shooting stars.";
+$rarity="common";
+$rating=6;
+?>

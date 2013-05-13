@@ -1,0 +1,15 @@
+<?php
+$name="Snork La, Shrine Guardian";
+$type="creature";
+$power=3000;
+$civ="Light";
+$cost=3;
+$race="Guardian";
+$blocker=1;
+$effect=array(
+	"This creature can't attack players.",
+	"Whenever your opponent causes a card to be put into your graveyard from your mana zone, you may return that card to your mana zone."
+);
+$rarity="rare";
+$rating=7;
+?>

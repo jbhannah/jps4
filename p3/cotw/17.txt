@@ -1,0 +1,8 @@
+<?php
+$cotwdate="10 February 2005";
+$set=11;
+$card=10;
+$review="The Neo expansions are notorious for excessive coin flip requirements, and that's really what this card is dependant upon; even so, I've rarely seen three out of three coins land on tails, and three is the most you should ever need to flip using this card. 1 Fire, plus 'x' Fire discards to flip 'x' coins, and do 40 damage for each heads; with 3 discards, you can do up to 120 damage, but typically 80, and rarely 0. Plus, there are plenty of ways to get Energy back once you've discarded it. 80 HP is low, as was the standard for just about everything between Base 1 and Expedition, but the single retreat cost is nice, and a 20-for-1 Colorless attack should tide you over while you wait to recharge.
+<P>
+In addition, Rushing Flames can use Energy from any of your Pok&eacute;mon, so ideally it would be played in a mono-Fire deck. The best combo to use with it would be this attack, with Warp or Recycle Energies attached to a Base Set Charizard or a Charizard ex, using their Pok&eacute;-Powers to change them into Fire Energy. What this card lacks in reliability, it makes up for in flexibility.";
+?>

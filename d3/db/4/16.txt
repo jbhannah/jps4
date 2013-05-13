@@ -1,0 +1,15 @@
+<?php
+$name="Sarius, Vizier of Supression";
+$type="creature";
+$power=3000;
+$civ="Light";
+$cost=2;
+$race="Initiate";
+$blocker=1;
+$effect=array(
+	"This creature can't attack players."
+);
+$flavtext="It's got a heart of gold. And a gall bladder of zinc.";
+$rarity="common";
+$rating=5;
+?>

@@ -1,0 +1,17 @@
+<?php
+$cardnum="S2";
+$name="King Tsunami";
+$type="creature";
+$power=12000;
+$civ="Water";
+$cost=12;
+$race="Leviathan";
+$effect=array(
+	"When you put this creature into the battle zone, return all other creatures from the battle zone to their owners' hands.",
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="The last time it did a backflip, the resulting tidal waves sank three islands.";
+$other="Scan from January 2005 D-MAX Survivors of the Megapocalypse poster.";
+$rarity="superrare";
+$rating=9;
+?>

@@ -1,0 +1,10 @@
+<?php
+$name="Full Defensor";
+$type="spell";
+$civ="Light";
+$cost=2;
+$trigger=1;
+$effect=array("Until the start of your next turn, each of your creatures in the battle zone gets \"Blocker <I>(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle).</I>\"");
+$rarity="rare";
+$rating=9;
+?>

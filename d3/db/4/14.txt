@@ -1,0 +1,14 @@
+<?php
+$name="Ouks, Vizier of Restoration";
+$type="creature";
+$power=1000;
+$civ="Light";
+$cost=5;
+$race="Initiate";
+$effect=array(
+	"When this creature would be destroyed, add it to your shields face down instead."
+);
+$flavtext="\"'Laser web'? Check. 'Laser spider'? Still on order.\"";
+$rarity="rare";
+$rating=8;
+?>

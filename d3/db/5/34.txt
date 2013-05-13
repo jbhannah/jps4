@@ -1,0 +1,15 @@
+<?php
+$name="Vashuna, Sword Dancer";
+$type="creature";
+$power=7000;
+$civ="Darkness";
+$cost=5;
+$race="Demon Command";
+$effect=array(
+	"While your opponent has no shields, this creature can't attack.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="\"My specialties are ballet, tap, and merciless obliteration.\"";
+$rarity="rare";
+$rating=8;
+?>

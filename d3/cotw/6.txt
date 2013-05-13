@@ -1,0 +1,6 @@
+<?php
+$cotwdate="17 December 2004";
+$set=3;
+$card=27;
+$review="This card can be deadly, but only if used correctly and very carefully. It fits very well with the black beatdown genre of decks; and, just like with last week's card, it's happened to all of us that the card we need is either in our shields or our mana zone. If you're playing black and playing it right, the loss of a shield or two by your own doing is affordable.";
+?>

@@ -1,0 +1,41 @@
+<CENTER>
+<IMG src="site/img/affiliates.gif" width=125 height=20 alt="affiliates"><BR>
+<?php include("site/affiliates.txt"); ?>
+<P>
+<IMG src="site/img/topsites.gif" width=125 height=20 alt="topsites"><BR>
+<?php include("site/topsites.txt"); ?>
+</CENTER>
+<P>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_new.gif" width=125 height=20 alt="what's up"><BR>
+<A href="<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>1_release.php">Recent Releases</A><BR>
+<?php include("site/menu$menu/release.txt"); ?>
+<P align=center>
+Next Anime Episodes
+<?php
+include("site/menu$menu/newanime.txt");
+if(isset($us)) { ?>
+<B>US : <?= $us['date']; ?></B><BR>
+#<?= $us['num']; ?> : "<?= $us['title']; ?>"<BR>
+<IMG src="site/menu<?= $menu; ?>/newanime/us/<?= $us['num']; ?>.jpg" alt="Screenshot">
+<?php ;}
+if(isset($jp)) { ?><BR>
+<B>Japan : <?= $jp['date']; ?></B><BR>
+#<?= $jp['num']; ?> : "<?= $jp['title']; ?>"<BR>
+<IMG src="site/menu<?= $menu; ?>/newanime/jp/<?= $jp['num']; ?>.jpg" alt="Screenshot">
+<?php ;} ?>
+</P>
+<P>
+New/Updated Pages<BR>
+<?php include("site/update.txt"); ?>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_quote.gif" width=125 height=20 alt="quote"><BR>
+<?php
+$quotes = file("site/menu$menu/quote.txt");
+$quote = rand(0, sizeof($quotes)-1);
+echo $quotes[$quote];
+?>

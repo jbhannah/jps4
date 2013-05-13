@@ -1,0 +1,16 @@
+<?php
+$cardnum="S4";
+$name="Billion-Degree Dragon";
+$type="creature";
+$power=15000;
+$civ="Fire";
+$cost=10;
+$race="Armored Dragon";
+$effect=array(
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="The Megapocalypse woke it from its slumber deep within the molten core of the planet. It is the avenger of the world. It is legendary. And it is very, very cranky.";
+$other="Scan from January 2005 D-MAX Survivors of the Megapocalypse poster.";
+$rarity="superrare";
+$rating=10;
+?>

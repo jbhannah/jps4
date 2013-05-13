@@ -1,0 +1,21 @@
+<?php
+$name="Koffing";
+$type="pkmn";
+$hp=50;
+$lv=13;
+$element="grass";
+$weak="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("grass","grass"),
+		"name"=>"Foul Gas",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Poisoned; if tails, it is now Confused."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=5;
+?>

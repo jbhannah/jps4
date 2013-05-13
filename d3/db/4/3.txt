@@ -1,0 +1,15 @@
+<?php
+$name="Trox, General of Destruction";
+$type="creature";
+$power=6000;
+$civ="Darkness";
+$cost=7;
+$race="Demon Command";
+$effect=array(
+	"When you put this creature into the battle zone, your opponent discards a card at random from his hand for each other darkness creature you have in the battle zone.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="\"Say goodbye to the daytime.\"";
+$rarity="veryrare";
+$rating=8;
+?>

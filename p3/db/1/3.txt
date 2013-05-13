@@ -1,0 +1,27 @@
+<?php
+$name="Chansey";
+$type="pkmn";
+$hp=120;
+$lv=55;
+$element="colorless";
+$weak="fighting";
+$resist="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Scrunch",
+		"text"=>"Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)"
+	),
+	array(
+		"cost"=>array("colorless","colorless","colorless","colorless"),
+		"name"=>"Double-edge",
+		"damage"=>"80",
+		"text"=>"Chansey does 80 damage to itself."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=4;
+?>

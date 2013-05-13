@@ -1,0 +1,26 @@
+&nbsp;: <A href="pokedex.php">jps4 Pok&eacute;dex</A><BR>
+GameBoy<BR>
+&nbsp;: <A href="p2_redblue.php">Red &amp; Blue/Green</A><BR>
+&nbsp;: <A href="p2_pinball.php">Pok&eacute;mon Pinball</A><BR>
+&nbsp;: <A href="p2_yellow.php">Pok&eacute;mon Yellow</A><BR>
+&nbsp;: <A href="p2_tcg1.php">Pok&eacute;mon TCG 1</A><BR>
+&nbsp;: <A href="p2_goldsilver.php">Pkmn Gold &amp; Silver</A><BR>
+&nbsp;: <A href="p2_puzzchallenge.php">Puzzle Challenge</A><BR>
+&nbsp;: <A href="p2_crystal.php">Pok&eacute;mon Crystal</A><BR>
+&nbsp;: <A href="p2_tcg2.php">Pok&eacute;mon TCG 2</A><BR>
+&nbsp;: <A href="p2_rubysapphire.php">Ruby &amp; Sapphire</A><BR>
+&nbsp;: <A href="p2_rspinnball.php">Pinball Ruby/Sapp.</A><BR>
+&nbsp;: <A href="p2_fireleaf.php">FireRed/LeafGreen</A><BR>
+&nbsp;: <A href="p2_emerald.php">Pok&eacute;mon Emerald</A><BR>
+Console<BR>
+&nbsp;: <A href="p2_snap.php">Pok&eacute;mon Snap</A><BR>
+&nbsp;: <A href="p2_stadium1.php">Pok&eacute;mon Stadium</A><BR>
+&nbsp;: <A href="p2_puzzleleague.php">Puzzle League</A><BR>
+&nbsp;: <A href="p2_pikachu.php">Hey You, Pikachu!</A><BR>
+&nbsp;: <A href="p2_stadium2.php">Pkmn Stadium 2</A><BR>
+&nbsp;: <A href="p2_pokemonbox.php">Pok&eacute;mon Box R/S</A><BR>
+&nbsp;: <A href="p2_channel.php">Pok&eacute;mon Channel</A><BR>
+&nbsp;: <A href="p2_colosseum.php">Pkmn Colosseum</A><BR>
+Nintendo DS<BR>
+&nbsp;: <A href="p2_pokemondash.php">Pok&eacute;mon Dash</A><BR>
+&nbsp;: <A href="p2_diamondpearl.php">Diamond &amp; Pearl</A><BR>

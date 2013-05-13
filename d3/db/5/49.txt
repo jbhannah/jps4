@@ -1,0 +1,12 @@
+<?php
+$name="Brutal Charge";
+$type="spell";
+$civ="Nature";
+$cost=2;
+$effect=array(
+	"At the end of this turn, search your deck. For each of your opponent's shields your creatures broke this turn, you may take a creature from your deck, show it to your opponent, and put it into your hand. Then shuffle your deck."
+);
+$flatext="Rondu started to regret joining Wrugh's carpool.";
+$rarity="rare";
+$rating=8;
+?>

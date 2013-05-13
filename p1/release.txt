@@ -1,0 +1,27 @@
+<?php
+$release=array(
+	array(
+		"event"=>"Pok&eacute;mon TCG: EX Deoxys",
+		"date"=>"14 Feb 2005",
+		"platform"=>"TCG",
+		"notes"=>"100+ new cards, Pok&eacute;mon \"star\", new Special Energy, and Pok&eacute;mon-ex."
+	),
+	array(
+		"event"=>"Pok&eacute;mon: Destiny Deoxys",
+		"date"=>"15 Feb 2005",
+		"platform"=>"DVD/VHS",
+		"img"=>"20050215_dvd.jpg"
+	),
+	array(
+		"event"=>"Pok&eacute;mon Dash",
+		"date"=>"~Mar 2005",
+		"platform"=>"Nintendo DS"
+	),
+	array(
+		"event"=>"Pok&eacute;mon Emerald",
+		"date"=>"Spring 2005",
+		"platform"=>"GBA",
+		"notes"=>"See the Pok&eacute;mon Emerald page for details."
+	)
+);
+?>

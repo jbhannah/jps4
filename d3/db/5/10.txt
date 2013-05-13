@@ -1,0 +1,14 @@
+<?php
+$name="Kulus, Soulshine Enforcer";
+$type="creature";
+$power=3500;
+$civ="Light";
+$cost=4;
+$race="Beserker";
+$effect=array(
+	"When you put this creature into the battle zone, if your opponent has more cards in his mana zone than you have in yours, but the top card of your deck into your mana zone."
+);
+$flavtext="Right-side up, it's solar powered. Upside down, it's lunar powered!";
+$rarity="common";
+$rating=6;
+?>

@@ -1,0 +1,9 @@
+<?php
+$name="Energy Retrieval";
+$type="trainer";
+$text="Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=8;
+?>

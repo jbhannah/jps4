@@ -1,0 +1,9 @@
+<?php
+$name="Pok&eacute;mon Center";
+$type="trainer";
+$text="Remove all damage counters from all of your own Pok&eacute;mon with damage counters on them, then discard all Energy cards attached to those Pok&eacute;mon.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

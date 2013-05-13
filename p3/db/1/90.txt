@@ -1,0 +1,9 @@
+<?php
+$name="Super Potion";
+$type="trainer";
+$text="Discard 1 Energy card attached to 1 of your Pok&eacute;mon in order to remove up to 4 damage counters from that Pok&eacute;mon.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=7;
+?>

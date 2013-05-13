@@ -1,0 +1,27 @@
+
+Unique Visitors Counter 1.2	
+Copyright:cgixp team			 
+Website:http://www.cgixp.tk	
+Visit our Forum for help		
+Email:mali75850@yahoo.com	  
+
+
+A Very simple Script for counting daily unique visitors of
+your website no need of any configuration no database is needed.
+Displays Statistics of the last 30 days.
+Updated version also shows raw visitors.
+
+			INSTALLATION
+
+ UPLOAD ALL THE FILES INTO YOUR HOME DIRECTORY.
+ CHOMD 777 ALL TEXT FILES.
+ ADD THE FOLLOWING CODE INTO YOUR WEBPAGE
+		<?php include "counter.php"; ?>
+ CHANGE THE EXTENSION OF YOUR WEBPAGE FROM .HTML OR .HTM TO .PHP 
+ WEBPAGE AND COUNTER.PHP SHOULD BE IN THE SAME DIRECTORY					  
+TO SEE THE STATISTICS USE THE FOLLOWING URL
+	 HTTP://www.yourserver.com/counter.php?action=stats
+Thats All ;)
+
+		DONT FORGET TO RATE OUR SCRIPT AT HOTSCRIPTS.COM			 
+

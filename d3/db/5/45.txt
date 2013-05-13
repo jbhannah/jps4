@@ -1,0 +1,15 @@
+<?php
+$name="Twin-Cannon Skyterror";
+$type="creature";
+$power=7000;
+$civ="Fire";
+$cost=7;
+$race="Armored Wyvern";
+$effect=array(
+	"Speed attacker <I>(This creature doesn't get summoning sickness.)</I>",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="The first cannon blasts your flesh. The second cannon blasts your soul.";
+$rarity="rare";
+$rating=9;
+?>

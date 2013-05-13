@@ -1,0 +1,26 @@
+<?php
+$name="Porygon";
+$type="pkmn";
+$hp=30;
+$lv=12;
+$element="colorless";
+$weak="fighting";
+$resist="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Conversion 1",
+		"text"=>"If the Defending Pok&eacute;mon has a Weakness, you may change it to a type of your choice other than Colorless."
+	),
+	array(
+		"cost"=>array("colorless","colorless"),
+		"name"=>"Conversion 2",
+		"text"=>"Change Porygon's Resistance to a type of your choice other than Colorless."
+	)
+);
+$rarity=uncommon;
+$price="0.75";
+$firstedn="2.00";
+$rating=2;
+?>

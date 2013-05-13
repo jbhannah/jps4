@@ -1,0 +1,6 @@
+<?php
+$cotwdate="7 February 2005";
+$set=5;
+$card="s5";
+$review="It can't attack creatures, but it doesn't need to: it's a guaranteed (shield-)break every time it attacks your opponent, two if they don't try to block. This card, plus <A href=\"d3_database.php?set=5&card=5\">Obsidian Scarab</A> and Niofa, Horned Protector from Shadowclash, are the source of raw power without a major hitch that Nature decks have been lacking. The relatively low 6-cost helps, too.";
+?>

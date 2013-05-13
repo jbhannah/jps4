@@ -1,0 +1,12 @@
+<?php
+$name="Split-Head Hydroturtle Q";
+$type="creature";
+$power=2000;
+$civ="Water";
+$cost=5;
+$race="Gel Fish";
+$survivor="Whenever this creature attacks, you may draw a card.";
+$flavtext="\"No fair! The more survivors there are, the stronger they become!\" &mdash;Mini Titan Gelt";
+$rarity="uncommon";
+$rating=6;
+?>

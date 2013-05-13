@@ -1,0 +1,6 @@
+<?php
+$cotwdate="19 November 2004";
+$set=21;
+$card=104;
+$review="Two words: Holy. Crap. This is the original (already godly) Base Set 1 Blastoise, on steroids, times about three. The exact same Pok&eacute;mon Power, 50 more Hit Points, and a far more powerful, only slightly more costly attack. It does have one major flaw, though: The fact that its power puts 1 damage counter on the Pok&eacute;mon you attach the Energy card to. However, with this and Team Aqua's Walrein (the most likely neo-Rain Dance combo) having 150 and 120 HP, respectively, that shouldn't make too much of a dent; throw in some Feebas and Milotic (whose power heals all Pok&eacute;mon in play when you evolve it from Feebas), and that extra minus doesn't count for much. All in all, more proof of what I've been saying that the new era of the broken card has begun. (Look for more on neo-Rain Dance in the Deck Garage next week.)";
+?>

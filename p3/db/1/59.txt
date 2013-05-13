@@ -1,0 +1,21 @@
+<?php
+$name="Poliwag";
+$type="pkmn";
+$hp=40;
+$lv=13;
+$element="water";
+$weak="grass";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("water"),
+		"name"=>"Water Gun",
+		"damage"=>"10+",
+		"text"=>"Does 10 damage plus 10 more damage for each <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy attached to Poliwag but not used to pay for this attack's Energy cost. Extra <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy after the 2nd don't count."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

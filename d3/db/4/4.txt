@@ -1,0 +1,16 @@
+<?php
+$name="Doboulgyser, Giant Rock Beast";
+$type="creature";
+$power=8000;
+$civ="Fire";
+$cost=6;
+$race="Rock Beast";
+$evolution=1;
+$effect=array(
+	"When you put this creature into the battle zone, you may destroy one of your opponent's creatures that has power 3000 or less.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="It doesn't bleed. It erupts.";
+$rarity="veryrare";
+$rating=8;
+?>

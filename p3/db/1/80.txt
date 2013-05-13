@@ -1,0 +1,9 @@
+<?php
+$name="Defender";
+$type="trainer";
+$text="Attach Defender to 1 of your Pok&eacute;mon. At the end of your opponent's next turn, discard Defender. Damage done to that Pok&eacute;mon by attacks is reduced by 20 (after applying Weakness and Resistance).";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

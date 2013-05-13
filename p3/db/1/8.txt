@@ -1,0 +1,26 @@
+<?php
+$name="Machamp";
+$type="pkmn";
+$hp=100;
+$lv=67;
+$stage=array("num"=>"2","set"=>"1","card"=>"34","name"=>"Machoke");
+$element="fighting";
+$weak="psychic";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Strikes Back",
+	"text"=>"Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pok&eacute;mon. (Don't apply Weakness and Resistance.) This power can't be used if Machamp is already Asleep, Confused, or Paralyzed when your opponent attacks."
+);
+$attack=array(
+	array(
+		"cost"=>array("fighting","fighting","fighting","colorless"),
+		"name"=>"Seismic Toss",
+		"damage"=>"60"
+	)
+);
+$rarity="rareholo";
+$price="-.--";
+$firstedn="8.00";
+$other="This card was only available as a 1st Edition card in the Pok&eacute;mon 2-player starter set, released December 1998.";
+$rating=6;
+?>

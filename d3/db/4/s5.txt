@@ -1,0 +1,16 @@
+<?php
+$cardnum="S5";
+$name="Niofa, Horned Protector";
+$type="creature";
+$power=9000;
+$civ="Nature";
+$cost=6;
+$race="Horned Beast";
+$evolution=1;
+$effect=array(
+	"When you put this creature into the battle zone, search your deck. You  may take a nature creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
+	"Double breaker <I>(This creature breaks two shields.)</I>"
+);
+$rarity="superrare";
+$rating=8;
+?>

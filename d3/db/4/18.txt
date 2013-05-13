@@ -1,0 +1,12 @@
+<?php
+$name="Whisking Whirlwind";
+$type="spell";
+$civ="Light";
+$cost=1;
+$effect=array(
+	"At the end of the turn, untap all your creatures in the battle zone."
+);
+$flavtext="Get ready for a bad hair day.";
+$rarity="uncommon";
+$rating=8;
+?>

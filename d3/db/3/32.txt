@@ -1,0 +1,12 @@
+<?php
+$name="Snake Attack";
+$type="spell";
+$cost=4;
+$civ="Darkness";
+$effect=array(
+	"Each of your creatures in the battle zone gets \"double breaker\" until the end of this turn. <I>(A creature that has \"double breaker\" breaks 2 shields.)</I>",
+	"Choose one of your shields and put it into your graveyard."
+);
+$rarity="common";
+$rating=8;
+?>

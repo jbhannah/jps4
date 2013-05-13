@@ -1,0 +1,16 @@
+<?php
+$cardnum="S1";
+$name="Rimuel, Cloudbreak Elemental";
+$type="creature";
+$power=6000;
+$civ="Light";
+$cost=8;
+$race="Angel Command";
+$effect=array(
+	"When you put this creature into the battle zone, tap one of your opponent's creatures in the battle zone for each untapped light card in your mana zone.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="\"As the sun streams through the clouds, so shall some other poetic stuff happen.\"";
+$rarity="superrare";
+$rating=8;
+?>

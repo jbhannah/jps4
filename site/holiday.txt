@@ -1,0 +1,10 @@
+<?php
+if(date("dm")=="2511") {echo "Happy Thanksgiving! ";}
+if(date("m")=="12" and date("d")>="7" and date("d")<="15") {echo "Happy Hanukkah! ";}
+if(date("dm")=="2512") {echo "Merry Christmas! ";}
+if(date("dm")=="0101") {echo "Happy New Year! ";}
+if(date("dm")=="1402") {echo "Happy Valentine's Day! ";}
+if(date("dm")=="0505") {echo "Fel&iacute;z Cinco de Mayo! ";}
+if(date("dm")=="0407") {echo "Happy Independence Day! ";}
+if(date("dm")=="3110") {echo "Happy Halloween! ";}
+?>

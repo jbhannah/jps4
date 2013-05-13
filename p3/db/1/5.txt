@@ -1,0 +1,26 @@
+<?php
+$name="Clefairy";
+$type="pkmn";
+$hp=40;
+$lv=14;
+$element="colorless";
+$weak="fighting";
+$resist="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Sing",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Asleep."
+	),
+	array(
+		"cost"=>array("colorless","colorless","colorless"),
+		"name"=>"Metronome",
+		"text"=>"Choose 1 of the Defending Pok&eacute;mon's Attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pok&eacute;mon is, Clefairy's type is still Colorless.)"
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="22.00";
+$rating=3;
+?>

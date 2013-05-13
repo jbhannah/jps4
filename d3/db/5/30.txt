@@ -1,0 +1,14 @@
+<?php
+$name="Jewel Spider";
+$type="creature";
+$power=1000;
+$civ="Darkness";
+$cost=2;
+$race="Brain Jacker";
+$effect=array(
+	"When this creature is destroyed, you may choose one of your shields and put it into your hand. You can't use the \"shield trigger\" ability of that shield."
+);
+$flavtext="It climbs walls, trees&mdash;anything and everything&mdash;in search of warm blood.";
+$rarity="common";
+$rating=7;
+?>

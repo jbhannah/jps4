@@ -1,0 +1,14 @@
+<?php
+$name="Crow Winger";
+$type="creature";
+$power="1000+";
+$civ="Nature";
+$cost=2;
+$race="Beast Folk";
+$effect=array(
+	"This creature gets +1000 power for each water creature and darkness creature your opponent has in the battle zone."
+);
+$flavtext="The Dark Lords' presence in the Fiona Woods warped more than just the trees.";
+$rarity="common";
+$rating=6;
+?>

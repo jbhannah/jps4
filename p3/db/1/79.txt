@@ -1,0 +1,9 @@
+<?php
+$name="Super Energy Removal";
+$type="trainer";
+$text="Discard 1 Energy card attached to 1 of your own Pok&eacute;mon in order to choose 1 of your opponent's Pok&eacute;mon and up to 2 Energy cards attached to it. Discard those Energy cards.";
+$rarity="rare";
+$price="2.00";
+$firstedn="6.00";
+$rating=8;
+?>

@@ -1,0 +1,21 @@
+<?php
+$name="Vulpix";
+$type="pkmn";
+$hp=50;
+$lv=11;
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("fire","fire"),
+		"name"=>"Confuse Ray",
+		"damage"=>"10",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Confused."
+	)
+);
+$rarity="common";
+$price="1.00";
+$firstedn="2.50";
+$rating=4;
+?>

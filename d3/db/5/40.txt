@@ -1,0 +1,12 @@
+<?php
+$name="Cataclysmic Eruption";
+$type="spell";
+$civ="Fire";
+$cost=8;
+$effect=array(
+	"For each nature creature you have in the battle zone, you may choose a card in your opponent's mana zone and put it into his graveyard."
+);
+$flavtext="The skies fell, the seas boiled, the caves collapsed, the volcanoes melted, and the forests burned. The planet cracked open, and the Megapocalypse began.";
+$rarity="rare";
+$rating=8;
+?>

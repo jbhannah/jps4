@@ -1,0 +1,6 @@
+<?php
+$cotwdate="12 November 2004";
+$set=1;
+$card="s1";
+$review="Wizards seems to have a thing with making almost illegally good cards. Seven mana for a 9500 double-breaker. 'Nuff said. (The only thing that could make it better would be unblockability, but that's next week.)";
+?>

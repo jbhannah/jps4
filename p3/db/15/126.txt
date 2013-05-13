@@ -1,0 +1,8 @@
+<?php
+$name="Friend Ball";
+$type="trainer";
+$text="Choose 1 of your opponent's Pok&eacute;mon. Search your deck for a Baby Pok&eacute;mon, Basic Pok&eacute;mon, or Evolution card of the same type (color), show it to your opponent, and put it into your hand. Shuffle your deck afterward.";
+$rarity="uncommon";
+$price="0.20";
+$rating=7;
+?>

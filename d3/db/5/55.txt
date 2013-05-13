@@ -1,0 +1,12 @@
+<?php
+$name="Smash Horn Q";
+$type="creature";
+$power="2000+";
+$civ="Nature";
+$cost=3;
+$race="Horned Beast";
+$survivor="This creature gets +1000 power.";
+$flavtext="The symbol on its back is proof of its refusal to die.";
+$rarity="common";
+$rating=7;
+?>

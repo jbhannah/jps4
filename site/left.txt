@@ -1,0 +1,31 @@
+&nbsp;: <A href="<?= $loc['path']; ?>?menu=1">Pok&eacute;mon menu</A><BR>
+&nbsp;: <A href="<?= $loc['path']; ?>?menu=2">Duel Masters menu</A><BR>
+<IMG src="site/img/main.gif" width=125 height=20 alt="main"><BR>
+&nbsp;: <A href="index.php?menu=<?= $menu; ?>">jps4 Home/News</A><BR>
+&nbsp;: <A href="archive.php?menu=<?= $menu; ?>">News Archives</A><BR>
+&nbsp;: <A href="forums/index.php" target=_blank>jps4 Forums</A><BR>
+&nbsp;: <A href="links.php?menu=<?= $menu; ?>">Links/Link to jps4</A><BR>
+&nbsp;: <A href="affiliate.php?menu=<?= $menu; ?>">Become an Affiliate</A><BR>
+&nbsp;: <A href="topsites/index.php" target=_blank>jps4 Topsites</A><BR>
+&nbsp;: <A href="about.php?menu=<?= $menu; ?>">About jps4</A><BR>
+&nbsp;: <A href="credits.php?menu=<?= $menu; ?>">Credits &amp; Legal</A><BR>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_etc.gif" width=125 height=20 alt="et cetera"><BR>
+<?php include("site/menu$menu/etc.txt"); ?>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_games.gif" width=125 height=20 alt="games"><BR>
+<?php include("site/menu$menu/games.txt"); ?>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_tcg.gif" width=125 height=20 alt="tcg"><BR>
+<?php include("site/menu$menu/tcg.txt"); ?>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_anime.gif" width=125 height=20 alt="anime"><BR>
+<?php include("site/menu$menu/anime.txt"); ?>
+<IMG src="site/img/<?php
+if($menu==1) {echo "p";}
+elseif($menu==2) {echo "d";} ?>_books.gif" width=125 height=20 alt="books"><BR>
+<?php include("site/menu$menu/books.txt"); ?>

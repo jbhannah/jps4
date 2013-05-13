@@ -1,0 +1,26 @@
+<?php
+$name="Mewtwo";
+$type="pkmn";
+$hp=60;
+$lv=53;
+$element="psychic";
+$weak="psychic";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("psychic","colorless"),
+		"name"=>"Psychic",
+		"damage"=>"10+",
+		"text"=>"Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pok&eacute;mon."
+	),
+	array(
+		"cost"=>array("psychic","psychic"),
+		"name"=>"Barrier",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/psychic.gif\" align=middle> Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+	)
+);
+$rarity="rareholo";
+$price="8.00";
+$firstedn="20.00";
+$rating=6;
+?>

@@ -1,0 +1,12 @@
+<?php
+$name="Gigaling Q";
+$type="creature";
+$power=2000;
+$civ="Darkness";
+$cost=5;
+$race="Chimera";
+$survivor="Slayer <I>(Whenever this creature battles, destroy the other creature after the battle.)</I>";
+$flavtext="Did the Megapocalypse create the Survivors, or did it just set them free?";
+$rarity="common";
+$rating=5;
+?>

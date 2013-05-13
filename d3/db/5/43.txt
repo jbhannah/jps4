@@ -1,0 +1,14 @@
+<?php
+$name="Rikabu, the Dismantler";
+$type="creature";
+$power=1000;
+$civ="Fire";
+$cost=3;
+$race="Machine Eater";
+$effect=array(
+	"Speed attacker <I>(This creature doesn't get summoning sickness.)</I>"
+);
+$flavtext="\"I'll have that ripped apart in no time!\"";
+$rarity="common";
+$rating=4;
+?>

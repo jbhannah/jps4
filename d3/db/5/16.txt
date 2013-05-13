@@ -1,0 +1,15 @@
+<?php
+$name="Aqua Surfer";
+$type="creature";
+$power=2000;
+$civ="Water";
+$cost=6;
+$race="Liquid People";
+$trigger=1;
+$effect=array(
+	"When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand."
+);
+$flavtext="\"Wave goodbye!\"";
+$rarity="uncommon";
+$rating=6;
+?>

@@ -1,0 +1,14 @@
+<?php
+$name="Bloodwing Mantis";
+$type="creature";
+$power=6000;
+$civ="Nature";
+$cost=5;
+$race="Giant Insect";
+$effect=array(
+	"Whenever this creature attacks, return 2 creatures from your mana zone to your hand."
+);
+$flavtext="From the moment it's born to the moment it dies, its wings never stop moving.";
+$rarity="rare";
+$rating=8;
+?>

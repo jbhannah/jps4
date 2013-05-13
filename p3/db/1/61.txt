@@ -1,0 +1,20 @@
+<?php
+$name="Rattata";
+$type="pkmn";
+$hp=30;
+$lv=9;
+$element="colorless";
+$weak="fighting";
+$resist="psychic";
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Bite",
+		"damage"=>"20"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

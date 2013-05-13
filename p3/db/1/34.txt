@@ -1,0 +1,28 @@
+<?php
+$name="Machoke";
+$type="pkmn";
+$hp=80;
+$lv=40;
+$stage=array("num"=>"1","set"=>"1","card"=>"52","name"=>"Machop");
+$element="fighting";
+$weak="psychic";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("fighting","fighting","colorless"),
+		"name"=>"Karate Chop",
+		"damage"=>"50-",
+		"text"=>"Does 50 damage minus 10 damage for each damage counter on Machoke."
+	),
+	array(
+		"cost"=>array("fighting","fighting","colorless","colorless"),
+		"name"=>"Submission",
+		"damage"=>"60",
+		"text"=>"Machoke does 20 damage to itself."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=4;
+?>

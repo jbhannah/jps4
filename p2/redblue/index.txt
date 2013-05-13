@@ -1,0 +1,4 @@
+Release Date: <!--Release date--><BR>
+Platform: GameBoy<BR>
+<?php $box = rand(1,3); ?>
+<?php echo "<IMG src='p2/redblue/img/box$box.jpg' width=100 height=100 alt='Pok&eacute;mon Red &amp; Blue/Green'>" ?>

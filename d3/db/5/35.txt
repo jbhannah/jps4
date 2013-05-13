@@ -1,0 +1,14 @@
+<?php
+$name="Wisp Howler, Shadow of Tears";
+$type="creature";
+$power=2000;
+$civ="Darkness";
+$cost=3;
+$race="Ghost";
+$effect=array(
+	"Nature and light slayer <I>(Whenever tthis creature battles a nature or light creature, destroy the nature or light creature after the battle.)</I>"
+);
+$flavtext="Although it has no body to feed, it never stops devouring souls.";
+$rarity="common";
+$rating=7;
+?>

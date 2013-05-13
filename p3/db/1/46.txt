@@ -1,0 +1,26 @@
+<?php
+$name="Charmander";
+$type="pkmn";
+$hp=50;
+$lv=10;
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Scratch",
+		"damage"=>"10"
+	),
+	array(
+		"cost"=>array("fire","colorless"),
+		"name"=>"Ember",
+		"damage"=>"30",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/fire.gif\" align=middle> Energy card attached to Charmander in order to use this attack."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=6;
+?>

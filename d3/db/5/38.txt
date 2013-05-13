@@ -1,0 +1,14 @@
+<?php
+$name="Bombat, General of Speed";
+$type="creature";
+$power=3000;
+$civ="Fire";
+$cost=5;
+$race="Dragonoid";
+$effect=array(
+	"Speed attacker <I>(This creature doesn't get summoning sickness.)</I>"
+);
+$flavtext="\"Too slow! Do I have to sit on a rocket to go faster?!\"";
+$rarity="uncommon";
+$rating=7;
+?>

@@ -1,0 +1,27 @@
+<?php
+$name="Starmie";
+$type="pkmn";
+$hp=60;
+$lv=28;
+$stage=array("num"=>"1","set"=>"1","card"=>"65","name"=>"Staryu");
+$element="water";
+$weak="lightning";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("water","water"),
+		"name"=>"Recover",
+		"text"=>"Discard 1 <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie."
+	),
+	array(
+		"cost"=>array("water","colorless","colorless"),
+		"name"=>"Star Freeze",
+		"damage"=>"20",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Paralyzed."
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=5;
+?>

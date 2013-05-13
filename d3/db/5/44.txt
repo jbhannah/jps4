@@ -1,0 +1,15 @@
+<?php
+$name="Ruthless Skyterror";
+$type="creature";
+$power=6000;
+$civ="Fire";
+$cost=4;
+$race="Armored Wyvern";
+$effect=array(
+	"This creature can attack untapped creatures.",
+	"This creature can't attack players."
+);
+$flavtext="\"If you don't kneel before my wrath, you'll certainly kneel after it.\"";
+$rarity="common";
+$rating=7;
+?>

@@ -1,0 +1,8 @@
+<?php
+$name="Fire Energy";
+$type="energy-basic";
+$element="fire";
+$rarity="common";
+$price="0.20";
+$rating=10;
+?>

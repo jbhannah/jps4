@@ -1,0 +1,6 @@
+<?php
+$cotwdate="7 February 2005";
+$set=3;
+$card=20;
+$review="This is one of my favorite early Psychic cards. 30-for-3 seems expensive at first, but it does an extra 10 to the Benched Pok&eacute;mon of your choice. That plus Curse, which moves a damage counter from one opposing Pok&eacute;mon to another, lets you target pretty much any of your opponent's Pok&eacute;mon that you want, Active or Benched: either kick the damage done per-turn up to 40, or pull 10 onto a Benched Pok&eacute;mon and then add on another 10. Played right, this card can really mess with your opponent's head by forcing them to shift their attention between their Active and Benched Pok&eacute;mon while you easily bounce back and forth between piling damage on top of the two. 80 HP, a 1 Retreat Cost and no Weakness, plus strong supporting Basic and first stages (Fossil Gastly and Haunter; the Base Set versions are worthless) make this a decent base for a mono-Psychic deck.";
+?>

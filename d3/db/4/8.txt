@@ -1,0 +1,14 @@
+<?php
+$name="Fu Reil, Seeker of Storms";
+$type="creature";
+$power=5000;
+$civ="Light";
+$cost=6;
+$race="Mecha Thunder";
+$effect=array(
+	"Players can't use the \"shield trigger\" abilites of darkness cards."
+);
+$flavtext="\"The only smoke screen coming from Ballom will be the one billowing off of his smoldering carcass.\"";
+$rarity="uncommon";
+$rating=7;
+?>

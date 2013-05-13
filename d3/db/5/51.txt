@@ -1,0 +1,12 @@
+<?php
+$name="Enchanted Soil";
+$type="spell";
+$civ="Nature";
+$cost=4;
+$effect=array(
+	"Put up to 2 creatures from your graveyard into your mana zone."
+);
+$flavtext="\"Souls don't truly depart this world. They merely rest for a time.\" &mdash;Fighter Dual Fang";
+$rarity="uncommon";
+$rating=9;
+?>

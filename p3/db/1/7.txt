@@ -1,0 +1,25 @@
+<?php
+$name="Hitmonchan";
+$type="pkmn";
+$hp=70;
+$lv=33;
+$element="fighting";
+$weak="psychic";
+$retreat=2;
+$attack=array(
+	array(
+		"cost"=>array("fighting"),
+		"name"=>"Jab",
+		"damage"=>"20"
+	),
+	array(
+		"cost"=>array("fighting","fighting","colorless"),
+		"name"=>"Special Punch",
+		"damage"=>"40"
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=7;
+?>

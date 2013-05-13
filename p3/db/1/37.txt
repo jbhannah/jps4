@@ -1,0 +1,27 @@
+<?php
+$name="Nidorino";
+$type="pkmn";
+$hp=60;
+$lv=35;
+$stage=array("num"=>"1","set"=>"1","card"=>"55","name"=>"Nidoran (m)");
+$element="grass";
+$weak="psychic";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Double Kick",
+		"damage"=>"30&times;",
+		"text"=>"Flip 2 coins. This attack does 30 damage times the number of heads."
+	),
+	array(
+		"cost"=>array("grass","grass","colorless","colorless"),
+		"name"=>"Horn Drill",
+		"damage"=>"50"
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

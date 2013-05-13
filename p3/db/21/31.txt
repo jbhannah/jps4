@@ -1,0 +1,25 @@
+<?php
+$name="Charmeleon";
+$type="pkmn";
+$hp=70;
+$stage=array("num"=>"1","set"=>"21","card"=>"58","name"=>"Charmander");
+$element="fire";
+$weak="water";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("fire","colorless"),
+		"name"=>"Flare",
+		"damage"=>"30"
+	),
+	array(
+		"cost"=>array("fire","colorless","colorless"),
+		"name"=>"Damage Burn",
+		"damage"=>"40+",
+		"text"=>"If the Defending Pok&eacute;mon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$rating="8";
+?>

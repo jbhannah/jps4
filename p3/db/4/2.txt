@@ -1,0 +1,26 @@
+<?php
+$name="Blastoise";
+$type="pkmn";
+$hp=100;
+$lv=52;
+$stage=array("num"=>"2","set"=>"4","card"=>"63","name"=>"Wartortle");
+$element="water";
+$weak="lightning";
+$retreat=3;
+$pkmnpower=array(
+	"name"=>"Rain Dance",
+	"text"=>"As often as you like during your turn <I>(before your attack)</I>, you may attach 1 <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy card to 1 of your <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Pok&eacute;mon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+);
+$attack=array(
+	array(
+		"cost"=>array("water","water","water"),
+		"name"=>"Hydro Pump",
+		"damage"=>"40+",
+		"text"=>"Does 40 damage plus 10 more damage for each <IMG src=\"p3/db/images/elements/water.gif\" align=middle> Energy attached to Blastiose but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+	)
+);
+$rarity="rareholo";
+$price="10.00";
+$firstedn="28.00";
+$rating=8;
+?>

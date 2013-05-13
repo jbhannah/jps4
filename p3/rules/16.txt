@@ -1,0 +1,11 @@
+Usually the amount of damage an attack does will not depend on the order in which you do things. But if you have to figure out an attack in which a lot of different things might change the damage, follow these steps in order (skip any steps that do not apply to that attack).
+<OL type="a">
+<LI>Start with the base damage. This is the number written to the right of the attack, or, if that number has an <B>&times</B>, <B>-</B>, <B>+</B>, or <B>?</B> next to it, it is the amount of damage the attack text tells you to do.<P>
+<LI>Figure out damage effects on the Attacking Pok&eacute;mon (for example, the Darkness Energy effect, or Altaria's Dragon Dance). Then if the base damage is 0 (or if the attack does not do any damage at all), just stop figuring the damage. You are done now. Otherwise, keep going.<P>
+<LI>Double the damage if the Defending Pok&eacute;mon has Weakness to the Attacking Pok&eacute;mon's type.<P>
+<LI>Subtract 30 damage if the Defending Pok&eacute;mon has Resistance to the Attacking Pok&eacute;mon's type.<P>
+<LI>Figure out effects of Trainer cards and Energy cards on the Defending Pok&eacute;mon (like Metal Energy, or Buffer Piece).<P>
+<LI>Apply any relevant effects resulting from the Defending Pok&eacute;mon's last attack (for example, Pikachu's Agility) or relevant Pok&eacute;-Powers and Pok&eacute;-Bodies.
+<LI>For each 10 damage the attack ends up doing, place 1 damage counter on the Defending Pok&eacute;mon. (If at this point the damage done turns out to be less than 0, do not do anything.)<P>
+<LI>Now that damage has been done, if the attack does anything other than damage, do all of that.
+</OL>

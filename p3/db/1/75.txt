@@ -1,0 +1,9 @@
+<?php
+$name="Lass";
+$type="trainer";
+$text="You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks.";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating=8;
+?>

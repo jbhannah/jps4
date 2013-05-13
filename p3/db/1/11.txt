@@ -1,0 +1,28 @@
+<?php
+$name="Nidoking";
+$type="pkmn";
+$hp=90;
+$lv=48;
+$stage=array("num"=>"2","set"=>"1","card"=>"37","name"=>"Nidorino");
+$element="grass";
+$weak="psychic";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Thrash",
+		"damage"=>"30+",
+		"text"=>"Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself."
+	),
+	array(
+		"cost"=>array("grass","grass","grass"),
+		"name"=>"Toxic",
+		"damage"=>"20",
+		"text"=>"The Defending Pok&eacute;mon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+	)
+);
+$rarity="rareholo";
+$price="6.00";
+$firstedn="20.00";
+$rating=7;
+?>

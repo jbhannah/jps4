@@ -1,0 +1,13 @@
+<?php
+$sectionnext = $section + 1;
+$sectionprev = $section - 1;
+echo "<TABLE width=100% border=0 cellspacing=0 cellpadding=0><TR><TD width=33% align=left>";
+if($section>1) {
+	echo "<A href='$loc[path]?page=walkthrough&section=$sectionprev'>&lt; Previous</A>"
+;}
+echo "</TD><TD width=34% align=center><A href='$loc[path]?page=walkthrough&section=index'>Section Index</A></TD><TD width=33% align=right>";
+if($section<45) {
+	echo "<A href='$loc[path]?page=walkthrough&section=$sectionnext'>Next &gt;</A>"
+;}
+echo "</TD></TR></TABLE>";
+?>

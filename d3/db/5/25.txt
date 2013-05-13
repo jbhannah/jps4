@@ -1,0 +1,14 @@
+<?php
+$name="Steel-Turret Cluster";
+$type="creature";
+$power=3000;
+$civ="Water";
+$cost=5;
+$race="Cyber Cluster";
+$effect=array(
+	"This creature can't be attacked by fire or nature creatures."
+);
+$flavtext="After an analysis of its aremor was performed,l a squad of decoy troops was quickly constructed.";
+$rarity="common";
+$rating=7;
+?>

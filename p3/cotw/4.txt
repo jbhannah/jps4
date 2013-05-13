@@ -1,0 +1,6 @@
+<?php
+$cotwdate="12 November 2004";
+$set=7;
+$card=16;
+$review="The Sabrina's Abra evolution line is a must-have in any Psychic-based deck, for the sole purpose of having this card, which is easily one of the best out of both Gym expansions. It might be a bit off-putting at first, with 80 HP, an expensive attack that can only work every other turn, and a high retreat cost, but its Pok&eacute;mon Power more than makes up for that by giving Sabrina's Alakazam a copy of every attack of every Psychic Pok&eacute;mon you control. With this, you don't have to wait to attack; you can use a 3-energy attack one turn, Mega Burn the next, and then use another attack right after that, then Mega Burn again, et cetera, et cetera. Like I said, this card thrives in mono-Psychic decks; it's worse than useless as a splash card.";
+?>

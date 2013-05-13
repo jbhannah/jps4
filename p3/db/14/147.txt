@@ -1,0 +1,8 @@
+<?php
+$name="Warp Energy";
+$type="energy-other";
+$text="Warp Energy provides 1 <IMG src=\"p3/db/images/elements/colorless.gif\" align=middle> Energy. When you attach Warp Energy from your hand to your Active Pok&eacute;mon, switch your Active Pok&eacute;mon with 1 of your Benched Pok&eacute;mon.";
+$rarity="uncommon";
+$price="0.75";
+$rating=5;
+?>

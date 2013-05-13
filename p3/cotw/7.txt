@@ -1,0 +1,6 @@
+<?php
+$cotwdate="4 December 2004";
+$set=21;
+$card=17;
+$review="You don't often hear much about Victreebel, but this version is worth a second glance: 10 damage to each Defending Pok&eacute;mon per turn (assuming you're playing either a Victreebel-based doubles deck or a regular game), and a second-turn 50 that makes it almost impossible for the Defending Pok&eacute;mon to escape. 110 HP and a retreat cost of 2 don't hurt either. Weepinbell can hold its own too, with a first-turn 20 and a second-turn 10-plus-burn. Definitely a staple in any part- or mono-Grass deck.";
+?>

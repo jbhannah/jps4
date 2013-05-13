@@ -1,0 +1,9 @@
+<?php
+$name="Pok&eacute;dex";
+$type="trainer";
+$text="Look at up to 5 cards from the top of your deck and rearrange them as you like.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=6;
+?>

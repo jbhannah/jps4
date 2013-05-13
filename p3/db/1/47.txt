@@ -1,0 +1,25 @@
+<?php
+$name="Diglett";
+$type="pkmn";
+$hp=30;
+$lv=8;
+$element="fighting";
+$weak="grass";
+$resist="lightning";
+$attack=array(
+	array(
+		"cost"=>array("fighting"),
+		"name"=>"Dig",
+		"damage"=>"10"
+	),
+	array(
+		"cost"=>array("fighting","fighting"),
+		"name"=>"Mud Slap",
+		"damage"=>"30"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=4;
+?>

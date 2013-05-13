@@ -1,0 +1,25 @@
+<?php
+$name="Onix";
+$type="pkmn";
+$hp=90;
+$lv=12;
+$element="fighting";
+$weak="grass";
+$retreat=3;
+$attack=array(
+	array(
+		"cost"=>array("fighting"),
+		"name"=>"Rock Throw",
+		"damage"=>"10"
+	),
+	array(
+		"cost"=>array("fighting","fighting"),
+		"name"=>"Harden",
+		"text"=>"During your opponent's next turn, whenever 30 or less damage is done to Onix (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+	)
+);
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=3;
+?>

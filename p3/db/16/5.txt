@@ -1,0 +1,24 @@
+<?php
+$name="Delcatty";
+$type="pkmn";
+$hp=70;
+$stage=array("num"=>"1","set"=>"16","card"=>"44","name"=>"Skitty");
+$element="colorless";
+$weak="fighting";
+$retreat=1;
+$pokepower=array(
+	"name"=>"Energy Draw",
+	"text"=>"Once during your turn <I>(before your attack)</I>, you may discard 1 Energy card from your hand. Then draw up to 3 cards from your deck. This power can't be used if Delcatty is affected by a Special Condition."
+);
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Max Energy Source",
+		"damage"=>"10&times;",
+		"text"=>"Does 10 damage times the amount of Energy attached to all of your Active Pok&eacute;mon."
+	)
+);
+$rarity="rareholo";
+$price="10.00";
+$rating=6;
+?>

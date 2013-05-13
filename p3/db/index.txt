@@ -1,0 +1,131 @@
+<?php
+$setlist=array(
+	'1'=>array(
+		'name'=>'Base Set 1',
+		'setcount'=>'102',
+		'release'=>'December 1998',
+		'notes'=>'Unlimited edition shadowless error cards are worth 2&times; listed price.'
+	),
+	'2'=>array(
+		'name'=>'Jungle',
+		'setcount'=>'64',
+		'release'=>'June 1999'
+	),
+	'3'=>array(
+		'name'=>'Fossil',
+		'setcount'=>'62',
+		'release'=>'October 1999'
+	),
+	'4'=>array(
+		'name'=>'Base Set 2',
+		'setcount'=>'130',
+		'release'=>'February 2000'
+	),
+	'5'=>array(
+		'name'=>'Team Rocket',
+		'setcount'=>'83',
+		'release'=>'April 2000'
+	),
+	'6'=>array(
+		'name'=>'Gym Heroes',
+		'setcount'=>'132',
+		'release'=>'August 2000'
+	),
+	'7'=>array(
+		'name'=>'Gym Challenge',
+		'setcount'=>'132',
+		'release'=>'August 2000'
+	),
+	'8'=>array(
+		'name'=>'Neo Genesis',
+		'setcount'=>'111',
+		'release'=>'October 2000'
+	),
+	'9'=>array(
+		'name'=>'Neo Discovery',
+		'setcount'=>'75',
+		'release'=>'2001'
+	),
+	'10'=>array(
+		'name'=>'Neo Revelation',
+		'setcount'=>'66',
+		'release'=>'2001'
+	),
+	'11'=>array(
+		'name'=>'Neo Destiny',
+		'setcount'=>'113',
+		'release'=>'2001'
+	),
+	'12w'=>array(
+		'name'=>'Legendary Collection (Wizards of the Coast)',
+		'shortname'=>'Legendary (WotC)',
+		'setcount'=>'110',
+		'release'=>'2002'
+	),
+	'12j'=>array(
+		'name'=>'Versus (Japan)'
+	),
+	'13'=>array(
+		'name'=>'E-TCG Expedition',
+		'setcount'=>'165',
+		'release'=>'2002'
+	),
+	'14'=>array(
+		'name'=>'E-TCG Aquapolis',
+		'setcount'=>'186',
+		'release'=>'2002'
+	),
+	'15'=>array(
+		'name'=>'E-TCG Skyridge',
+		'setcount'=>'150',
+		'release'=>'2003'
+	),
+	'16'=>array(
+		'name'=>'EX Ruby &amp; Sapphire',
+		'shortname'=>'EX Ruby/Sapphire',
+		'setcount'=>'109',
+		'release'=>'2003'
+	),
+	'17'=>array(
+		'name'=>'EX Sandstorm',
+		'setcount'=>'100',
+		'release'=>'2003'
+	),
+	'18'=>array(
+		'name'=>'EX Dragon',
+		'setcount'=>'100',
+		'release'=>'2003'
+	),
+	'19'=>array(
+		'name'=>'EX Team Magma vs. Team Aqua',
+		'shortname'=>'EX Magma vs. Aqua',
+		'setcount'=>'97',
+		'release'=>'2004'
+	),
+	'20'=>array(
+		'name'=>'EX Hidden Legends',
+		'setcount'=>'102',
+		'release'=>'2004'
+	),
+	'21'=>array(
+		'name'=>'EX FireRed &amp; LeafGreen',
+		'shortname'=>'EX FireRed/LeafGrn',
+		'setcount'=>'116',
+		'release'=>'2004'
+	),
+	'22'=>array(
+		'name'=>'EX Team Rocket Returns',
+		'shortname'=>'EX Team Rocket',
+		'setcount'=>'109',
+		'release'=>'19 November 2004'
+	),
+	'wotcpromo'=>array(
+		'name'=>'Wizards of the Coast Promotional Cards',
+		'shortname'=>'WotC Promos'
+	),
+	'epromo'=>array(
+		'name'=>'E-TCG Promotional Cards',
+		'shortname'=>'E-TCG Promos'
+	)
+);
+?>

@@ -1,0 +1,28 @@
+Maps:<BR>
+<TABLE>
+<TR>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/route1.html','mapWin','width=275,height=640')"><IMG src="p2/redblue/img/maps/route1_s.gif" alt="Route 1"><BR>
+Rotue 1</A>
+</TD>
+<TD width=100>
+<A href="javascript:;" onClick="MM_openBrWindow('p2/redblue/walkthrough/maps/viridian.html','mapWin','width=612,height=606')"><IMG src="p2/redblue/img/maps/viridian_s.gif" alt="Viridian City"><BR>
+Viridian City</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+<IMG src="p2/redblue/img/3/1.gif" align=left>
+A narrow strip of tall grass leads from Pallet Town to Route 1. In this tall grass, you may encounter a wild Pok&eacute;mon; if not on this first patch, there's plenty more grass along the route. Handle these battles as you did with the one against your rival back in Professor Oak's Laboratory, except now you have one more option: if you find yourself overpowered in a battle against a wild Pok&eacute;mon, you can choose "Run" to try to escape. This usually works, but it can only be used in battles against wild Pok&eacute;mon and not in trainer battles. Most of the Pok&eacute;mon in this area are level 3 or 4, so you shouldn't have too much trouble with them; the first two or three battles should get your Pok&eacute;mon up to level 7. All of what you'll find here are Pidgey and Ratatta between levels 2 and 5.
+<P>
+<IMG src="p2/redblue/img/3/2.gif" align=right>
+Go through the gap in the ledges on the right side of the route, and right away you'll see a man wandering in that area. Go up to him and press "A" to talk to him; he explains that he works at a Pok&eacute;mon Mart in Viridian City, and he gives you a free Potion, which goes straight to your pack. Use this wisely; you won't be able to buy more in Viridian City for now. Continue north across the next patch of grass, then through one of the openings in the ledge again. To the right there's another patch of grass with a person walking in it, but he doesn't have much interesting to say. Keep going north through the large patch of grass, then to the left and straight north. The sign you pass explains about your Pok&eacute;mon's Power Points (PP); each attack has a set number of PP, which says how many times you can use that attack. Once it reaches 0, you need to replenish that attack's PP with an Ether, Elixer, or a visit to a Pok&eacute;mon Center.
+<P>
+<IMG src="p2/redblue/img/3/3.gif" align=left>
+Just past the sign is an opening in a ledge, and beyond that is a small building that says "POK&eacute;" on the front. This is a Pok&eacute;mon Center; there's one in every major city. Go in through the door and walk up to the lady behind the counter, then press "A" to talk to her. She welcomes you and asks if you want your Pok&eacute;mon healed; if you select "Heal" from the menu, she'll put your Pok&eactue; Balls containing Pok&eacute;mon on a tray next to her, and after a few seconds she'll give them back fully healed of damage, used PP, and status afflictions (poison, confusion, sleep, et cetera).
+<P>
+<IMG src="p2/redblue/img/3/4.gif" align=right>
+On the other side of the Pok&eacute;mon Center is another attendant (for the Cable Club, which you don't need to worry about yet), and a PC like the one in your room. From this one, you can access your item storage, and later on you'll be able to access your Pok&eacute;mon storage, Pok&eacute;dex rating, and Hall of Fame. Right now, you won't have any use for it, so exit the Pok&eacute;mon center and make your way northeast to the Pok&eacute;mon Mart (the building with "MART" on front).
+<P>
+<IMG src="p2/redblue/img/3/5.gif" align=left>
+As soon as you step in to the Pok&eacute;mon Mart, the cashier calls out to you and asks if you are from Pallet Town and know Professor Oak. He gives you something that Professor Oak had ordered, and asks you to take it to him. You then get Oak's Parcel, which doesn't do you any good, and you can't buy anything from the Mart until you come back after delivering the parcel. Once you exit the Mart, you can take a look around town, but the northern part of town is blocked off by a grumpy old man and his granddaughter, and don't go down the route to the west of town yet either (you'll see why in two sections from now), so your only option now is to go back to Pallet Town.

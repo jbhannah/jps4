@@ -1,0 +1,8 @@
+<?php
+$name="Switch";
+$type="trainer";
+$text="Switch 1 of your Active Pok&eacute;mon with 1 of your Benched Pok&eacute;mon.";
+$rarity="common";
+$price="0.20";
+$rating=6;
+?>

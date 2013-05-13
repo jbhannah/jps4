@@ -1,0 +1,6 @@
+<?php
+$cotwdate="4 December 2004";
+$set=4;
+$card=9;
+$review="Another excellent card from Shadowclash, but this one can go in just about any deck. Two mana to give all of your creatures \"Blocker\" until your next turn is awesome. Giving this thing shield trigger is just an added bonus, but combining it (on your turn) with Whisking Whirlwind (1 mana, \"At the end of the turn, untap all your creatures in the battle zone\") could prove to be one of the best tactics for control and stall decks. (It's definitely going in my deck; imagine facing an untapped Hanusa with blocker. ^^)";
+?>

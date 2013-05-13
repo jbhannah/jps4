@@ -1,0 +1,15 @@
+<?php
+$name="Moon Horn";
+$type="creature";
+$power="6000+";
+$civ="Nature";
+$cost=6;
+$race="Horned Beast";
+$effect=array(
+	"This creature gets +1000 power for each water creature and darkness creature your opponent has in the battle zone.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="\"Sometimes he'll go hog wild at a party and totally pig out. But he's usually such a boar.\" &mdash;Fear Fang";
+$rarity="uncommon";
+$rating=7;
+?>

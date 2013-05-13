@@ -1,0 +1,15 @@
+<?php
+$name="Syforce, Aurora Elemental";
+$type="creature";
+$power=7000;
+$civ="Light";
+$cost=7;
+$race="Angel Command";
+$blocker=1;
+$effect=array(
+	"When you put this creature into the battle zone, you may return a spell from your mana zone to your hand.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$rarity="rare";
+$rating=8;
+?>

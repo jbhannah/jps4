@@ -1,0 +1,8 @@
+<UL>
+<LI>Flip a coin to decide who goes first. You can use your special Pok&eacute;mon coin, if you have one.
+<LI>Shuffle your deck and draw a starting hand of 7 cards. Put the rest of your deck face down in front of you.
+<LI>You and your opponent each choose a Basic Pok&eacute;mon from your hands and put them face down. These will be your starting Active Pok&eacute;mon.
+<LI>Each player may, if he or she wishes, choose up to 5 Basic Pok&eacute;mon cards from his or her hand and put them face down on his or her Bench (this is where Pok&eacute;mon wait when they are not Active Pok&eacute;mon).
+<LI>After each player has put down his or her Basic Pok&eacute;mon, put the top 6 cards of your deck face down in front of you. These are your Prizes, which you take when your opponent's Pok&eacute;mon are Knocked Out. You cannot look at a Prize card until you take it.
+<LI>Flip over all of the Active and Benched Pok&eacute;mon that have been put on the table.
+</UL>

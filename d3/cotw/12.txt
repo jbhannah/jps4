@@ -1,0 +1,6 @@
+<?php
+$cotwdate="24 January 2005";
+$set=5;
+$card="s4";
+$review="3-break 15000 for 10. Burnage. Might take a while to get out, and when you do it'll probably be all you do that turn, but when it comes into play it's not going to leave easily. Barring spells and power attackers, no other creature has as much power. All they need now is to find some way to import Trample from MtG....";
+?>

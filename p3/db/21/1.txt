@@ -1,0 +1,25 @@
+<?php
+$name="Beedrill";
+$type="pkmn";
+$hp=90;
+$stage=array("num"=>"2","set"=>"21","card"=>"36","name"=>"Kakuna");
+$element="grass";
+$weak="fire";
+$attack=array(
+	array(
+		"cost"=>array("grass"),
+		"name"=>"Poison Sting",
+		"damage"=>"20",
+		"text"=>"The Defending Pok&eacute;mon is now Poisoned."
+	),
+	array(
+		"cost"=>array("grass","colorless","colorless"),
+		"name"=>"Link Needle",
+		"damage"=>"50+",
+		"text"=>"This attack does 50 daamge plus 30 more damage for each Beedrill (excluding this one) you have in play."
+	)
+);
+$rarity="rareholo";
+$price="8.00";
+$rating=8;
+?>

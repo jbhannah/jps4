@@ -1,0 +1,9 @@
+<?php
+$name="Impostor Professor Oak";
+$type="trainer";
+$text="Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.";
+$rarity="rare";
+$price="1.00";
+$firstedn="4.00";
+$rating=7;
+?>

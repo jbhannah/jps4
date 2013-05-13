@@ -1,0 +1,44 @@
+BODY {
+	background-color: #393939;
+	color: #C0C0C0;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 10px;
+}
+TD {
+	vertical-align: top;
+	font-size: 10px;
+}
+TD.light {
+	background-color: #6C6C6C;
+}
+A {
+	color: #9999FF;
+	text-decoration: none;
+}
+A:hover {
+	text-decoration: overline;
+}
+DIV.head {
+	font-weight: bold;
+	font-size: 16px;
+}
+DIV.subhead {
+	font-weight: bold;
+	font-size: 13px;
+}
+SELECT {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 10px;
+}
+INPUT {
+	font-size: 10px;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+TEXTAREA {
+	font-size: 10px;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	border: 0;
+}
+IMG {
+	border: 0;
+}

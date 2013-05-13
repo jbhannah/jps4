@@ -1,0 +1,12 @@
+<?php
+$name="Blazosaur Q";
+$type="creature";
+$power="1000+";
+$civ="Fire";
+$cost=2;
+$race="Rock Beast";
+$survivor="Power attacker +1000 <I>(While attacking, this creature gets +1000 power.)</I>";
+$flavtext="The Blazosaur's roar echoes in the ears of every Survivor.";
+$rarity="common";
+$rating=4;
+?>

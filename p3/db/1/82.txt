@@ -1,0 +1,9 @@
+<?php
+$name="Full Heal";
+$type="trainer";
+$text="Your Active Pok&eacute;mon is no longer Asleep, Confused, Paralyzed, or Poisoned.";
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=7;
+?>

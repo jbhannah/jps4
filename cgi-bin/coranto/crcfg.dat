@@ -1,0 +1,81 @@
+# WARNING: This is a generated (and frequently re-generated)
+# file. DO NOT EDIT.
+
+@fieldDB = (q~Subject~, q~Text~);
+@fieldDB_internalorder = (q~Subject~, q~User~, q~Text~, q~newsid~, q~newstime~, q~Category~);
+%fieldDB = (
+'Subject' => { 'FieldSize' => q~45~,
+'FieldType' => q~1~,
+'SubmitPerm' => q~0~,
+'DisplayName' => q~Subject~,
+'ModifyPerm' => q~0~ },
+'Text' => { 'Newlines' => q~1~,
+'FieldRows' => q~15~,
+'FieldType' => q~2~,
+'SubmitPerm' => q~0~,
+'DisplayName' => q~News Text~,
+'FieldCols' => q~60~,
+'ModifyPerm' => q~0~ });
+%LoginMessages = (
+'Disable' => q~Your account has been disabled. Contact the administrator of this site for more information.~,
+'Fail_Title' => q~Login Failure~,
+'Fail_Message' => q~The information you entered is incorrect. Please use your browser's Back button and try again.~,
+'Login' => q~Log In~,
+'Title' => q~Coranto Login (Authorized Users Only)~,
+'Password' => q~Password:~,
+'Remember' => q~Remember Password?~,
+'Username' => q~Username:~);
+@Week_Days = (q~Sunday~, q~Monday~, q~Tuesday~, q~Wednesday~, q~Thursday~, q~Friday~, q~Saturday~);
+@Months = (q~January~, q~February~, q~March~, q~April~, q~May~, q~June~, q~July~, q~August~, q~September~, q~October~, q~November~, q~December~);
+%NewsStyles = (
+'Default' => { 'Type' => q~Standard~,
+'RawStyle' => q~<?php
+$user=<Field: User>;
+if($user=="_JB_") {$user="JB";}
+?>
+<TABLE width=490 border=0 cellpadding=0>
+<TR><TD class=light colspan=2><DIV class=subhead><Field: Subject></DIV></TD></TR>
+<TR>
+<TD align=center width=65><A href="mailto:<Field: UserField_Email>"><IMG src="/site/img/<Field: User>.gif" alt="<?php echo $user; ?>"></A></TD>
+<TD width=420><Field: Text></TD>
+</TR>
+<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="mailto:<Field: UserField_Email>"><?php echo $user; ?></A> - <Field: Date> <Field: Hour>:<Field: Minute> <Field: AMPM></TD></TR></TABLE>
+<P>~,
+'FullName' => q~Default Style~ },
+'ArchiveLink' => { 'Type' => q~Archive Link~,
+'RawStyle' => q~<A href="archive.php?page=<Field: FileName>"><Field: ArchiveDate></A><BR>~,
+'FullName' => q~Archive Link Style~ },
+'DefaultHeadline' => { 'Type' => q~Standard~,
+'RawStyle' => q~<B><Field: Month_Day> <Field: Month_Name></B> : <Field: Subject><BR>~,
+'FullName' => q~Default Headline Style~ });
+sub NewsStyle_ArchiveLink {
+my $newshtml = qq~<A href="archive.php?page=$FileName">$ArchiveDate</A><BR>~;
+return $newshtml;
+}
+sub NewsStyle_Default {
+my $newshtml = qq~<?php
+\$user=$User;
+if(\$user=="_JB_") {\$user="JB";}
+?>
+<TABLE width=490 border=0 cellpadding=0>
+<TR><TD class=light colspan=2><DIV class=subhead>$Subject</DIV></TD></TR>
+<TR>
+<TD align=center width=65><A href="mailto:$UserField_Email"><IMG src="/site/img/$User.gif" alt="<?php echo \$user; ?>"></A></TD>
+<TD width=420>$Text</TD>
+</TR>
+<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="mailto:$UserField_Email"><?php echo \$user; ?></A> - $Date $Hour:$Minute $AMPM</TD></TR></TABLE>
+<P>~;
+return $newshtml;
+}
+sub NewsStyle_DefaultHeadline {
+my $newshtml = qq~<B>$Month_Day $Month_Name</B> : $Subject<BR>~;
+return $newshtml;
+}
+sub SplitDataFile {
+	($Subject, $User, $Text, $newsid, $newstime, $Category) = split(/\`\`x/, $_[0]);
+}
+sub JoinDataFile {
+	return join('``x', $Subject, $User, $Text, $newsid, $newstime, $Category);
+}
+$validcrcfg = 1;
+1;

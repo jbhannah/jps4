@@ -1,0 +1,8 @@
+<?php
+$name="Pok&eacute;mon Nurse";
+$type="supporter";
+$text="Remove all damage counters from 1 of your Pok&eacute;mon. Then discard all Energy cards attached to that Pok&eacute;mon.";
+$rarity="uncommon";
+$price="0.75";
+$rating=6;
+?>

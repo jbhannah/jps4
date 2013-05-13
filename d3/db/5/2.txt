@@ -1,0 +1,15 @@
+<?php
+$name="King Mazelan";
+$type="creature";
+$power=7000;
+$civ="Water";
+$cost=8;
+$race="Leviathan";
+$effect=array(
+	"When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="It patrols the Cyber Lords' new undersea city. In exchange, it gets to eat any intruders it finds.";
+$rarity="veryrare";
+$rating=8;
+?>

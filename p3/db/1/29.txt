@@ -1,0 +1,27 @@
+<?php
+$name="Haunter";
+$type="pkmn";
+$hp=60;
+$lv=22;
+$stage=array("num"=>"1","set"=>"1","card"=>"50","name"=>"Gastly");
+$element="psychic";
+$resist="fighting";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("psychic"),
+		"name"=>"Hypnosis",
+		"text"=>"The Defending Pok&eacute;mon is now Asleep."
+	),
+	array(
+		"cost"=>array("psychic","psychic"),
+		"name"=>"Dream Eater",
+		"damage"=>"50",
+		"text"=>"You can't use this attack unless the Defending Pok&eacute;mon is Asleep."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating="5";
+?>

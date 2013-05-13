@@ -1,0 +1,17 @@
+<?php
+$cardnum="S5";
+$name="Avalanche Giant";
+$type="creature";
+$power=8000;
+$civ="Nature";
+$cost=6;
+$race="Giant";
+$effect=array(
+	"This creature can't attack creatures.",
+	"Whenever this creature becomes blocked, it breaks one of your opponent's shields.",
+	"Double breaker <I>(This creature breaks 2 shields.)</I>"
+);
+$flavtext="Its name is misleading. Mountains tremble in fear at the sight of it, and that causes avalanches. What it actually does to the mountains is much, much worse.";
+$rarity="superrare";
+$rating=9;
+?>

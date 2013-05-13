@@ -1,0 +1,6 @@
+<?php
+$cotwdate="16 January 2005";
+$set=21;
+$card=98;
+$review="This card brings back to the game, in a sense, the excellent card advantage that Bill and Professor Oak gave to the original game. This time, though, you don't have to waste cards that you might need later to get a new hand; this can also help if you wind up having half of your deck in your hand late in the game and need to start over. It only gives you five cards, compared with seven in the original version, and you can only use it once per turn, but card advantage is card advantage. You'll see this card at least as often, if not more so, than the original Oak.";
+?>

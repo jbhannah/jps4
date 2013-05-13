@@ -1,0 +1,16 @@
+<?php
+$cardnum="S3";
+$name="Death Cruzer, the Annihilator";
+$type="creature";
+$power=13000;
+$civ="Darkness";
+$cost=7;
+$race="Demon Command";
+$effect=array(
+	"When you put this creature into the battle zone, destroy all your other creatures.",
+	"Triple breaker <I>(This creature breaks 3 shields.)</I>"
+);
+$flavtext="Its only friend is the empty echo of death.";
+$rarity="superrare";
+$rating=9;
+?>

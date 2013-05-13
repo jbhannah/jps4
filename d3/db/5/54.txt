@@ -1,0 +1,13 @@
+<?php
+$name="Scissor Scarab";
+$type="creature";
+$power=5000;
+$civ="Nature";
+$cost=7;
+$race="Giant Insect";
+$effect=array(
+	"When you put this creature into the battle zone, search your deck. You may take a Giant Insect from your deck, show that Giant Insect to your opponent, and put it into your hand. Then shuffle your deck."
+);
+$rarity="common";
+$rating=7;
+?>

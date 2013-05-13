@@ -1,0 +1,6 @@
+<?php
+$cotwdate="19 January 2005";
+$set=5;
+$card="s1";
+$review="A painful 11 cost...but for a 12000 triple-breaking blocker. Save up for the midgame, drop this and a Whisking Whirlwind, and have an immovable object in play on turn 11. Next turn, use what you already had built up to take out or tap all of your opponent's creatures, and make a massive dent in or finish off their shields. 12-turn win...not exactly fast, but makes up for it in humiliation factor. Can you say \"pwn3d?\"";
+?>

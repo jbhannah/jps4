@@ -1,0 +1,2 @@
+&nbsp;: <A href="p3_cardoftheweek.php?week=18">Pkmn CotW #18</A><BR>
+&nbsp;: <A href="d3_cardoftheweek.php?week=15">DuelM CotW #15</A><BR>

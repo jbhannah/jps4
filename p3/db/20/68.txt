@@ -1,0 +1,23 @@
+<?php
+$name="Oddish";
+$type="pkmn";
+$hp=50;
+$element="grass";
+$weak="fire";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>"colorless",
+		"name"=>"Poisonpowder",
+		"text"=>"Flip a coin. If heads, the Defending Pok&eacute;mon is now Poisoned."
+	),
+	array(
+		"cost"=>"grass",
+		"name"=>"Razor Leaf",
+		"damage"=>"10"
+	)
+);
+$rarity="common";
+$price="0.20";
+$rating=4;
+?>

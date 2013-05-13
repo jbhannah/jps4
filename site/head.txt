@@ -1,0 +1,2 @@
+<?php include("site/holiday.txt"); ?>Today is <?php echo date("l, j F Y"); ?>.<BR>
+<IMG src="site/img/head.jpg" width=625 height=60 align=center alt="jps4 beta : more than just pok&eacute;mon">

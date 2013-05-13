@@ -1,0 +1,11 @@
+<A href="p5_manga.php">Manga &amp; Comics</A><BR>
+&nbsp;: <A href="p5_manga.php?series=anime">Animation Comic</A><BR>
+&nbsp;: <A href="p5_manga.php?series=magical">Magical Journey</A><BR>
+&nbsp;: <A href="p5_manga.php?series=pokemon">Pok&eacute;mon</A><BR>
+&nbsp;: <A href="p5_manga.php?series=adventures">Pkmn Adventures</A><BR>
+Other Books<BR>
+&nbsp;: <A href="p5_books.php?title=anime">Anime novels</A><BR>
+&nbsp;: <A href="p5_books.php?title=letsfind">Let's Find Pok&eacute;mon</A><BR>
+&nbsp;: <A href="p5_books.php?title=nintendo">Nintendo Guides</A><BR>
+&nbsp;: <A href="p5_books.php?title=handbook">Official Handbook</A><BR>
+&nbsp;: <A href="p5_books.php?title=guides">Third-party guides</A><BR>

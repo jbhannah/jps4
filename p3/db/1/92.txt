@@ -1,0 +1,9 @@
+<?php
+$name="Energy Removal";
+$type="trainer";
+$text="Choose 1 Energy card attached to 1 of your opponent's Pok&eacute;mon and discard it.";
+$rarity="common";
+$price="0.25";
+$firstedn="1.00";
+$rating=9;
+?>

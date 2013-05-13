@@ -1,0 +1,6 @@
+<?php
+$cotwdate="19 January 2005";
+$set=17;
+$card=96;
+$review="This is the Energy Rain killer; Psystorm never does less than 40 damage (10 damage times the 4 Energy used to pay for the attack), and if you have a fully charged Blastoise ex and Team Aqua's Walrein facing you, that's an easy one-shot K/O. Plus, there is hardly any such thing as an empty-hand strategy in Modified, so you can count on Feedback doing a reasonable amount of damage for turn 2. The double weakness and ex effect (2 prizes to your opponent when it gets Knocked Out) are a drawback as always, but the double retreat cost and 150 HP help solve that. A staple in Psychic decks; play it with Mewtwo ex and start handing out the own4g3.";
+?>

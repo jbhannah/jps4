@@ -1,0 +1,26 @@
+<?php
+$name="Magikarp";
+$type="pkmn";
+$hp=30;
+$lv=8;
+$element="water";
+$weak="lightning";
+$retreat=1;
+$attack=array(
+	array(
+		"cost"=>array("colorless"),
+		"name"=>"Tackle",
+		"damage"=>"10"
+	),
+	array(
+		"cost"=>array("water"),
+		"name"=>"Flail",
+		"damage"=>"10&times;",
+		"text"=>"Does 10 damage times the number of damage counters on Magikarp."
+	)
+);
+$rarity="uncommon";
+$price="0.75";
+$firstedn="2.00";
+$rating=2;
+?>
