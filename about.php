@@ -38,7 +38,7 @@ About jps4
 <B>Full Name</B> : Jesse Bruce Hannah<BR>
 <B>Age</B> : 15<BR>
 <B>Birthdate</B> : 20 March 1989<BR>
-<B>E-mail</B> : <A href="mailto:jb@jps.hostultra.com">jb@jps.hostultra.com</A><BR>
+<B>E-mail</B> : <A href="donotsendmailto:jb@jps.hostultra.com">jb@jps.hostultra.com</A><BR>
 <B>AIM</B> : jb1489 <B>MSN</B> : gymleaderzap@msn.com <B>Yahoo!</B> : gymleaderzap<BR>
 <B>Hobbies</B> : Web design/programming, video games, DDR, e-mail, violin, web comics<BR>
 <B>Favorite bands</B> : <A href="http://www.linkinpark.com/" target=_blank>Linkin Park</A>, <A href="http://www.afireinside.net/" target=_blank>AFI</A>, <A href="http://www.theataris.com/" target=_blank>The Ataris</A>, <A href="http://www.evanescence.com/" target=_blank>Evanescence</A>, <A href="http://www.simpleplan.com/" target=_blank>Simple Plan</A>, Eiffel 65, <A href="http://www.holdenrock.com/" target=_blank>Holden</A>, U2, Savage Garden, Creed<BR>

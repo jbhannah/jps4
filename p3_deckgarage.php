@@ -75,7 +75,7 @@ foreach($b as $c) {
 <?php ;} ?>
 <?= $review; ?>
 <P>
-Designed by <?php if(isset($designer['email'])) { ?><A href="mailto:<?= $designer['email']; ?>"><?= $designer['name']; ?></A><?php ;} else { echo $designer['name'];} ?>. Reviewed by <?php if(isset($reviewer['email'])) { ?><A href="mailto:<?= $reviewer['email']; ?>"><?= $reviewer['name']; ?></A><?php ;} else { echo $reviewer['name'];} ?>.
+Designed by <?php if(isset($designer['email'])) { ?><A href="donotsendmailto:<?= $designer['email']; ?>"><?= $designer['name']; ?></A><?php ;} else { echo $designer['name'];} ?>. Reviewed by <?php if(isset($reviewer['email'])) { ?><A href="donotsendmailto:<?= $reviewer['email']; ?>"><?= $reviewer['name']; ?></A><?php ;} else { echo $reviewer['name'];} ?>.
 <P>
 <A href="p3_deckgarage.php">Deck Garage Archives</A>
 <?php ;}

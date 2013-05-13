@@ -2,15 +2,15 @@
 #! NAME ZComment
 #! VERSION beta build 8
 #! DESCRIPTION The ZComment commenting system for Coranto.
-#! HOMEPAGE  http://zcomment.b000.net/help/">Get Help</a>] [<a href="mailto:zac@b000.net">E-Mail Author</a>] [<a href="http://zcomment.b000.net
+#! HOMEPAGE  http://zcomment.b000.net/help/">Get Help</a>] [<a href="donotsendmailto:zac@b000.net">E-Mail Author</a>] [<a href="http://zcomment.b000.net
 
 my $addon = new Addon('zcomment');
 
 CRcough("ERROR: You are using an unsupported version of Coranto, which includes spyware that logs the time and date you access your Coranto configuration. Thanks, and goodnight, folks. For more information, head to http://zcomment.b000.net/usagelog.html and http://zcomment.b000.net/usagelog_logs/") unless ($CConfig{'currentversion'} <= 29) ;
 
 $CConfig{'zcomment_display_text_safe'} = qq~<ZComment: Subject> by <ZComment: Name> at <ZComment: Time> on <ZComment: Date><br><ZComment: Text>~ unless $CConfig{'zcomment_display_text_safe'};
-$CConfig{'zcomment_display_comment_safe'} = qq~<b><ZComment: Subject></b> - <ZComment: If E-Mail><a href="mailto:<ZComment: E-Mail>"></ZComment: If E-Mail><ZComment: Name><ZComment: If E-Mail></a></ZComment: If E-Mail> <ZComment: Title> <b>at</b> <ZComment: Time> <b>on</b> <ZComment: Date><br><ZComment: Comment>~ unless $CConfig{'zcomment_display_comment_safe'};
-$CConfig{'zcomment_display_comment'} = qq~\$html = qq\~ <b>\$subject</b> - <a href=\\"mailto:\$email\\">\$name</a> \$title <b>at</b> \$time <b>on</b> \$date<br>\$comment\~;~ unless $CConfig{'zcomment_display_comment'};
+$CConfig{'zcomment_display_comment_safe'} = qq~<b><ZComment: Subject></b> - <ZComment: If E-Mail><a href="donotsendmailto:<ZComment: E-Mail>"></ZComment: If E-Mail><ZComment: Name><ZComment: If E-Mail></a></ZComment: If E-Mail> <ZComment: Title> <b>at</b> <ZComment: Time> <b>on</b> <ZComment: Date><br><ZComment: Comment>~ unless $CConfig{'zcomment_display_comment_safe'};
+$CConfig{'zcomment_display_comment'} = qq~\$html = qq\~ <b>\$subject</b> - <a href=\\"donotsendmailto:\$email\\">\$name</a> \$title <b>at</b> \$time <b>on</b> \$date<br>\$comment\~;~ unless $CConfig{'zcomment_display_comment'};
 $CConfig{'zcomment_display_text'} = qq~\$html = qq\~ \$Subject by \$User at \$time on \$date<br>\$Text\~\;~ unless $CConfig{'zcomment_display_text'};
 $CConfig{'zcomment_display_registered'} = "(Registered)" unless $CConfig{'zcomment_display_registered'};
 $CConfig{'zcomment_display_anonymous'} = "(Anonymous)" unless $CConfig{'zcomment_display_anonymous'};
@@ -54,7 +54,7 @@ $addon->registerAdminFunction("zcommentsave", "zcomment_save");
 sub zcomment_page {
 
 	$addon->pageHeader("ZComment - Settings");
-	print $addon->form({'action' => 'admin', 'adminarea' => 'zcommentsave'});	
+	print $addon->form({'action' => 'admin', 'adminarea' => 'zcommentsave'});
 	print $addon->settingTable("Comments Title", zcomment_field('zcomment_text'), "Used on the \"Comments\" page for the header of the section, also used for the simple ZComment tag.");
 	print $addon->settingTable("Script URL", zcomment_field('zcomment_url'), "The exact URL to ZComment.<br><strong>Example</strong>: http://www.dummysite.net/coranto/zcomment.cgi");
 	print $addon->settingTable("Comments Directory", zcomment_field('zcomment_location'), "The absolute path to comments directory (which should be chmodded to 777)<br><strong>Example</strong>: /home/user/public_html/coranto/comments/ <em>(yes, use the slash at the end)</em>");

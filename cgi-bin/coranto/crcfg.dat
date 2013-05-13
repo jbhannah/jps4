@@ -36,10 +36,10 @@ if($user=="_JB_") {$user="JB";}
 <TABLE width=490 border=0 cellpadding=0>
 <TR><TD class=light colspan=2><DIV class=subhead><Field: Subject></DIV></TD></TR>
 <TR>
-<TD align=center width=65><A href="mailto:<Field: UserField_Email>"><IMG src="/site/img/<Field: User>.gif" alt="<?php echo $user; ?>"></A></TD>
+<TD align=center width=65><A href="donotsendmailto:<Field: UserField_Email>"><IMG src="/site/img/<Field: User>.gif" alt="<?php echo $user; ?>"></A></TD>
 <TD width=420><Field: Text></TD>
 </TR>
-<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="mailto:<Field: UserField_Email>"><?php echo $user; ?></A> - <Field: Date> <Field: Hour>:<Field: Minute> <Field: AMPM></TD></TR></TABLE>
+<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="donotsendmailto:<Field: UserField_Email>"><?php echo $user; ?></A> - <Field: Date> <Field: Hour>:<Field: Minute> <Field: AMPM></TD></TR></TABLE>
 <P>~,
 'FullName' => q~Default Style~ },
 'ArchiveLink' => { 'Type' => q~Archive Link~,
@@ -60,10 +60,10 @@ if(\$user=="_JB_") {\$user="JB";}
 <TABLE width=490 border=0 cellpadding=0>
 <TR><TD class=light colspan=2><DIV class=subhead>$Subject</DIV></TD></TR>
 <TR>
-<TD align=center width=65><A href="mailto:$UserField_Email"><IMG src="/site/img/$User.gif" alt="<?php echo \$user; ?>"></A></TD>
+<TD align=center width=65><A href="donotsendmailto:$UserField_Email"><IMG src="/site/img/$User.gif" alt="<?php echo \$user; ?>"></A></TD>
 <TD width=420>$Text</TD>
 </TR>
-<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="mailto:$UserField_Email"><?php echo \$user; ?></A> - $Date $Hour:$Minute $AMPM</TD></TR></TABLE>
+<TR><TD class=light colspan=2><DIV align=right>Posted by <A href="donotsendmailto:$UserField_Email"><?php echo \$user; ?></A> - $Date $Hour:$Minute $AMPM</TD></TR></TABLE>
 <P>~;
 return $newshtml;
 }

@@ -26,7 +26,7 @@ DIV.subhead {
 <?php echo $title; ?>
 </DIV>
 <DIV class="subhead">
-By <A href="mailto:<?= $author['email']; ?>"><?= $author['name']; ?></A><BR>
+By <A href="donotsendmailto:<?= $author['email']; ?>"><?= $author['name']; ?></A><BR>
 Chapter <?php echo $chapter;
 if(isset($chaptitle[$chtitle])) {echo " : $chaptitle[$chtitle]";}
 ?>

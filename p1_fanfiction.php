@@ -30,7 +30,7 @@ Latest News
 <?php include("site/left.txt"); ?>
 </TD>
 <TD width=500>
-<DIV class=head> 
+<DIV class=head>
 <?php
 if(!isset($story)) {echo "Fan Fiction Library";}
 else {
@@ -42,7 +42,7 @@ else {
 <?php
 if(isset($story)) {
 	if(!isset($chapter)) {$chapter=1;}
-	echo "<DIV class=subhead>By <A href=\"mailto:",$author['email'],"\">",$author['name'],"</A></DIV><BR>";
+	echo "<DIV class=subhead>By <A href=\"donotsendmailto:",$author['email'],"\">",$author['name'],"</A></DIV><BR>";
 	$x=1;
 	if(file_exists("p1/fanfiction/$story/2.txt")) {
 		echo "Chapter ";
@@ -66,7 +66,7 @@ if(!isset($story)) {
 	while(file_exists("p1/fanfiction/$i/index.txt")) {
 		include("p1/fanfiction/$i/index.txt"); ?>
 <DIV class=subhead><A href="p1_fanfiction.php?story=<?= $i; ?>"><?= $title; ?></A></DIV>
-<B>By <A href="mailto:<?= $author['email']; ?>"><?= $author['name']; ?></A></B><BR>
+<B>By <A href="donotsendmailto:<?= $author['email']; ?>"><?= $author['name']; ?></A></B><BR>
 <?= $desc; ?><BR>
 <B>Rated <?= $rating; ?> : <?php
 $x=0;
